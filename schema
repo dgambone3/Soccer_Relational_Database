@@ -1,1 +1,12 @@
-test schema .txt file
+Schema for Football database. No function to underline in .txt file, so * next to primary keys for now.
+
+Appearance(*apperanceID: int, position:string, assists: int, shots: int, goals: int, cards: int)
+Game(*gameID: int, awayTeamID: int, homeTeamID: int, gameDate: date)
+Outcome(*gameID: int, homeGoals: int, awayGoals: int)
+Venue(*venueID: int, venueName: string, capacity: int)
+Location(*locationID: int, address: string, country:string, city: string)
+Team(*teamID: int, managerID: int, teamName: string)
+Manager(*managerID: int, managerName: string, startDate: date, endDate: date)
+League(*leagueID: int, leagueName: string)
+Season(*leagueID: int, *year: int, winner: string, startDate: date, endDate: date)
+Player(*playerID: int, playerName: string)
