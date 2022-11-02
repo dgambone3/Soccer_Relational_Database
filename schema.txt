@@ -1,0 +1,30 @@
+Schema for Football database. No function to underline in .txt file, so * next to primary keys for now.
+
+Appearance(%*gameID:int, %*playerID:int, position:string, assists:int, numShots:int, goals:int, cards:int)
+Game(*gameID:int, %awayTeamID:int, %homeTeamID: int, %seasonID:int, %venueID:int, gameDate:date)
+Team(*teamID:int, teamName:string)
+GameTeam(%*gameID:int, %*homeTeamID:int, %*awayTeamID:int, homeResult:string, awayResult:string)
+Manager(*managerID:int, managerName:string)
+ManagerTeam(%*managerID:int, %*teamID:int, startDate:date, endDate:date)
+Shot(*shotID:int, %gameID:int, %shooterID:int, %assistID:int, situation:string, shotType:string, shotResult:string)
+Venue(*venueID:int, venueName:string, capacity:int, address:string, city:string, country:string)
+League(*leagueID:int, leagueName:string)
+Season(*seasonID:int, %leagueID:int, year:int, %championID:string, startDate:date, endDate:date)
+Player(*playerID:int, playerName:string)
+
+* = primary key
+% = foreign key
+%* = primary foreign key
+
+TODO: data aggregation:
+    add venues
+        look up team names on wikipedia, 
+        find home stadium/facility (not field)
+        use current venue
+Questions:
+Do join tables with attributes count as our 10 tables?
+AppearIn join table: is this sensible violation of BCNF, or should we rewrite
+            super key but functional dependency
+            justification: redundant results for simpler accessing/aggregation
+            violation: home result implies away result
+In ER diagram, what is conventional way to show attribute is foreign, do we need to show foreign attributes in ER diagram?
