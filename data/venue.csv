@@ -1,0 +1,147 @@
+﻿team name,venueID,venueName,capacity,address,city,country
+AC Milan,1,San Siro,"80,018",Piazzale Angelo Moratti,Milan,Italy
+Alaves,2, Mendizorrotza Stadium,"19,840","Cervantes Ibilbidea, 20",Vitoria-Gasteiz,Spain
+Almeria,3,Powe Horse Stadium,"15,274","C. Alcalde Santiago Martínez Cabrejas, 5",Almeria,Spain
+Amiens,4,Stade de la Licorne,"12,999",25 Rue du Chapitre,Amiens,France
+Angers,5,Raymond Kopa Stadium,"18,752",Bd Pierre de Coubertin,Angers,France
+Arminia Bielefeld,6,Bielefelder Alm,"26,515",Melanchthonstraße 31a,Bielefeld,Germany
+Arsenal,7,Emirates Stadium,"60,260","Hornsey Road, N7 7AJ",London,United Kingdom
+Aston Villa,8,Villa Park,"42,682","Trinity Road, B6 6HE",Birmingham,England
+Atalanta,9,Stadio Atleti Azzurri d'Italia (gewiss),"21,747","Viale Giulio Cesare, 18",Bergamo,Italy
+Athletic Club,10,San Mamés Stadium,"53,331","P.º Rafael Moreno ""Pitxitxi""",Bilbao,Spain
+Atletico Madrid,11,Metropolitano Stadium,"66,456","Av. de Luis Aragonés, 4",Madrid,Spain
+Augsburg,12,Augsburg Arena,"30,660",Bürgermeister-Ulrich-Straße 90,Augsburg,Germany
+Barcelona,13,Camp Nou,"99,354","C. d'Arístides Maillol, 12",Barcelona,Spain
+Bayer Leverkusen,14,BayArena,"30,210",Bismarckstraße 122-124,Leverkusen,Germany
+Bayern Munich,15,Allianz Arena,"75,024",Werner-Heisenberg-Allee 25,München,Germany
+Benevento,16,Ciro Vigorito,"25,000",Via Santa Colomba,Benevento,Italy
+Bologna,17,Renato Dall'Ara,"38,279","Via Andrea Costa, 174",Bologna,Italy
+Bordeaux,18,Nouveau Stade de Bordeaux,"42,115",Cr Jules Ladoumegue,Bordeaux,France
+Borussia Dortmund,19,Westfalenstadion,"81,365",Strobelallee 50,Dortmund,Germany
+Borussia M.Gladbach,20,Borussia-Park,"50,057",Hennes Weisweiler Allee 1,Mönchengladbach,Germany
+Bournemouth,21,Dean Court,"11,379","Kings Park, Boscombe, BH7 7AF",Bournemouth,United Kingdom
+Brescia,22,Stadio Mario Rigamonti,"16,743","Via Giovanni Novagani, 9",Brescia,Italy
+Brest,23,Stade Francis-Le Blé,"15,931",26 Rue de Quimper,Brest,France
+Brighton,24,Falmer Stadium,"31,800","Village Way, BN1 9BL",Brighton,United Kingdom
+Burnley,25,Turf Moor,"21,944","Turf Moor, 52-56 Harry Potts Way, BB10 4BX",Burnley,United Kingdom
+Cadiz,26,Nuevo Mirandilla,"20,724",Pl. de Madrid,Cadiz,Spain
+Caen,27,Stade Michel d'Ornano,"20,972",23 Bd Georges Pompidou,Caen,France
+Cagliari,28,Unipol Domus,"16,416",Via Raimondo Carta Raspi,Cagliari,Italy
+Cardiff,29,Cardiff City Stadium,"33,280","Leckwith Rd, CF11 8AZ",Cardiff,United Kingdom
+Carpi,30,Stadio Sandro Cabassi,"5,510","Via Carlo Marx, 26",Carpi,Italy
+Celta Vigo,31,Estadio Municipal de Balaídos,"29,000",Av. de Balaídos,Vigo,Spain
+Cesena,32,Stadio Dino Manuzzi,"23,860","Via Dello Stadio, 124",Cesena,Italy
+Chelsea,33,Stamford Bridge,"41,837","Fulham Road, SQ6 1HS",London,United Kingdom
+Chievo,34,Stadio Marcantonio Bentegodi,"39,211","Piazzale Olimpia, 2",Verona,Italy
+Cordoba,35,Estadio El Arcángel,"21,989",C. José Ramón García Fernández,Córdoba,Spain
+Crotone,36,Stadio Ezio Scida,"16,547",Via Giovanni Paolo II,Crotone,Italy
+Crystal Palace,37,Selhurst Park,"25,456",Holmesdale Road SE25 6PU,London,United Kingdom
+Darmstadt,38,Merck-Stadion am Böllenfalltor,"17,000",Nieder-Ramstädter Str. 170,Darmstadt,Germany
+Deportivo La Coruna,39,Estadio Municipal de Riazor,"34,899",Rúa Manuel Murguía,A Coruña,Spain
+Dijon,40,Stade Gaston Gérard,"15,995",Pl. Gaston Gérard,Dijon,France
+Eibar,41,Ipurua Futbol Zelaia,"8,164","Ipurua Kalea, 2",Eibar,Spain
+Eintracht Frankfurt,42,Waldstadion,"51,500",Mörfelder Landstraße 362,Frankfurt,Germany
+Elche,43,Estadio Martínez Valero,"31,388",03208 Elche,Alicante,Spain
+Empoli,44,Stadio comunale Carlo Castellani,"16,800",Via delle Olimpiadi,Empoli,Italy
+Espanyol,45,Estadi Cornellà-El Prat (RCDE),"40,000","Av. del Baix Llobregat, 100",Barcelona,Spain
+Everton,46,Goodison Park,"39,572","Goodison Rd, L4 4EL",Liverpool,United Kingdom
+Evian Thonon Gaillard,47,Stade Joseph-Moynat,"6,000",56 Av. du Général de Gaulle,Thonon-les-Bains,France
+FC Cologne,48,RheinEnergieStadion,"50,000",Aachener Str. 999,Koln,Germany
+Fiorentina,49,Stadio Artemio Franchi,"43,147","Viale Manfredo Fanti, 4",Firenze,Italy
+Fortuna Duesseldorf,50,Merkur Spielarena,"54,600",Arena-Straße 1,Düsseldorf,Germany
+Freiburg,51,Europa-Park Stadion,"34,700",Achim-Stocker-Straße 1,Freiburg,Germany
+Frosinone,52,Stadio Benito Stirpe,"16,227",Viale Olimpia,Frosinone,Italy
+Fulham,53,Craven Cottage,"25,700","Stevenage Road, SQ6 6HH",London,United Kingdom
+Genoa,54,Stadio comunale Luigi Ferraris,"36,599","Via Giovanni de Prà, 1",Genova,Italy
+Getafe,55,Estadio Coliseum Alfonso Pérez ,"17,000","Coliseum Alfonso Perez, Av. Teresa de Calcuta",Madrid,Spain
+GFC Ajaccio,56,Stade Ange Casanova,"8,000",Rte de Mezzavia ,Ajaccio,France
+Girona,57,Estadi Montilivi,"13,500","Avinguda de Montilivi, 141",Girona,Spain
+Granada,58,Nuevo Estadio de Los Cármenes,"19,336",C. Pintor Manuel Maldonado,Granada,Spain
+Guingamp,59,Stade municipal de Roudourou,"18,462",Rue du Manoir,Guingamp,France
+Hamburger SV,60,Volksparkstadion,"57,000",Sylvesterallee 7,Hamburg,Germany
+Hannover 96,61,Niedersachsenstadion,"49,200",Robert-Enke-Straße 3,Hanover,Germany
+Hertha Berlin,62,Olympiastadion,"74,475",Olympischer Platz 3,Berlin,Germany
+Hoffenheim,63,Rhein-Neckar-Arena,"30,150",Dietmar-Hopp-Straße 1,Sinsheim,Germany
+Huddersfield,64,Kirklees Stadium,"24,500",Stadium Way HD1 6PG,Huddersfield,United Kingdom
+Hull,65,MKM Stadium,"25,586",Walton Street HU3 6HU,Hull,United Kingdom
+Ingolstadt,66,Audi Sportpark,"15,800",Am Sportpark 1,Ingolstadt,Germany
+Inter,67,San Siro,"80,018",Piazzale Angelo Moratti,Milan,Italy
+Juventus,68,Juventus Stadium,"41,507","Corso Gaetano Scirea, 50",Torino,Italy
+Las Palmas,69,Estadio Gran Canaria,"32,392",C. Fondos de Segura,Las Palmas,Spain
+Lazio,70,Stadio Olimpico,"72,698",Viale dei Gladiatori,Rome,Italy
+Lecce,71,Stadio Ettore Giardiniero - Via del mare,"40,670",Via del Mare,Lecce,Italy
+Leeds,72,Elland Road,"37,972","Elland Road, LS11 0ES",Leeds,United Kingdom
+Leganes,73,Estadio Municipal de Butarque,"12,454",C. Arquitectura,Madrid,Spain
+Leicester,74,King Power Stadium,"32,312","Filbert Wy, LE2 7FL",Leicester,United Kingdom
+Lens,75,Stade Bollaert-Delelis,"38,058",Av. Alfred Maes,Lens,France
+Levante,76,Estadi Ciutat de València,"26,354","Carrer de Sant Vicent de Paül, 44",Valencia,Spain
+Lille,77,Stade Pierre-Mauroy,"50,186",261 Bd de Tournai,Villeneuve-d'Ascq,France
+Liverpool,78,Anfield,"53,394","Anfield Road, L4 0TH",Liverpool,United Kingdom
+Lorient,79,Stade du Moustoir - Yves Allainmat,"18,110",Rue du Tour des Portes,Lorient,France
+Lyon,80,Parc Olympique Lyonnais,"59,186",10 Av. Simone Veil,Décines-Charpieu,France
+Mainz 05,81,Mewa Arena,"33,305",Eugen-Salomon-Straße 1,Mainz,Germany
+Malaga,82,Estadio La Rosaleda,"30,044",P.º Martiricos,Málaga,Spain
+Mallorca,83,Son Moix - Visit Mallorca Stadium,"23,142","23,142",Palma de Mallorca,Spain
+Manchester City,84,City of Manchester Stadium,"53,400","Ashton New Road, M11 3FF",Manchester,United Kingdom
+Manchester United,85,Manchester United,"74,310","Sir Matt Busby Way, M15 0RA",Manchester,United Kingdom
+Marseille,86,Stade Vélodrome,"67,394",3 Bd Michelet,Marseille,France
+Metz,87,Stade Municipal Saint-Symphorien,"30,000",3 Bd Saint-Symphorien,Longeville-lès-Metz,France
+Middlesbrough,88,Riverside Stadium,"34,742",TS3 6RS,Middlesbrough,United Kingdom
+Monaco,89,Stade Louis II,"18,523",7 Av. des Castelans,Fontvieille,Monaco
+Montpellier,90,Stade de la Mosson,"32,900",345 Av. de Heidelberg,Montpellier,France
+Nancy,91,Stade Marcel Picot ,"20,087",90 Bd Jean Jaurès,Tomblaine,France
+Nantes,92,Stade de la Beaujoire – Louis Fonteneau,"37,473",Route de Saint-Joseph,Nantes,France
+Napoli,93,Stadio Diego Armando Maradona,"54,726",Piazzale Vincenzo Tecchio,Napoli,Italy
+Newcastle United,94,St James' Park,"52,405","Barrack Road, NE1 4ST",Newcastle upon Tyne,United Kingdom
+Nice,95,Allianz Riviera,"36,178",Bd des Jardiniers,Nice,France
+Nimes,96,Stade des Costières,"18,364",123 Av. de la Bouvine,Nimes,France
+Norwich,97,Carrow Road,"27,244","Carrow Road, NR1 1JE",Norwich,United Kingdom
+Nuernberg,98,Max-Morlock-Stadion,"50,000",Max-Morlock-Platz 1,Nürnberg,Germany
+Osasuna,99,Estadio El Sadar,"23,576",C. del Sadar,Pamplona,Spain
+Paderborn,100,Home Deluxe Arena,"15,000",Wilfried-Finke-Allee 1,Paderborn,Germany
+Palermo,101,Stadio Renzo Barbera,"36,365","Viale del Fante, 11",Palermo,Italy
+Paris Saint Germain,102,Parc des Princes,"47,929",24 Rue du Commandant Guilbaud,Paris,France
+Parma Calcio 1913,103,Stadio Ennio Tardini,"22,352","Viale Partigiani D'Italia, 1",Parma,Italy
+Pescara,104,Stadio Adriatico – Giovanni Cornacchia,"20,476",Viale V. Pepe,Pescara,Italy
+Queens Park Rangers,105,Loftus Road,"18,439","S Africa Road, W12 7PJ",London,United Kingdom
+RasenBallsport Leipzig,106,Red Bull Arena,"47,069",Am Sportforum 3,Leipzig,Germany
+Rayo Vallecano,107,Campo de Fútbol de Vallecas,"14,505","C. del Payaso Fofó, 0",Madrid,Spain
+Real Betis,108,Estadio Benito Villamarín,"60,721",Av de Heliópolis,Sevilla,Spain
+Real Madrid,109,Santiago Bernabéu Stadium ,"81,044","Av. de Concha Espina, 1",Madrid,Spain
+Real Sociedad,110,Anoeta Stadium,"39,500","1, Anoeta Pasalekua",Donostia-San Sebastián,Spain
+Real Valladolid,111,Estadio José Zorrilla,"27,618",Av. Mundial 8,Valladolid,Spain
+Reims,112,Stade Auguste-Delaune,"21,127",33 Chau. Bocquaine,Reims,France
+Rennes,113,Roazhon Park,"29,778",111 Rue de Lorient,Rennes,France
+Roma,114,Stadio Olimpico,"72,698",Viale dei Gladiatori,Rome,Italy
+Saint-Etienne,115,Stade Geoffroy-Guichard,"41,965",14 Rue Paul et Pierre Guichard,Saint-Étienne,France
+Sampdoria,116,Stadio comunale Luigi Ferraris,"36,599","Via Giovanni de Prà, 1",Genova,Italy
+Sassuolo,117,Mapei Stadium - Città del Tricolore,"21,525","Piazzale Atleti Azzuri D'Italia, 1",Reggio Emilia,Italy
+SC Bastia,118,Stade Armand-Cesari,"16,078","Stade Armand Cesari, Route Du Stad",Furiani,France
+Schalke 04,119,Arena AufSchalke,"62,271",Rudi-Assauer-Platz 1,Gelsenkirchen,Germany
+SD Huesca,120,Estadio El Alcoraz,"9,100",Cam. de Cocorón,Huesca,Spain
+Sevilla,121,Ramón Sánchez Pizjuán Stadium,"43,883",C. Sevilla Fútbol Club,Sevilla,Spain
+Sheffield United,122,Bramall Lane,"32,050","2 Bramall Lane, S2 4SU",Sheffield,England
+Southampton,123,St Mary's Stadium,"32,384","Britannia Road, SO14 5FP",Southampton,United Kingdom
+SPAL 2013,124,Stadio Paolo Mazza,"16,134","Corso Piave, 28",Ferrara,Italy
+Spezia,125,Stadio Alberto Picco,"11,466",Via dei Pioppi,La Spezia,Italy
+Sporting Gijon,126,"Estadio Municipal El Molinón-Enrique Castro ""Quini""","30,000","Calle, Luis Adaro Ruíz Falcó",Gijon,Spain
+Stoke,127,Bet365 Stadium,"30,089",Stanley Matthews Way,Stoke-on-Trent,England
+Strasbourg,128,Stade de la Meinau,"26,109",12 Rue de l'Extenwoerth,Strasbourg,France
+Sunderland,129,Stadium of Light,"49,000","Monkwearmouth, SR5 1SU",Sunderland,United Kingdom
+Swansea,130,Swansea.com Stadium,"21,088","Plasmarl, SA1 2FA",Swansea,United Kingdom
+Torino,131,Stadio Olimpico Grande Torino,"27,958","Via Filadelfia, 96/b",Torino,Italy
+Tottenham,132,Tottenham Hotspur Stadium,"62,850","782 High Road, N17 0BX",London,United Kingdom
+Toulouse,133,Stadium de Toulouse,"33,150",1 All. Gabriel Biénès,Toulouse,France
+Troyes,134,Stade de l'Aube,"20,400",42 Av. Robert Schumann,Troyes,France
+Udinese,135,Stadio Friuli,"25,142","Piazzale Repubblica Argentina, 3",Udine,Italy
+Union Berlin,136,Stadion An der Alten Försterei,"22,012",An d. Wuhlheide 263,Berlin,Germany
+Valencia,137,Mestalla Stadium,"55,000",Av. de Suècia,Valencia,Spain
+Verona,138,Stadio Marcantonio Bentegodi,"39,211","Piazzale Olimpia, 2",Verona,Italy
+VfB Stuttgart,139,Mercedes-Benz Arena,"60,441",Mercedesstraße 8,Stuttgart,Germany
+Villarreal,140,Estadio de la Cerámica,"23,500","Carrer Blasco Ibáñez, 2",Vila-real,Spain
+Watford,141,Vicarage Road,"21,577","Vicarage Rd, WD18 0ER",Watford,United Kingdom
+Werder Bremen,142,Weserstadion,"42,358",Franz-Böhmert-Straße 1,Bremen,Germany
+West Bromwich Albion,143,The Hawthorns,"26,850","Halfords Lane, B71 4LF",West Bromwich,United Kingdom
+West Ham,144,London Stadium,"66,000",E20 2ST,London,United Kingdom
+Wolfsburg,145,Volkswagen Arena,"30,000",In den Allerwiesen 1,Wolfsburg,Germany
+Wolverhampton Wanderers,146,Molineux Stadium,"32,050","Waterloo Road, WV1 4QR",Wolverhampton,United Kingdom
