@@ -1,6 +1,6 @@
-﻿team name,venueID,venueName,capacity,address,city,country
+﻿teamName,venueID,venueName,capacity,address,city,country
 AC Milan,1,San Siro,"80,018",Piazzale Angelo Moratti,Milan,Italy
-Alaves,2, Mendizorrotza Stadium,"19,840","Cervantes Ibilbidea, 20",Vitoria-Gasteiz,Spain
+Alaves,2,Mendizorrotza Stadium,"19,840","Cervantes Ibilbidea, 20",Vitoria-Gasteiz,Spain
 Almeria,3,Powe Horse Stadium,"15,274","C. Alcalde Santiago Martínez Cabrejas, 5",Almeria,Spain
 Amiens,4,Stade de la Licorne,"12,999",25 Rue du Chapitre,Amiens,France
 Angers,5,Raymond Kopa Stadium,"18,752",Bd Pierre de Coubertin,Angers,France
@@ -53,7 +53,7 @@ Freiburg,51,Europa-Park Stadion,"34,700",Achim-Stocker-Straße 1,Freiburg,German
 Frosinone,52,Stadio Benito Stirpe,"16,227",Viale Olimpia,Frosinone,Italy
 Fulham,53,Craven Cottage,"25,700","Stevenage Road, SQ6 6HH",London,United Kingdom
 Genoa,54,Stadio comunale Luigi Ferraris,"36,599","Via Giovanni de Prà, 1",Genova,Italy
-Getafe,55,Estadio Coliseum Alfonso Pérez ,"17,000","Coliseum Alfonso Perez, Av. Teresa de Calcuta",Madrid,Spain
+Getafe,55,Estadio Coliseum Alfonso Pérez,"17,000","Coliseum Alfonso Perez, Av. Teresa de Calcuta",Madrid,Spain
 GFC Ajaccio,56,Stade Ange Casanova,"8,000",Rte de Mezzavia ,Ajaccio,France
 Girona,57,Estadi Montilivi,"13,500","Avinguda de Montilivi, 141",Girona,Spain
 Granada,58,Nuevo Estadio de Los Cármenes,"19,336",C. Pintor Manuel Maldonado,Granada,Spain
@@ -89,7 +89,7 @@ Metz,87,Stade Municipal Saint-Symphorien,"30,000",3 Bd Saint-Symphorien,Longevil
 Middlesbrough,88,Riverside Stadium,"34,742",TS3 6RS,Middlesbrough,United Kingdom
 Monaco,89,Stade Louis II,"18,523",7 Av. des Castelans,Fontvieille,Monaco
 Montpellier,90,Stade de la Mosson,"32,900",345 Av. de Heidelberg,Montpellier,France
-Nancy,91,Stade Marcel Picot ,"20,087",90 Bd Jean Jaurès,Tomblaine,France
+Nancy,91,Stade Marcel Picot,"20,087",90 Bd Jean Jaurès,Tomblaine,France
 Nantes,92,Stade de la Beaujoire – Louis Fonteneau,"37,473",Route de Saint-Joseph,Nantes,France
 Napoli,93,Stadio Diego Armando Maradona,"54,726",Piazzale Vincenzo Tecchio,Napoli,Italy
 Newcastle United,94,St James' Park,"52,405","Barrack Road, NE1 4ST",Newcastle upon Tyne,United Kingdom
@@ -107,7 +107,7 @@ Queens Park Rangers,105,Loftus Road,"18,439","S Africa Road, W12 7PJ",London,Uni
 RasenBallsport Leipzig,106,Red Bull Arena,"47,069",Am Sportforum 3,Leipzig,Germany
 Rayo Vallecano,107,Campo de Fútbol de Vallecas,"14,505","C. del Payaso Fofó, 0",Madrid,Spain
 Real Betis,108,Estadio Benito Villamarín,"60,721",Av de Heliópolis,Sevilla,Spain
-Real Madrid,109,Santiago Bernabéu Stadium ,"81,044","Av. de Concha Espina, 1",Madrid,Spain
+Real Madrid,109,Santiago Bernabéu Stadium,"81,044","Av. de Concha Espina, 1",Madrid,Spain
 Real Sociedad,110,Anoeta Stadium,"39,500","1, Anoeta Pasalekua",Donostia-San Sebastián,Spain
 Real Valladolid,111,Estadio José Zorrilla,"27,618",Av. Mundial 8,Valladolid,Spain
 Reims,112,Stade Auguste-Delaune,"21,127",33 Chau. Bocquaine,Reims,France
