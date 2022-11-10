@@ -62,7 +62,6 @@
 61,Pep Guardiola
 62,Louis van Gaal
 63,Ole Gunnar Solskjær
-63,Ole Gunnar Solskjær
 64,Mike Phelan
 65,Leonid Stutsky
 66,Nigel Adkins
@@ -113,7 +112,7 @@
 111,Marcelo Bielsa
 112,Juande Ramos
 113,Marcelo Romero
-114,Michel
+114,Jose Miguel Gonzalez
 115,Jose Gonzalez
 116,Juan Ramon Lopez Muniz
 117,Sergio Pellicer
@@ -163,7 +162,7 @@
 161,Paulo Fonseca
 162,Eusebio Di Francesco
 163,Luciano Spalletti
-164,Alberto De Rossi
+164,Alessandro Nesta
 165,Rudi Garcia
 166,Simone Inzaghi
 167,Stefano Pioli
@@ -190,10 +189,10 @@
 188,Eugenio Corini
 189,Roberto De Zerbi
 190,Walter Novellino
-191,Giovanni Bosi
-192,Giovanni Tedesco
-193,Guillermo Barros Schelotto
-194,Fabio Viviani
+191,Marco Baroni
+192,Moreno Longo
+193,Roberto Stellone
+194,Nicola Legrottaglie
 195,Rolando Maran
 196,Thiago Motta
 197,Aurelio Andreazzoli
@@ -202,11 +201,11 @@
 200,Marco Giampaolo
 201,Nicola Antonio Calabro
 202,Fabrizio Castori
-203,Giuseppe Sannino
+203,Luciano Zauri
 204,Christian Bucchi
 205,Gennaro Gattuso
 206,Rafael Benitez
-207,Stefano Vecchi
+207,Giuseppe Pillon
 208,Frank de Boer
 209,Roberto Mancini
 210,Roberto Muzzi
@@ -215,12 +214,12 @@
 213,Giampiero Ventura
 214,Lorenzo D'Anna
 215,Paulo Sousa
-216,Mauro Tassotti
+216,Zdenek Zeman
 217,Luis Garcia
 218,Sergi Barjuan
 219,Javier Olaizola
 220,Fernando Vazquez
-221,Jose Galvez
+221,Serse Cosmi
 222,Albert Ferrer
 223,Miquel Soler
 224,Valery Karpin
@@ -232,8 +231,338 @@
 230,Norbert Duwel
 231,Roberto Boscaglia
 232,Alessandro Calori
-233,Salvatore Giunta
-234,Ivan Javorcic
+233,Giovanni Stroppa
+234,Massimo Drago
 235,Fabio Liverani
 236,Roberto Rizzo
 237,Franco Lerda
+238,Diego López
+239,Massimo Rastelli
+240,Gianfranco Zola
+241,Ivo Pulga
+242,Hansi Flick
+243,Niko Kovac
+244,Jupp Heynckes
+245,Daniel Thioune
+246,Dieter Hecking
+247,Hannes Wolf
+248,Christian Titz
+249,Markus Gisdol
+250,Bruno Labbadia
+251,Josef Zinnbauer
+252,Mirko Slomka
+253,Bert van Marwijk
+254,Peter Bosz
+255,Heiko Herrlich
+256,Tayfun Korkut
+257,Roger Schmidt
+258,Sami Hyypiä
+259,Sebastian Hoeneß
+260,Alfred Schreuder
+261,Julian Nagelsmann
+262,Huub Stevens
+263,Martin Schmidt
+264,Manuel Baum
+265,Dirk Schuster
+266,Markus Weinzierl
+267,Alexander Nouri
+268,Jürgen Klinsmann
+269,Ante Covic
+270,Pál Dárdai
+271,Jos Luhukay
+272,Florian Kohfeldt
+273,Viktor Skrypnyk
+274,Robin Dutt
+275,Christian Gross
+276,Domenico Tedesco
+277,André Breitenreiter
+278,Jan-Moritz Lichte
+279,Achim Beierlorzer
+280,Sandro Schwarz
+281,Kasper Hjulmand
+282,Tomas Oral
+283,Stefan Leitl
+284,Maik Walpurgis
+285,Ralph Hasenhuttl
+286,Markus Anfang
+287,Dimitrios Grammozis
+288,Torsten Frings
+289,Kenan Kocak
+290,Thomas Doll
+291,Daniel Stendel
+292,Thomas Schaaf
+293,Michael Frontzeck
+294,Lucien Favre
+295,Peter Stöger
+296,Marco Rose
+297,André Schubert
+298,Oliver Glasner
+299,Andries Jonker
+300,Valérien Ismaël
+301,Adi Hütter
+302,Armin Veh
+303,Pellegrino Matarazzo
+304,Tim Walter
+305,Nico Willig
+306,Jürgen Kramny
+307,Alexander Zorniger
+308,Thomas Schneider
+309,André Pawlak
+310,Stefan Ruthenbeck
+311,Christian Streich
+312,Ralf Rangnick
+313,
+314,
+315,
+316,
+317,
+318,
+319,
+320,
+321,
+322,
+323,
+324,
+325,
+326,
+327,
+328,
+329,
+330,
+331,
+332,
+333,
+334,
+335,
+336,
+337,
+338,
+339,
+340,
+341,
+342,
+343,
+344,
+345,
+346,
+347,
+348,
+349,
+350,
+351,
+352,
+353,
+354,
+355,
+356,
+357,
+358,
+359,
+360,
+361,
+362,
+363,
+364,
+365,
+366,
+367,
+368,
+369,
+370,
+371,
+372,
+373,
+374,
+375,
+376,
+377,
+378,
+379,
+380,
+381,
+382,
+383,
+384,
+385,
+386,
+387,
+388,
+389,
+390,
+391,
+392,
+393,
+394,
+395,
+396,
+397,
+398,
+399,
+400,
+401,
+402,
+403,
+404,
+405,
+406,
+407,
+408,
+409,
+410,
+411,
+412,
+413,
+414,
+415,
+416,
+417,
+418,
+419,
+420,
+421,
+422,
+423,
+424,
+425,
+426,
+427,
+428,
+429,
+430,
+431,
+432,
+433,
+434,
+435,
+436,
+437,
+438,
+439,
+440,
+441,
+442,
+443,
+444,
+445,
+446,
+447,
+448,
+449,
+450,
+451,
+452,
+453,
+454,
+455,
+456,
+457,
+458,
+459,
+460,
+461,
+462,
+463,
+464,
+465,
+466,
+467,
+468,
+469,
+470,
+471,
+472,
+473,
+474,
+475,
+476,
+477,
+478,
+479,
+480,
+481,
+482,
+483,
+484,
+485,
+486,
+487,
+488,
+489,
+490,
+491,
+492,
+493,
+494,
+495,
+496,
+497,
+498,
+499,
+500,
+501,
+502,
+503,
+504,
+505,
+506,
+507,
+508,
+509,
+510,
+511,
+512,
+513,
+514,
+515,
+516,
+517,
+518,
+519,
+520,
+521,
+522,
+523,
+524,
+525,
+526,
+527,
+528,
+529,
+530,
+531,
+532,
+533,
+534,
+535,
+536,
+537,
+538,
+539,
+540,
+541,
+542,
+543,
+544,
+545,
+546,
+547,
+548,
+549,
+550,
+551,
+552,
+553,
+554,
+555,
+556,
+557,
+558,
+559,
+560,
+561,
+562,
+563,
+564,
+565,
+566,
+567,
