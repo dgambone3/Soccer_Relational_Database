@@ -1,4 +1,4 @@
-"teamID","venueID","venueName","capacity","address","city","country"
+﻿teamID,venueID,venueName,capacity,address,city,country
 111,1,San Siro,"80,018",Piazzale Angelo Moratti,Milan,Italy
 158,2, Mendizorrotza Stadium,"19,840","Cervantes Ibilbidea, 20",Vitoria-Gasteiz,Spain
 208,3,Powe Horse Stadium,"15,274","C. Alcalde Santiago Martínez Cabrejas, 5",Almeria,Spain
