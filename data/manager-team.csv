@@ -1,7 +1,7 @@
 ﻿managerID,teamID,managerName,startDate,endDate
 1,71,Paul Lambert,201206,201502
 2,71,Tim Sherwood,201502,201510
-3,71,Rémi Garde,201511,201603
+3,71,Remi Garde,201511,201603
 4,71,Roberto Di Matteo,201606,201610
 5,71,Steve Bruce,201610,201810
 6,71,Dean Smith,201810,202111
@@ -12,12 +12,12 @@
 11,72,Carlo Ancelotti,201912,202106
 74,73,Eddie Howe,201210,202008
 75,73,Jason Tindall,202008,202106
-7,74,Ronald Koeman,201406,201606
+8,74,Ronald Koeman,201406,201606
 12,74,Mauricio Pochettino,201301,201405
 13,74,Claude Puel,201606,201706
 14,74,Mauricio Pellegrino,201706,201803
 15,74,Mark Hughes,201803,201812
-16,74,Ralph Hasenhüttl,201812,na
+16,74,Ralph Hasenhuttl,201812,na
 13,75,Claude Puel,201710,201902
 17,75,Nigel Pearson,201111,201506
 18,75,Claudio Ranieri,201507,201702
@@ -29,7 +29,7 @@
 23,76,Alan Pardew,201711,201804
 24,76,Darren Moore,201804,201903
 25,76,James Shan,201903,201906
-26,76,Slaven Bilić,201906,202012
+26,76,Slaven Bilic,201906,202012
 9,77,Sam Allardyce,201510,201607
 27,77,Gus Poyet,201310,201503
 28,77,Dick Advocaat,201503,201510
@@ -47,20 +47,20 @@
 76,79,Neil Adams,201404,201501
 77,79,Alex Neil,201501,201703
 78,79,Daniel Farke,201705,202111
-38,80,José Mourinho,201306,201512
+38,80,Jose Mourinho,201306,201512
 39,80,Guus Hiddink,201512,201606
 40,80,Antonio Conte,201607,201807
 41,80,Maurizio Sarri,201807,201906
 42,80,Frank Lampard,201907,202101
 43,80,Thomas Tuchel,202101,202209
 9,81,Sam Allardyce,201106,201505
-26,81,Slaven Bilić,201506,201711
+26,81,Slaven Bilic,201506,201711
 29,81,David Moyes,201711,na
 12,82,Mauricio Pochettino,201405,201911
-38,82,José Mourinho,201911,202104
+38,82,Jose Mourinho,201911,202104
 40,82,Antonio Conte,202111,na
-44,82,Nuno Espírito Santo,202106,202111
-45,83,Arsène Wenger,199610,201805
+44,82,Nuno Espirito Santo,202106,202111
+45,83,Arsene Wenger,199610,201805
 46,83,Unai Emery,201805,201911
 47,83,Mikel Arteta,201912,na
 48,84,Garry Monk,201402,201512
@@ -77,22 +77,22 @@
 23,86,Alan Pardew,201012,201412
 56,86,John Carver,201501,201506
 57,86,Steve McClaren,201506,201603
-58,86,Rafael Benítez,201603,201906
+58,86,Rafael Benitez,201603,201906
 20,87,Brendan Rodgers,201206,201510
-59,87,Jürgen Klopp,201510,na
+59,87,Jurgen Klopp,201510,na
 60,88,Manuel Pellegrini,201306,201606
 61,88,Pep Guardiola,201607,na
-38,89,José Mourinho,201605,201812
+38,89,Jose Mourinho,201605,201812
 62,89,Louis van Gaal,201407,201605
-63,89,Ole Gunnar Solskjær,201812,202111
+63,89,Ole Gunnar Solskjaer,201812,202111
 10,90,Marco Silva,201705,201801
 17,90,Nigel Pearson,201912,202007
-79,90,Slaviša Jokanović,201410,201506
+79,90,Slavisa Jokanovic,201410,201506
 80,90,Enrique Sanchez Flores,201506,201605
 81,90,Walter Mazzarri,201607,201705
 82,90,Javier Gracia Carlos,201801,201909
-83,90,Vladimir Ivić,202008,202012
-84,90,Xisco Muñoz,202012,202110
+83,90,Vladimir Ivic,202008,202012
+84,90,Xisco Munoz,202012,202110
 5,91,Steve Bruce,201206,201607
 10,91,Marco Silva,201701,201705
 64,91,Mike Phelan,201607,201701
@@ -105,155 +105,270 @@
 48,93,Garry Monk,201706,201712
 85,93,Aitor Karanka,201311,201703
 86,93,Jonathan Woodgate,201906,202006
-157,94,Ivan Juric,"01 Jul, 2019","07 Jun, 2021"
-158,94,Fabio Pecchia,"01 Sep, 2016","01 Jul, 2019"
-159,94,Luigi Delneri,"01 Dec, 2015","01 Sep, 2016"
-160,94,Andrea Mandorlini,"09 Nov, 2010","01 Dec, 2015"
-161,95,Paulo Fonseca,"01 Jul, 2019","01 Jul, 2021"
-18,95,Claudio Ranieri,"08 Mar, 2019","01 Jul, 2019"
-162,95,Eusebio Di Francesco,"13 Jun, 2017","08 Mar, 2019"
-163,95,Luciano Spalletti,"14 Jan, 2016","13 Jun, 2017"
-164,95,Alberto De Rossi,"13 Jan, 2016","14 Jan, 2016"
-165,95,Rudi Garcia,"12 Jun, 2013","13 Jan, 2016"
-166,96,Simone Inzaghi,"04 Apr, 2016","09 Jun, 2021"
-167,96,Stefano Pioli,"12 Jun, 2014","04 Apr, 2016"
-168,96,Edoardo Reja,"04 Jan, 2014","12 Jun, 2014"
-169,97,Sinisa Mihajlovic,"28 Jan, 2019",Present
-170,97,Filippo Inzaghi,"01 Jul, 2018","28 Jan, 2019"
-171,97,Roberto Donadoni,"28 Oct, 2015","01 Jul, 2018"
-172,97,Delio Rossi,"04 May, 2015","28 Oct, 2015"
-173,97,Diego Lopez,"01 Jul, 2014","04 May, 2015"
-174,97,Davide Ballardini,"08 Jan, 2014","01 Jul, 2014"
-175,98,Andrea Pirlo,"08 Aug, 2020","29 May, 2021"
-41,98,Maurizio Sarri,"16 Jun, 2019","08 Aug, 2020"
-176,98,Massimiliano Allegri,"16 Jul, 2014","15 Jun, 2019"
-40,98,Antonio Conte,"01 Jun, 2011","15 Jul, 2014"
-177,99,Luca Gotti,"01 Nov, 2019","07 Dec, 2021"
-178,99,Igor Tudor,"20 Mar, 2019","01 Nov, 2019"
-179,99,Davide Nicola,"13 Nov, 2018","20 Mar, 2019"
-180,99,Julio Velazquez,"01 Jul, 2018","13 Nov, 2018"
-178,99,Igor Tudor,"24 Apr, 2018","01 Jul, 2018"
-181,99,Massimo Oddo,"21 Nov, 2017","24 Apr, 2018"
-159,99,Luigi Delneri,"03 Oct, 2016","20 Nov, 2017"
-182,99,Giuseppe Iachini,"19 May, 2016","03 Oct, 2016"
-183,99,Luigi De Canio,"15 Mar, 2016","19 May, 2016"
-184,99,Stefano Colantuono,"04 Jun, 2015","15 Mar, 2016"
-185,99,Andrea Stramaccioni,"04 Jun, 2014","04 Jun, 2015"
-49,99,Francesco Guidolin,"24 May, 2010","20 May, 2014"
-172,100,Delio Rossi,"24 Apr, 2019",Present
-186,100,Bruno Tedino,"22 Jun, 2017","24 Apr, 2019"
-187,100,Diego Bortoluzzi,"11 Apr, 2017","22 Jun, 2017"
-173,100,Diego Lopez,"26 Jan, 2017","11 Apr, 2017"
-188,100,Eugenio Corini,"30 Nov, 2016","25 Jan, 2017"
-189,100,Roberto De Zerbi,"06 Sep, 2016","30 Nov, 2016"
-190,100,Walter Novellino,"10 Mar, 2016","06 Sep, 2016"
-182,100,Giuseppe Iachini,"15 Feb, 2016","10 Mar, 2016"
-191,100,Giovanni Bosi,"10 Feb, 2016","15 Feb, 2016"
-192,100,Giovanni Tedesco,"26 Jan, 2016","10 Feb, 2016"
-191,100,Giovanni Bosi,"23 Jan, 2016","26 Jan, 2016"
-193,100,Guillermo Barros Schelotto,"18 Jan, 2016","23 Jan, 2016"
-194,100,Fabio Viviani,"16 Jan, 2016","18 Jan, 2016"
-193,100,Guillermo Barros Schelotto,"11 Jan, 2016","16 Jan, 2016"
-174,100,Davide Ballardini,"10 Nov, 2015","11 Jan, 2016"
-182,100,Giuseppe Iachini,"25 Sep, 2013","10 Nov, 2015"
-195,101,Rolando Maran,"26 Aug, 2020","21 Dec, 2020"
-179,101,Davide Nicola,"30 Dec, 2019","26 Aug, 2020"
-196,101,Thiago Motta,"22 Oct, 2019","28 Dec, 2019"
-197,101,Aurelio Andreazzoli,"01 Jul, 2019","22 Oct, 2019"
-198,101,Cesare Prandelli,"07 Dec, 2018","01 Jul, 2019"
-157,101,Ivan Juric,"09 Oct, 2018","07 Dec, 2018"
-174,101,Davide Ballardini,"06 Nov, 2017","09 Oct, 2018"
-157,101,Ivan Juric,"10 Apr, 2017","06 Nov, 2017"
-160,101,Andrea Mandorlini,"20 Feb, 2017","10 Apr, 2017"
-157,101,Ivan Juric,"28 Jun, 2016","20 Feb, 2017"
-199,101,Gian Piero Gasperini,"29 Sep, 2013","28 Jun, 2016"
-18,102,Claudio Ranieri,"12 Oct, 2019","01 Jul, 2021"
-162,102,Eusebio Di Francesco,"22 Jun, 2019","12 Oct, 2019"
-200,102,Marco Giampaolo,"04 Jul, 2016","21 Jun, 2019"
-120,102,Vincenzo Montella,"15 Nov, 2015","01 Jul, 2016"
-102,102,Walter Zenga,"11 Jun, 2015","15 Nov, 2015"
-169,102,Sinisa Mihajlovic,"20 Nov, 2013","11 Jun, 2015"
-201,103,Nicola Antonio Calabro,"29 Jul, 2017",Present
-202,103,Fabrizio Castori,"03 Nov, 2015","28 Jul, 2017"
-203,103,Giuseppe Sannino,"29 Sep, 2015","03 Nov, 2015"
-202,103,Fabrizio Castori,"30 Jun, 2014","28 Sep, 2015"
-189,104,Roberto De Zerbi,"01 Jul, 2018","01 Jul, 2021"
-182,104,Giuseppe Iachini,"27 Nov, 2017","01 Jul, 2018"
-204,104,Christian Bucchi,"20 Jun, 2017","27 Nov, 2017"
-162,104,Eusebio Di Francesco,"03 Mar, 2014","20 Jun, 2017"
-162,104,Eusebio Di Francesco,"19 Jun, 2012","28 Jan, 2014"
-205,105,Gennaro Gattuso,"11 Dec, 2019","29 May, 2021"
-11,105,Carlo Ancelotti,"23 May, 2018","10 Dec, 2019"
-41,105,Maurizio Sarri,"11 Jun, 2015","23 May, 2018"
-206,105,Rafael Benitez,"27 May, 2013","11 Jun, 2015"
-40,106,Antonio Conte,"31 May, 2019","07 Jul, 2021"
-163,106,Luciano Spalletti,"09 Jun, 2017","01 May, 2019"
-207,106,Stefano Vecchi,"09 May, 2017","09 Jun, 2017"
-167,106,Stefano Pioli,"08 Nov, 2016","08 May, 2017"
-207,106,Stefano Vecchi,"01 Nov, 2016","08 Nov, 2016"
-208,106,Frank de Boer,"09 Aug, 2016","01 Nov, 2016"
-209,106,Roberto Mancini,"14 Nov, 2014","09 Aug, 2016"
-81,106,Walter Mazzarri,"24 May, 2013","14 Nov, 2014"
-199,107,Gian Piero Gasperini,"14 Jun, 2016",Present
-168,107,Edoardo Reja,"04 Mar, 2015","14 Jun, 2016"
-184,107,Stefano Colantuono,"15 Jun, 2010","04 Mar, 2015"
-210,108,Roberto Muzzi,"14 Nov, 2019","21 Jun, 2021"
-204,108,Christian Bucchi,"18 Jun, 2019","14 Nov, 2019"
-197,108,Aurelio Andreazzoli,"17 Dec, 2017","17 Jun, 2019"
-211,108,Vincenzo Vivarini,"19 Jun, 2017","17 Dec, 2017"
-200,108,Marco Giampaolo,"01 Sep, 2016","19 Jun, 2017"
-212,108,Giovanni Martusciello,"26 May, 2016","01 Sep, 2016"
-200,108,Marco Giampaolo,"15 Jun, 2015","26 May, 2016"
-41,108,Maurizio Sarri,"01 Jul, 2013","01 Jun, 2015"
-136,109,Domenico Di Carlo,"13 Nov, 2018",Present
-213,109,Giampiero Ventura,"10 Oct, 2018","13 Nov, 2018"
-214,109,Lorenzo D'Anna,"01 Apr, 2018","10 Oct, 2018"
-195,109,Rolando Maran,"19 Oct, 2014","01 Apr, 2018"
-188,109,Eugenio Corini,"12 Nov, 2013","19 Oct, 2014"
-198,110,Cesare Prandelli,"10 Nov, 2020","01 Jul, 2021"
-182,110,Giuseppe Iachini,"24 Dec, 2019","09 Nov, 2020"
-120,110,Vincenzo Montella,"10 Apr, 2019","22 Dec, 2019"
-167,110,Stefano Pioli,"06 Jun, 2017","10 Apr, 2019"
-215,110,Paulo Sousa,"19 Jun, 2015","06 Jun, 2017"
-120,110,Vincenzo Montella,"11 Jun, 2012","19 Jun, 2015"
-167,111,Stefano Pioli,"09 Oct, 2019",Present
-200,111,Marco Giampaolo,"01 Jul, 2019","09 Oct, 2019"
-120,111,Vincenzo Montella,"28 Dec, 2017","01 Jul, 2019"
-205,111,Gennaro Gattuso,"27 Nov, 2017","28 May, 2019"
-120,111,Vincenzo Montella,"28 Jun, 2016","27 Nov, 2017"
-169,111,Sinisa Mihajlovic,"16 Jun, 2015","28 Jun, 2016"
-170,111,Filippo Inzaghi,"09 Jun, 2014","16 Jun, 2015"
-129,111,Clarence Seedorf,"16 Jan, 2014","09 Jun, 2014"
-216,111,Mauro Tassotti,"13 Jan, 2014","16 Jan, 2014"
-,112,,,
-,113,,,
-,114,,,
-,115,,,
-,116,,,
-,117,,,
-,118,,,
-,119,,,
-,120,,,
-,121,,,
-,122,,,
-,123,,,
-,124,,,
-,125,,,
-,126,,,
-,127,,,
-,128,,,
-,129,,,
-,130,,,
-,131,,,
-,132,,,
-,133,,,
-,134,,,
-,135,,,
-,136,,,
+157,94,Ivan Juric,201907,202106
+158,94,Fabio Pecchia,201609,201907
+159,94,Luigi Delneri,201512,201609
+160,94,Andrea Mandorlini,201011,201512
+161,95,Paulo Fonseca,201907,202107
+18,95,Claudio Ranieri,201903,201907
+162,95,Eusebio Di Francesco,201706,201903
+163,95,Luciano Spalletti,201601,201706
+165,95,Rudi Garcia,201306,201601
+166,96,Simone Inzaghi,201604,202106
+167,96,Stefano Pioli,201406,201604
+168,96,Edoardo Reja,201401,201406
+169,97,Sinisa Mihajlovic,201901,na
+170,97,Filippo Inzaghi,201807,201901
+171,97,Roberto Donadoni,201510,201807
+172,97,Delio Rossi,201505,201510
+173,97,Diego Lopez,201407,201505
+174,97,Davide Ballardini,201401,201407
+175,98,Andrea Pirlo,202008,202105
+41,98,Maurizio Sarri,201906,202008
+176,98,Massimiliano Allegri,201407,201906
+40,98,Antonio Conte,201106,201407
+177,99,Luca Gotti,201911,202112
+178,99,Igor Tudor,201903,201911
+179,99,Davide Nicola,201811,201903
+180,99,Julio Velazquez,201807,201811
+178,99,Igor Tudor,201804,201807
+181,99,Massimo Oddo,201711,201804
+159,99,Luigi Delneri,201610,201711
+182,99,Giuseppe Iachini,201605,201610
+183,99,Luigi De Canio,201603,201605
+184,99,Stefano Colantuono,201506,201603
+185,99,Andrea Stramaccioni,201406,201506
+49,99,Francesco Guidolin,201005,201405
+172,100,Delio Rossi,201904,na
+186,100,Bruno Tedino,201706,201904
+187,100,Diego Bortoluzzi,201704,201706
+173,100,Diego Lopez,201701,201704
+188,100,Eugenio Corini,201611,201701
+189,100,Roberto De Zerbi,201609,201611
+190,100,Walter Novellino,201603,201609
+174,100,Davide Ballardini,201511,201601
+182,100,Giuseppe Iachini,201309,201511
+195,101,Rolando Maran,202008,202012
+179,101,Davide Nicola,201912,202008
+196,101,Thiago Motta,201910,201912
+197,101,Aurelio Andreazzoli,201907,201910
+198,101,Cesare Prandelli,201812,201907
+157,101,Ivan Juric,201810,201812
+174,101,Davide Ballardini,201711,201810
+157,101,Ivan Juric,201704,201711
+157,101,Ivan Juric,201606,201702
+199,101,Gian Piero Gasperini,201309,201606
+18,102,Claudio Ranieri,201910,202107
+162,102,Eusebio Di Francesco,201906,201910
+200,102,Marco Giampaolo,201607,201906
+120,102,Vincenzo Montella,201511,201607
+102,102,Walter Zenga,201506,201511
+169,102,Sinisa Mihajlovic,201311,201506
+201,103,Nicola Antonio Calabro,201707,na
+202,103,Fabrizio Castori,201511,201707
+202,103,Fabrizio Castori,201406,201509
+189,104,Roberto De Zerbi,201807,202107
+182,104,Giuseppe Iachini,201711,201807
+204,104,Christian Bucchi,201706,201711
+162,104,Eusebio Di Francesco,201403,201706
+162,104,Eusebio Di Francesco,201206,201401
+205,105,Gennaro Gattuso,201912,202105
+11,105,Carlo Ancelotti,201805,201912
+41,105,Maurizio Sarri,201506,201805
+58,105,Rafael Benitez,201305,201506
+40,106,Antonio Conte,201905,202107
+163,106,Luciano Spalletti,201706,201905
+167,106,Stefano Pioli,201611,201705
+208,106,Frank de Boer,201608,201611
+209,106,Roberto Mancini,201411,201608
+81,106,Walter Mazzarri,201305,201411
+199,107,Gian Piero Gasperini,201606,na
+168,107,Edoardo Reja,201503,201606
+184,107,Stefano Colantuono,201006,201503
+210,108,Roberto Muzzi,201911,202106
+204,108,Christian Bucchi,201906,201911
+197,108,Aurelio Andreazzoli,201712,201906
+211,108,Vincenzo Vivarini,201706,201712
+200,108,Marco Giampaolo,201609,201706
+212,108,Giovanni Martusciello,201605,201609
+200,108,Marco Giampaolo,201506,201605
+41,108,Maurizio Sarri,201307,201506
+136,109,Domenico Di Carlo,201811,na
+214,109,Lorenzo D'Anna,201804,201810
+195,109,Rolando Maran,201410,201804
+188,109,Eugenio Corini,201311,201410
+198,110,Cesare Prandelli,202011,202107
+182,110,Giuseppe Iachini,201912,202011
+120,110,Vincenzo Montella,201904,201912
+167,110,Stefano Pioli,201706,201904
+215,110,Paulo Sousa,201506,201706
+120,110,Vincenzo Montella,201206,201506
+167,111,Stefano Pioli,201910,na
+200,111,Marco Giampaolo,201907,201910
+120,111,Vincenzo Montella,201712,201907
+205,111,Gennaro Gattuso,201711,201905
+120,111,Vincenzo Montella,201606,201711
+169,111,Sinisa Mihajlovic,201506,201606
+170,111,Filippo Inzaghi,201406,201506
+129,111,Clarence Seedorf,201401,201406
+164,112,Alessandro Nesta,201906,na
+191,112,Marco Baroni,201812,201906
+192,112,Moreno Longo,201706,201812
+193,112,Roberto Stellone,201207,201606
+200,113,Marco Giampaolo,202008,202107
+192,113,Moreno Longo,202002,202008
+81,113,Walter Mazzarri,201801,202002
+169,113,Sinisa Mihajlovic,201605,201801
+213,113,Giampiero Ventura,201207,201605
+181,114,Massimo Oddo,202008,202011
+194,114,Nicola Legrottaglie,202001,202007
+203,114,Luciano Zauri,201906,202001
+207,114,Giuseppe Pillon,201804,201906
+216,114,Zdenek Zeman,201702,201803
+181,114,Massimo Oddo,201505,201702
+191,114,Marco Baroni,201407,201505
+221,114,Serse Cosmi,201402,201406
+233,115,Giovanni Stroppa,201812,202103
+181,115,Massimo Oddo,201811,201812
+233,115,Giovanni Stroppa,201806,201810
+102,115,Walter Zenga,201712,201806
+179,115,Davide Nicola,201607,201712
+157,115,Ivan Juric,201507,201606
+234,115,Massimo Drago,201201,201506
+162,116,Eusebio Di Francesco,202008,202102
+102,116,Walter Zenga,202003,202008
+195,116,Rolando Maran,201807,202003
+173,116,Diego Lopez,201710,201806
+239,116,Massimo Rastelli,201506,201710
+240,116,Gianfranco Zola,201412,201503
+216,116,Zdenek Zeman,201407,201412
+241,116,Ivo Pulga,201404,201406
+173,116,Diego Lopez,201307,201404
+242,117,Hansi Flick,201911,202106
+243,117,Niko Kovac,201807,201911
+244,117,Jupp Heynckes,201710,201806
+11,117,Carlo Ancelotti,201607,201709
+61,117,Pep Guardiola,201307,201606
+245,118,Daniel Thioune,202007,202105
+246,118,Dieter Hecking,201907,202006
+247,118,Hannes Wolf,201810,201906
+248,118,Christian Titz,201803,201810
+249,118,Markus Gisdol,201609,201801
+250,118,Bruno Labbadia,201504,201609
+251,118,Josef Zinnbauer,201409,201503
+252,118,Mirko Slomka,201402,201409
+253,118,Bert van Marwijk,201309,201402
+254,119,Peter Bosz,201812,202103
+255,119,Heiko Herrlich,201707,201812
+256,119,Tayfun Korkut,201703,201706
+257,119,Roger Schmidt,201407,201703
+229,119,Sascha Lewandowski,201404,201406
+92,119,Sami Hyypia,201307,201404
+259,120,Sebastian Hoeneb,202008,202206
+260,120,Alfred Schreuder,201907,202006
+261,120,Julian Nagelsmann,201602,201906
+262,120,Huub Stevens,201510,201602
+249,120,Markus Gisdol,201304,201510
+255,121,Heiko Herrlich,202003,202104
+263,121,Martin Schmidt,201904,202003
+264,121,Manuel Baum,201612,201904
+265,121,Dirk Schuster,201607,201612
+266,121,Markus Weinzierl,201207,201606
+250,122,Bruno Labbadia,202004,202101
+267,122,Alexander Nouri,202002,202004
+268,122,Jurgen Klinsmann,201911,202002
+269,122,Ante Covic,201907,201911
+270,122,Pal Dardai,201502,201906
+271,122,Jos Luhukay,201207,201502
+272,123,Florian Kohfeldt,201711,202105
+267,123,Alexander Nouri,201610,201710
+273,123,Viktor Skrypnyk,201410,201609
+274,123,Robin Dutt,201307,201410
+275,124,Christian Gross,202012,202102
+264,124,Manuel Baum,202009,202012
+88,124,David Wagner,201907,202009
+262,124,Huub Stevens,201903,201906
+276,124,Domenico Tedesco,201707,201903
+266,124,Markus Weinzierl,201607,201706
+277,124,Andre Breitenreiter,201507,201606
+4,124,Roberto Di Matteo,201410,201505
+228,124,Jens Keller,201212,201410
+278,125,Jan-Moritz Lichte,202009,202012
+279,125,Achim Beierlorzer,201911,202009
+280,125,Sandro Schwarz,201707,201911
+263,125,Martin Schmidt,201502,201705
+281,125,Kasper Hjulmand,201407,201502
+43,125,Thomas Tuchel,200908,201405
+282,126,Tomas Oral,201904,202109
+228,126,Jens Keller,201812,201904
+267,126,Alexander Nouri,201809,201811
+283,126,Stefan Leitl,201708,201809
+284,126,Maik Walpurgis,201611,201708
+16,126,Ralph Hasenhuttl,201310,201611
+286,127,Markus Anfang,202007,202105
+287,127,Dimitrios Grammozis,201902,202006
+265,127,Dirk Schuster,201712,201902
+288,127,Torsten Frings,201612,201712
+143,127,Norbert Meier,201607,201612
+265,127,Dirk Schuster,201212,201606
+289,128,Kenan Kocak,201911,202106
+252,128,Mirko Slomka,201907,201911
+290,128,Thomas Doll,201901,201906
+277,128,Andre Breitenreiter,201703,201901
+291,128,Daniel Stendel,201604,201703
+292,128,Thomas Schaaf,201601,201604
+293,128,Michael Frontzeck,201504,201512
+256,128,Tayfun Korkut,201401,201504
+294,129,Lucien Favre,201807,202012
+295,129,Peter Stoger,201712,201806
+254,129,Peter Bosz,201707,201712
+43,129,Thomas Tuchel,201507,201705
+59,129,Jurgen Klopp,200807,201506
+296,130,Marco Rose,201907,202106
+246,130,Dieter Hecking,201612,201906
+297,130,Andre Schubert,201511,201612
+294,130,Lucien Favre,201102,201509
+298,131,Oliver Glasner,201907,202106
+250,131,Bruno Labbadia,201802,201906
+263,131,Martin Schmidt,201709,201802
+299,131,Andries Jonker,201702,201709
+300,131,Valerien Ismael,201611,201702
+246,131,Dieter Hecking,201301,201610
+301,132,Adi Hutter,201807,202106
+243,132,Niko Kovac,201603,201806
+302,132,Armin Veh,201507,201603
+292,132,Thomas Schaaf,201407,201505
+302,132,Armin Veh,201107,201406
+303,133,Pellegrino Matarazzo,201912,202210
+304,133,Tim Walter,201907,201912
+305,133,Nico Willig,201904,201906
+266,133,Markus Weinzierl,201810,201904
+256,133,Tayfun Korkut,201801,201810
+247,133,Hannes Wolf,201609,201801
+271,133,Jos Luhukay,201607,201609
+146,133,Jurgen Kramny,201511,201606
+307,133,Alexander Zorniger,201507,201511
+262,133,Huub Stevens,201411,201506
+302,133,Armin Veh,201407,201411
+262,133,Huub Stevens,201403,201406
+308,133,Thomas Schneider,201308,201403
+249,134,Markus Gisdol,201911,202104
+279,134,Achim Beierlorzer,201907,201911
+309,134,Andre Pawlak,201904,201906
+286,134,Markus Anfang,201807,201904
+310,134,Stefan Ruthenbeck,201712,201806
+295,134,Peter Stoger,201307,201712
+311,135,Christian Streich,201112,na
+261,136,Julian Nagelsmann,201907,202106
+312,136,Ralf Rangnick,201807,201906
+16,136,Ralph Hasenhuttl,201607,201805
+312,136,Ralf Rangnick,201507,201606
+279,136,Achim Beierlorzer,201502,201506
+307,136,Alexander Zorniger,201207,201502
 82,137,Javier Gracia Carlos,201406,201605
 112,137,Juande Ramos,201605,201612
 113,137,Marcelo Romero,201612,201703
-114,137,Michel,201703,201801
+114,137,Jose Miguel Gonzalez Martin del Campo,201703,201801
 115,137,Jose Gonzalez,201801,201806
 116,137,Juan Ramon Lopez Muniz,201806,202001
 117,137,Sergio Pellicer,202001,202106
@@ -280,134 +395,436 @@
 151,141,Abelardo Fernandez,201912,202006
 122,141,Pablo Machin,201910,201912
 152,141,David Gallego,201906,201910
-153,141,Joan Francesc Ferrer,201806,201906
+153,141,"Joan Francesc Ferrer Sicilia ""Rubi""",201806,201906
 152,141,David Gallego,201804,201806
 80,141,Enrique Sanchez Flores,201606,201804
 154,141,Constantin Galca,201512,201606
-155,141,Sergio Gonzalez,201405,201512
+155,141,Sergio Gonzalez Soriano,201405,201512
 156,141,Javier Aguirre,201211,201405
-,142,,,
-,143,,,
-,144,,,
-,145,,,
-,146,,,
-,147,,,
-,148,,,
-,149,,,
-,150,,,
-,151,,,
-,152,,,
-,153,,,
-,154,,,
-,155,,,
-,156,,,
-,157,,,
-,158,,,
-,159,,,
-,160,,,
-,161,,,
-,162,,,
-,163,,,
-,164,,,
-,165,,,
-,166,,,
-,167,,,
-,168,,,
-,169,,,
-,170,,,
-,171,,,
-,172,,,
-,173,,,
-,174,,,
-,175,,,
-,176,,,
-,177,,,
-,178,,,
-,179,,,
-,180,,,
-,181,,,
-,182,,,
+313,142,Pepe Bordalas,201609,202106
+314,142,Juan Esnaider,201604,201609
+315,142,Fran Escriba,201507,201604
+316,142,Pablo Franco,201502,201506
+317,142,Cosmin Contra,201403,201501
+318,143,Diego Simeone,201112,na
+127,144,Pepe Mel,201903,202201
+319,144,Paco Herrera,201811,201903
+320,144,Manolo Jimenez,201805,201811
+321,144,Paco Jemez,201712,201805
+322,144,Pako Ayestaran,201709,201711
+323,144,Manuel Marquez Roca,201707,201709
+324,144,Quique Setien,201510,201707
+319,144,Paco Herrera,201407,201510
+325,144,Sergio Lobera,201206,201407
+326,145,Andoni Iraola,202008,-
+321,145,Paco Jemez,201903,202007
+328,145,"Miguel Angel Sanchez Munoz ""Michel""",201702,201903
+329,145,Ruben Baraja,201611,201702
+330,145,Jose Ramon Sandoval,201606,201611
+321,145,Paco Jemez,201206,201606
+331,146,Javi Gracia,202007,202105
+332,146,Albert Celades,201909,202006
+333,146,Marcelino Garcia Toral,201707,201909
+334,146,Salvador Gonzalez Marco,201701,201706
+198,146,Cesare Prandelli,201610,201612
+322,146,Pako Ayestaran,201603,201609
+336,146,Gary Neville,201512,201603
+44,146,Nuno Espirito Santo,201407,201511
+337,146,Juan Antonio Pizzi,201401,201407
+126,147,Gaizka Garitano,201812,202101
+119,147,Eduardo Berizzo,201807,201812
+338,147,Cuco Ziganda,201707,201806
+339,147,Ernesto Valverde,201307,201706
+8,148,Ronald Koeman,202008,202110
+324,148,Quique Setien,202001,202008
+339,148,Ernesto Valverde,201707,202001
+341,148,Luis Enrique,201407,201706
+342,148,Gerardo Martino,201307,201406
+152,149,David Gallego,202007,202202
+343,149,Miroslav Djukic,201912,202007
+344,149,Jose Alberto Lopez,201811,201912
+329,149,Ruben Baraja,201712,201811
+319,149,Paco Herrera,201707,201712
+153,149,"Joan Francesc Ferrer Sicilia ""Rubi""",201701,201706
+345,149,Abelardo Fernandez Artuna,201405,201701
+330,149,Jose Ramon Sandoval,201210,201405
+347,150,Zinedine Zidane,201903,202106
+348,150,Santiago Solari,201811,201903
+123,150,Julen Lopetegui,201807,201810
+347,150,Zinedine Zidane,201601,201805
+58,150,Rafael Benitez,201507,201601
+11,150,Carlo Ancelotti,201307,201505
+349,151,Paco Lopez,201803,202110
+350,151,Juan Muniz,201607,201803
+153,151,"Joan Francesc Ferrer Sicilia ""Rubi""",201510,201606
+351,151,Lucas Alcaraz,201410,201510
+352,151,Jose Luis Mendilibar,201407,201410
+121,151,Joaquin Caparros,201307,201405
+354,152,Oscar Garcia,201911,202011
+315,152,Fran Escriba,201903,201911
+355,152,Miguel Cardoso,201811,201903
+356,152,Antonio Mohamed,201807,201811
+357,152,Juan Carlos Unzue,201707,201806
+119,152,Eduardo Berizzo,201407,201706
+341,152,Luis Enrique,201307,201406
+60,153,Manuel Pellegrini,202008,na
+153,153,"Joan Francesc Ferrer Sicilia ""Rubi""",201907,202006
+324,153,Quique Setien,201707,201906
+125,153,Victor Sanchez,201611,201705
+359,153,Gustavo Poyet,201605,201611
+360,153,Juan Merino,201601,201605
+127,153,Pepe Mel,201412,201601
+46,154,Unai Emery,202007,202210
+361,154,Javier Calleja,201709,202007
+315,154,Fran Escriba,201608,201709
+333,154,Marcelino Garcia Toral,201301,201608
+85,155,Aitor Karanka,202204,202211
+362,155,Robert Moreno,202107,202203
+363,155,Diego Martinez,201807,202106
+364,155,Miguel Angel Portugal,201805,201806
+365,155,Jose Luis Oltra,201707,201803
+366,155,Tony Adams,201704,201706
+351,155,Lucas Alcaraz,201610,201704
+321,155,Paco Jemez,201607,201609
+115,155,Jose Gonzalez,201602,201606
+330,155,Jose Ramon Sandoval,201505,201602
+368,155,Abel Resino,201501,201505
+121,155,Joaquin Caparros,201407,201501
+351,155,Lucas Alcaraz,201301,201406
+352,156,Jose Luis Mendilibar,201507,202106
+126,156,Gaizka Garitano,201206,201506
+130,157,Jagoba Arrasate,201807,na
+363,157,Diego Martinez,201707,201806
+369,157,Petar Vasiljevic,201701,201706
+370,157,Enrique Martin,201505,201611
+371,157,Jose Manuel Mateo,201502,201505
+372,157,Jan Urban,201407,201502
+331,157,Javi Gracia,201309,201406
+122,158,Pablo Machin,202008,202101
+132,158,Asier Garitano,201907,202007
+151,158,Abelardo Fernandez,201712,201906
+374,158,Giovanni De Biasi,201709,201711
+375,158,Luis Zubeldia,201707,201709
+14,158,Mauricio Pellegrino,201607,201706
+313,158,Pepe Bordalas,201507,201606
+376,158,Alberto Lopez Fernandez,201403,201506
+377,158,Juan Carlos Mandia,201312,201403
+378,159,Josep Lluis Marti,202008,202101
+156,159,Javier Aguirre,201911,202007
+14,159,Mauricio Pellegrino,201807,201910
+132,159,Asier Garitano,201306,201806
+379,160,Christophe Galtier,201712,202106
+111,160,Marcelo Bielsa,201707,201711
+380,160,Franck Passi,201702,201706
+381,160,Patrick Collot,201611,201702
+382,160,Frederic Antonetti,201511,201611
+383,160,Herve Renard,201505,201511
+384,160,Rene Girard,201307,201506
+43,161,Thomas Tuchel,201807,202012
+46,161,Unai Emery,201607,201806
+385,161,Laurent Blanc,201306,201606
+386,162,Mathieu Chabert,201910,202109
+387,162,Stephane Rossi,201708,201910
+388,162,Rui Almeida,201702,201706
+389,162,Francois Ciccolini,201601,201702
+390,162,Ghislain Printant,201411,201601
+391,162,Claude Makelele,201407,201411
+391,162,Frederic Hantz,201005,201405
+393,163,Julien Stephan,201812,202103
+394,163,Sabri Lamouchi,201711,201812
+395,163,Christian Gourcuff,201607,201711
+396,163,Rolland Courbis,201601,201609
+397,163,Philippe Montanier,201307,201601
+398,164,Andre Villas-Boas,201907,202102
+165,164,Rudi Garcia,201610,201906
+380,164,Franck Passi,201604,201610
+114,164,Jose Miguel Gonzalez Martin del Campo,201508,201604
+111,164,Marcelo Bielsa,201407,201508
+399,164,Jose Anigo,201312,201406
+400,165,Pascal Dupraz,201910,202103
+388,165,Rui Almeida,201907,201909
+401,165,Fabien Mercadal,201806,201905
+402,165,Patrice Garande,201207,201806
+403,166,Michel Der Zakarian,201705,202105
+404,166,Jean-Louis Gasset,201701,201705
+392,166,Frederic Hantz,201601,201701
+396,166,Rolland Courbis,201312,201512
+405,167,Stephane Moulin,201107,202105
+395,168,Christian Gourcuff,201908,202012
+406,168,Vahid Halilhodzic,201810,201908
+355,168,Miguel Cardoso,201806,201810
+18,168,Claudio Ranieri,201707,201805
+407,168,Sergio Conceicao,201612,201706
+384,168,Rene Girard,201607,201612
+403,168,Michel Der Zakarian,201205,201606
+408,169,Mehmed Bazdarevic,202008,202102
+409,169,Sylvain Didot,201909,202008
+410,169,Patrice Lair,201907,201909
+411,169,Jocelyn Gourvennec,201811,201905
+412,169,Antoine Kombouare,201607,201811
+411,169,Jocelyn Gourvennec,201007,201606
+413,170,Adrian Ursea,202012,202105
+37,170,Patrick Vieira,201807,202012
+294,170,Lucien Favre,201607,201806
+13,170,Claude Puel,201205,201606
+243,171,Niko Kovac,202007,202201
+362,171,Robert Moreno,201912,202007
+414,171,Leonardo Jardim,201901,201912
+415,171,Thierry Henry,201810,201901
+414,171,Leonardo Jardim,201407,201810
+18,171,Claudio Ranieri,201205,201405
+416,172,Laurent Batlles,201906,202112
+388,172,Rui Almeida,201805,201906
+417,172,Jean-Louis Garcia,201607,201805
+418,172,Mohamed Bradja,201602,201606
+419,172,Claude Robin,201512,201602
+420,172,Jean-Marc Furlan,201006,201512
+238,173,Olivier Pantaloni,201411,-
+486,173,Fabrizio Ravanelli,201306,201311
+373,173,Albert Emon,201301,201305
+402,174,Patrice Garande,202006,202106
+426,174,Denis Zanko,202001,202006
+412,174,Antoine Kombouare,201910,202001
+427,174,Alain Casanova,201806,201910
+428,174,Mickael Debeve,201801,201805
+400,174,Pascal Dupraz,201603,201801
+429,174,Dominique Arribage,201503,201602
+13,175,Claude Puel,201910,202112
+390,175,Ghislain Printant,201906,201910
+404,175,Jean-Louis Gasset,201712,201906
+354,175,oscar Garcia,201706,201711
+379,175,Christophe Galtier,200912,201706
+404,176,Jean-Louis Gasset,202008,202107
+215,176,Paulo Sousa,201903,202008
+430,176,Ricardo Gomes,201809,201902
+431,176,Eric Bedouet,201808,201903
+359,176,Gustavo Poyet,201801,201808
+411,176,Jocelyn Gourvennec,201607,201801
+432,176,Ulrich Rame,201603,201606
+433,176,Willy Sagnol,201407,201603
+434,176,Francis Gillot,201106,201405
+435,177,David Guion,201705,202105
+403,177,Michel Der Zakarian,201607,201705
+435,177,David Guion,201604,201606
+436,177,Olivier Guegan,201504,201604
+437,177,Jean-Luc Vasseur,201407,201504
+438,177,Hubert Fournier,201007,201406
+165,178,Rudi Garcia,201910,202105
+439,178,Sylvio Mendes Campos,201907,201910
+440,178,Bruno Genesio,201512,201906
+438,178,Hubert Fournier,201407,201512
+3,178,Remi Garde,201106,201406
+441,179,Christophe Pelissier,201905,202206
+442,179,Mickael Landreau,201705,201905
+443,179,Bernard Casoni,201611,201705
+444,179,Sylvain Ripoll,201407,201610
+395,179,Christian Gourcuff,200307,201406
+382,180,Frederic Antonetti,202010,202206
+445,180,Vincent Hognon,201812,202010
+382,180,Frederic Antonetti,201805,201906
+392,180,Frederic Hantz,201710,201805
+446,180,Philippe Hinschberger,201512,201710
+447,180,Jose Riga,201507,201512
+423,180,Albert Cartier,201207,201506
+448,181,David Linares,202011,202108
+449,181,Stephane Jobard,201906,202011
+412,181,Antoine Kombouare,201901,201906
+450,181,Olivier Dall'Oglio,201206,201812
+417,182,Jean-Louis Garcia,201907,202105
+451,182,Alain Perrin,201810,201906
+452,182,Didier Tholot,201804,201810
+453,182,Patrick Gabriel,201801,201804
+445,182,Vincent Hognon,201708,201801
+454,182,Pablo Correa,201310,201708
 57,202,Steve McClaren,201805,201904
 69,202,Harry Redknapp,201211,201502
 70,202,Chris Ramsey,201502,201511
 71,202,Jimmy Floyd Hasselbaink,201512,201611
 72,202,Ian Holloway,201611,201805
 73,202,Mark Warburton,201905,202206
-,203,,,
-,204,,,
-,205,,,
-,206,,,
-,207,,,
-,208,,,
-,209,,,
-,210,,,
+455,203,William Viali,202001,202206
+456,203,Francesco Modesto,201906,202001
+457,203,Giuseppe Angelini,201807,201906
+202,203,Fabrizio Castori,201710,201807
+458,203,Andrea Camplone,201610,201709
+234,203,Massimo Drago,201507,201610
+136,203,Domenico Di Carlo,201412,201506
+459,203,Pierpaolo Bisoli,201209,201412
+460,205,Steffen Baumgart,201704,202106
+461,205,Stefan Emmerling,201612,201704
+462,205,Rene Muller,201603,201611
+463,205,Stefan Effenberg,201510,201603
+464,205,Markus Gellhaus,201507,201510
+277,205,Andre Breitenreiter,201307,201506
+421,206,German Crespo,202104,-
+465,206,Pablo Alfaro,202012,202104
+353,206,Juan Sabas,202003,202012
+306,206,Raul Agne,201910,202003
+370,206,Enrique Martin,201907,201910
+508,206,Rafael Navarro,201902,201906
+466,206,Curro Torres,201811,201902
+330,206,Jose Ramon Sandoval,201808,201811
+330,206,Jose Ramon Sandoval,201802,201806
+468,206,Jorge Romero,201712,201802
+469,206,Luis Miguel Carrion,201611,201710
+365,206,Jose Luis Oltra,201507,201611
+471,206,Jose Antonio Romero,201503,201506
+343,206,Miroslav Djukic,201410,201503
+222,206,Albert Ferrer,201402,201410
+470,206,Pablo Villanueva,201307,201402
+472,207,Jorge Almiron,202008,202102
+473,207,"Jose Rojo Martin ""Pacheta""",201802,202008
+474,207,"Jose Joaquin Moreno Verdu ""Josico""",201711,201802
+475,207,Vicente Mir,201707,201711
+476,207,Alberto Toril,201607,201704
+329,207,Ruben Baraja,201507,201606
+315,207,Fran Escriba,201207,201506
+477,208,Jose Gomes,202007,202104
+478,208,"Jose Maria Gutierrez Hernandez ""Guti""",201911,202006
+479,208,Pedro Emanuel,201908,201911
+480,208,Fran Fernandez,201804,201906
+351,208,Lucas Alcaraz,201711,201804
+481,208,Luis Miguel Ramis,201703,201711
+482,208,Fernando Soriano,201607,201702
+483,208,Nestor Gorosito,201512,201605
+484,208,Joan Carrillo,201510,201512
+248,208,Sergi Barjuan,201504,201510
+485,208,Juan Ignacio Martinez,201412,201504
+467,208,Francisco Rodriguez,201307,201412
+524,209,Helder Esteves,202010,202105
+525,209,Eric Guichard,201907,202009
+526,209,Bryan Bergougnoux,201807,201906
+527,209,Romain Revelli,201601,201606
+528,209,Safet Susic,201507,201601
+400,209,Pascal Dupraz,201209,201506
+487,210,Franck Haise,202002,-
+397,210,Philippe Montanier,201805,202002
+488,210,Eric Sikora,201708,201805
+427,210,Alain Casanova,201607,201708
+412,210,Antoine Kombouare,201306,201606
 87,219,Chris Powell,201409,201511
 88,219,David Wagner,201511,201901
 89,219,Jan Siewert,201901,201908
 90,219,Danny Cowley,201909,202007
-91,219,Carlos Corberán,202007,202207
+91,219,Carlos Corberan,202007,202207
 53,220,Graham Potter,201905,202209
 92,220,Sami Hyypia,201406,201412
 93,220,Chris Hughton,201412,201905
-,221,,,
-,222,,,
-,223,,,
-,224,,,
-,225,,,
+138,221,Pasquale Marino,202008,202103
+489,221,Luigi Di Biagio,202002,202008
+490,221,Leonardo Semplici,201412,202002
+491,221,Oscar Brevi,201407,201412
+492,221,Massimo Gadda,201310,201406
+170,222,Filippo Inzaghi,201906,202106
+493,222,Cristian Bucchi,201807,201906
+189,222,Roberto De Zerbi,201710,201806
+191,222,Marco Baroni,201607,201710
+494,222,Gaetano Auteri,201507,201606
+495,222,Juan Landaida,201504,201506
+496,222,Daniele Cinelli,201504,201506
+497,222,Fabio Brini,201401,201504
+467,223,Francisco Rodriguez,202006,202106
+378,223,Josep Lluis Marti,201910,202006
+357,223,Juan Carlos Unzue,201907,201910
+131,223,Eusebio Sacristan,201807,201906
+122,223,Pablo Machin,201403,201806
+498,223,Javi Lopez,201312,201403
+499,224,Oswald Tanchot,202009,202106
+500,224,Luka Elsner,201907,202009
+441,224,Christophe Pelissier,201412,201905
+501,224,Samuel Michel,201406,201412
+502,224,Olivier Echouafni,201309,201406
+425,225,Thierry Laurey,201607,202105
+503,225,Jacky Dugueperoux,201403,201606
+504,225,Francois Keller,201107,201403
 35,227,Neil Warnock,201610,201911
-63,227,Ole Gunnar Solskjær,201401,201409
+63,227,Ole Gunnar Solskjaer,201401,201409
 94,227,Russell Slade,201410,201605
 95,227,Paul Trollope,201605,201610
 96,227,Neil Harris,201911,202101
 97,227,Mick McCarthy,202101,202110
 18,228,Claudio Ranieri,201811,201902
-79,228,Slaviša Jokanović,201512,201811
+79,228,Slavisa Jokanovic,201512,201811
 98,228,Felix Magath,201402,201409
 99,228,Kit Symons,201409,201511
 100,228,Scott Parker,201902,202106
 1,229,Paul Lambert,201611,201705
-44,229,Nuno Espírito Santo,201705,202106
+44,229,Nuno Espirito Santo,201705,202106
 101,229,Kenny Jackett,201306,201607
 102,229,Walter Zenga,201607,201610
-,230,,,
-,231,,,
-,232,,,
-,233,,,
-,234,,,
-,235,,,
+235,230,Fabio Liverani,202008,202101
+505,230,Roberto D'Aversa,201612,202008
+506,230,Luigi Apolloni,201507,201611
+171,230,Roberto Donadoni,201201,201506
+155,231,Sergio Gonzalez Soriano,201804,202106
+507,231,Luis Cesar Sampedro,201707,201804
+319,231,Paco Herrera,201607,201706
+344,231,Alberto Lopez,201604,201606
+364,231,Miguel Angel Portugal,201510,201604
+126,231,Gaizka Garitano,201507,201510
+153,231,"Joan Francesc Ferrer Sicilia ""Rubi""",201406,201506
+485,231,Juan Ignacio Martinez,201306,201405
+328,232,"Miguel Angel Sanchez Munoz ""Michel""",201907,202101
+467,232,Francisco Rodriguez,201810,201906
+509,232,Leo Franco,201807,201810
+153,232,"Joan Francesc Ferrer Sicilia ""Rubi""",201707,201806
+510,232,Juan Anquela,201511,201706
+511,232,Luis Tevenet,201407,201511
+512,232,David Navarro,201403,201406
+513,232,David Amaral,201309,201403
+107,233,Uwe Rosler,202001,202106
+514,233,Friedhelm Funkel,201603,202001
+515,233,Marco Kurz,201512,201603
+516,233,Frank Kramer,201507,201511
+517,233,Taskin Aksoy,201502,201506
+518,233,Oliver Reck,201403,201502
+519,233,Lorenz-Gunther Kostner,201401,201406
+520,234,Robert Klaub,202007,202210
+228,234,Jens Keller,201911,202006
+521,234,Damir Canadi,201905,201911
+522,234,Boris Schommers,201902,201906
+523,234,Michael Kollner,201703,201902
+424,234,Alois Schwartz,201607,201703
+422,234,Rene Weiler,201411,201606
+300,234,Valerien Ismael,201407,201411
+358,234,Roger Prinzen,201404,201406
+258,234,Gertjan Verbeek,201310,201404
+285,238,Jerome Arpinon,202006,202102
+206,238,Bernard Blaquart,201511,202006
+340,238,Jose Pasqualetti,201407,201511
+335,238,Rene Marsiglia,201312,201506
 66,238,Nigel Adkins,201506,201605
 103,238,Nigel Clough,201310,201505
 104,238,Chris Wilder,201605,202103
-217,239,Luis Garcia,"06 Aug, 2020","22 Mar, 2022"
-149,239,Vicente Moreno,"01 Jul, 2017","03 Aug, 2020"
-218,239,Sergi Barjuan,"04 Apr, 2017","01 Jul, 2017"
-219,239,Javier Olaizola,"06 Dec, 2016","03 Apr, 2017"
-220,239,Fernando Vazquez,"18 Jan, 2016","06 Dec, 2016"
-221,239,Jose Galvez,"16 Jan, 2016","18 Jan, 2016"
-222,239,Albert Ferrer,"01 Jul, 2015","16 Jan, 2016"
-223,239,Miquel Soler,"09 Feb, 2015","01 Jul, 2015"
-224,239,Valery Karpin,"13 Aug, 2014","09 Feb, 2015"
-225,239,Lluis Carreras,"01 Jun, 2013","01 May, 2014"
-226,240,Urs Fischer,"01 Jul, 2018",Present
-227,240,Andre Hofschneider,"01 Dec, 2017","01 Jul, 2018"
-228,240,Jens Keller,"26 Jun, 2016","01 Dec, 2017"
-229,240,Sascha Lewandowski,"02 Sep, 2015","26 Jun, 2016"
-230,240,Norbert Duwel,"01 Jul, 2014","02 Sep, 2015"
-,241,,,
-173,242,Diego Lopez,"05 Feb, 2020",Present
-188,242,Eugenio Corini,"03 Dec, 2019","05 Feb, 2020"
-231,242,Roberto Boscaglia,"03 Jul, 2017","03 Dec, 2019"
-232,242,Alessandro Calori,"18 Feb, 2015","03 Jul, 2017"
-233,242,Salvatore Giunta,"21 Jan, 2015","17 Feb, 2015"
-234,242,Ivan Javorcic,"16 Dec, 2014","20 Jan, 2015"
-188,243,Eugenio Corini,"22 Aug, 2020","22 May, 2022"
-235,243,Fabio Liverani,"17 Sep, 2017","19 Aug, 2020"
-236,243,Roberto Rizzo,"01 Jul, 2017","10 Sep, 2017"
-237,243,Franco Lerda,"24 Sep, 2013","01 Jul, 2017"
+217,239,Luis Garcia,202008,202203
+149,239,Vicente Moreno,201707,202008
+218,239,Sergi Barjuan,201704,201707
+219,239,Javier Olaizola,201612,201704
+220,239,Fernando Vazquez,201601,201612
+222,239,Albert Ferrer,201507,201601
+223,239,Miquel Soler,201502,201507
+224,239,Valery Karpin,201408,201502
+225,239,Lluis Carreras,201306,201405
+226,240,Urs Fischer,201807,na
+227,240,Andre Hofschneider,201712,201807
+228,240,Jens Keller,201606,201712
+229,240,Sascha Lewandowski,201509,201606
+230,240,Norbert Duwel,201407,201509
+450,241,Olivier Dall'Oglio,201905,202105
+420,241,Jean-Marc Furlan,201607,201906
+327,241,Alex Dupont,201305,201606
+173,242,Diego Lopez,202002,na
+188,242,Eugenio Corini,201912,202002
+231,242,Roberto Boscaglia,201707,201912
+232,242,Alessandro Calori,201502,201707
+188,243,Eugenio Corini,202008,202205
+235,243,Fabio Liverani,201709,202008
+236,243,Roberto Rizzo,201707,201709
+237,243,Franco Lerda,201309,201707
 48,245,Garry Monk,201606,201705
-105,245,Darko Milanič,201409,201410
+105,245,Darko Milanic,201409,201410
 106,245,Neil Redfearn,201411,201506
-107,245,Uwe Rösler,201507,201510
+107,245,Uwe Rosler,201507,201510
 108,245,Steve Evans,201510,201605
 109,245,Thomas Christiansen,201706,201802
 110,245,Paul Heckingbottom,201802,201806
