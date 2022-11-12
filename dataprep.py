@@ -48,7 +48,7 @@ cols = ['shotID', 'gameID', 'shooterID', 'assisterID', 'situation', 'shotType', 
 shots = shots[cols]
 shots = shots.rename(columns={'assisterID': 'assistID'})
 # 12. Read in remaining tables, write all tables out to CSV files
-players = pd.read_csv('data/players.csv')
+players = pd.read_csv('data/players.csv', encoding_errors='replace')
 managers = pd.read_csv('data/manager.csv')
 leagues = pd.read_csv('data/leagues.csv')
 leagues = leagues.rename(columns={'name': 'leagueName'})

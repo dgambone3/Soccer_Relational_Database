@@ -1,4 +1,4 @@
-playerID,playerName
+playerID,name
 560,Sergio Romero
 557,Matteo Darmian
 548,Daley Blind
@@ -20,7 +20,7 @@ playerID,playerName
 660,Ben Davies
 914,Nabil Bentaleb
 643,Eric Dier
-642,Mousa Demb�l�
+642,Mousa Dembele
 646,Christian Eriksen
 648,Nacer Chadli
 647,Harry Kane
@@ -39,7 +39,7 @@ playerID,playerName
 465,Joshua King
 468,Callum Wilson
 957,Yann Kermorgant
-472,Eunan O&#039;Kane
+472,Eunan O'Kane
 464,Max Gradel
 662,Brad Guzan
 674,Leandro Bacuna
@@ -52,7 +52,7 @@ playerID,playerName
 672,Jordan Ayew
 890,Gabriel Agbonlahor
 679,Scott Sinclair
-667,Carlos S�nchez
+667,Carlos Sanchez
 899,Kieran Richardson
 671,Rudy Gestede
 600,Tim Howard
@@ -66,18 +66,18 @@ playerID,playerName
 592,Ross Barkley
 596,Tom Cleverley
 594,Romelu Lukaku
-601,Arouna Kon�
+601,Arouna Kone
 598,Bryan Oviedo
 824,Steven Naismith
 564,Heurelho Gomes
 565,Nyom
-566,Sebastian Pr�dl
+566,Sebastian Prodl
 581,Craig Cathcart
-568,Jos� Holebas
+568,Jose Holebas
 577,Ikechi Anya
 570,Valon Behrami
 572,Etienne Capoue
-1016,Miguel Lay�n
+1016,Miguel Layun
 582,Jurado
 574,Troy Deeney
 571,Ben Watson
@@ -94,13 +94,13 @@ playerID,playerName
 750,Riyad Mahrez
 755,Jamie Vardy
 754,Shinji Okazaki
-751,N&#039;Golo Kant�
+751,N'Golo Kante
 749,Christian Fuchs
 974,Yohan Benalouane
 580,Costel Pantilimon
 742,Billy Jones
 736,Younes Kaboul
-927,Sebasti�n Coates
+927,Sebastian Coates
 730,Patrick van Aanholt
 738,Lee Cattermole
 929,Adam Johnson
@@ -128,7 +128,7 @@ playerID,playerName
 510,Joel Ward
 511,Damien Delaney
 512,Scott Dann
-513,Pape Souar�
+513,Pape Souare
 522,Wilfried Zaha
 633,James McArthur
 516,Yohan Cabaye
@@ -142,8 +142,8 @@ playerID,playerName
 682,Branislav Ivanovic
 699,Gary Cahill
 917,John Terry
-681,C�sar Azpilicueta
-686,Cesc F�bregas
+681,Cesar Azpilicueta
+686,Cesc Fabregas
 697,Nemanja Matic
 700,Willian
 692,Oscar
@@ -154,15 +154,15 @@ playerID,playerName
 694,Asmir Begovic
 706,Lukasz Fabianski
 718,Kyle Naughton
-708,Federico Fern�ndez
+708,Federico Fernandez
 709,Ashley Williams
 710,Neil Taylor
 769,Jonjo Shelvey
 723,Ki Sung-yueng
-713,Andr� Ayew
+713,Andre Ayew
 714,Gylfi Sigurdsson
 715,Jefferson Montero
-717,Baf�timbi Gomis
+717,Bafetimbi Gomis
 719,Wayne Routledge
 963,Eder
 712,Jack Cork
@@ -176,21 +176,21 @@ playerID,playerName
 772,Moussa Sissoko
 771,Georginio Wijnaldum
 851,Gabriel Obertan
-850,Papiss Demba Ciss�
-854,Cheick Tiot�
+850,Papiss Demba Cisse
+854,Cheick Tiote
 774,Siem de Jong
 773,Aleksandar Mitrovic
 846,Maarten Stekelenburg
-847,C�dric Soares
+847,Cedric Soares
 845,Maya Yoshida
-834,Jos� Fonte
+834,Jose Fonte
 884,Matt Targett
 836,Victor Wanyama
 883,Steven Davis
 840,Dusan Tadic
-838,Sadio Man�
+838,Sadio Mane
 844,Jay Rodriguez
-841,Graziano Pell�
+841,Graziano Pelle
 839,Shane Long
 832,Cuco Martina
 491,Petr Cech
@@ -201,20 +201,20 @@ playerID,playerName
 504,Aaron Ramsey
 497,Francis Coquelin
 966,Alex Oxlade-Chamberlain
-499,Mesut �zil
+499,Mesut Ozil
 965,Santiago Cazorla
 502,Olivier Giroud
 503,Theo Walcott
-498,Alexis S�nchez
-527,Adri�n
+498,Alexis Sanchez
+527,Adrian
 530,James Tomkins
 528,Angelo Ogbonna
 529,Winston Reid
 534,Aaron Cresswell
-532,Cheikhou Kouyat�
+532,Cheikhou Kouyate
 533,Mark Noble
 543,Reece Oxford
-939,Mauro Z�rate
+939,Mauro Zarate
 656,Diafra Sakho
 536,Dimitri Payet
 1029,Modibo Maiga
@@ -267,23 +267,23 @@ playerID,playerName
 626,Eliaquim Mangala
 621,Aleksandar Kolarov
 614,Fernandinho
-878,Yaya Tour�
-616,Jes�s Navas
+878,Yaya Toure
+616,Jesus Navas
 617,David Silva
 618,Raheem Sterling
 622,Wilfried Bony
 877,Samir Nasri
-623,Mart�n Demichelis
-619,Sergio Ag�ero
+623,Martin Demichelis
+619,Sergio Aguero
 323,Adnan Januzaj
 842,Oriol Romeu
 843,James Ward-Prowse
 591,Gerard Deulofeu
 977,Tyias Browning
-732,Yann M&#039;Vila
+732,Yann M'Vila
 932,Danny Graham
 919,Duncan Watmore
-796,Gary O&#039;Neil
+796,Gary O'Neil
 783,Nathan Dyer
 830,Leon Britton
 765,Steven Taylor
@@ -296,13 +296,13 @@ playerID,playerName
 744,Steven Berghuis
 805,Jonas Olsson
 806,Gareth McAuley
-813,Salom�n Rond�n
+813,Salomun Rondun
 938,Carl Jenkinson
 542,Pedro Obiang
 535,Manuel Lanzini
 526,Lee Chung-yong
 822,Patrick Bamford
-492,H�ctor Beller�n
+492,Hector Bellerin
 545,Kieran Gibbs
 970,Mikel Arteta
 936,Ramires
@@ -311,15 +311,15 @@ playerID,playerName
 975,Lee Tomlin
 825,Adam Smith
 191,Chicharito
-770,Ayoze P�rez
+770,Ayoze Perez
 942,Florian Thauvin
 888,Xherdan Shaqiri
-729,John O&#039;Shea
+729,John O'Shea
 520,Bakary Sako
 743,Dwight Gayle
 675,Jack Grealish
-900,Adama Traor�
-761,G�khan Inler
+900,Adama Traore
+761,Gokhan Inler
 756,Leonardo Ulloa
 653,Tom Carroll
 540,Darren Randolph
@@ -368,23 +368,23 @@ playerID,playerName
 546,David de Gea
 553,Anthony Martial
 484,Divock Origi
-931,Jordi G�mez
+931,Jordi Gumez
 737,Fabio Borini
 453,Son Heung-Min
 775,Andros Townsend
 541,Victor Moses
 537,Andy Carroll
 690,Lo�c Remy
-583,Adl�ne Gu�dioura
-579,Nathan Ak�
+583,Adlene Guedioura
+579,Nathan Ake
 828,Sylvain Distin
 872,Peter Crouch
 720,Modou Barrow
-611,Nicol�s Otamendi
+611,Nicolas Otamendi
 531,Michail Antonio
 655,James Collins
 940,Nikica Jelavic
-960,Clinton N&#039;Jie
+960,Clinton N'Jie
 634,Fraizer Campbell
 550,Marcos Rojo
 559,Paddy McNair
@@ -400,10 +400,10 @@ playerID,playerName
 951,Phil Jones
 983,Kevin Mbabu
 998,Ivan Toney
-947,V�ctor Ibarbo
+947,Victor Ibarbo
 509,Wayne Hennessey
 921,Darron Gibson
-962,Jos� �ngel Crespo
+962,Jose Angel Crespo
 610,Pablo Zabaleta
 916,Yoan Gouffran
 766,Jamaal Lascelles
@@ -414,7 +414,7 @@ playerID,playerName
 992,James Wilson
 954,Kelvin Davis
 837,Jordy Clasie
-810,St�phane Sessegnon
+810,Stephane Sessegnon
 684,Abdul Rahman Baba
 558,Jesse Lingard
 469,Adam Federici
@@ -425,7 +425,7 @@ playerID,playerName
 787,Ryan Bennett
 567,Miguel Britos
 652,Kieran Trippier
-952,Gast�n Ram�rez
+952,Gastun Ramirez
 797,Youssouf Mulumbu
 886,Ryan Shawcross
 506,Joel Campbell
@@ -437,9 +437,9 @@ playerID,playerName
 661,Josh Onomah
 958,Tokelo Rantie
 1037,Cameron Borthwick-Jackson
-1066,Charles N&#039;Zogbia
+1066,Charles N'Zogbia
 922,Andreas Pereira
-476,Kolo Tour�
+476,Kolo Toure
 657,Alexandre Song
 905,Marouane Chamakh
 949,Giedrius Arlauskis
@@ -448,9 +448,9 @@ playerID,playerName
 799,Declan Rudd
 547,Guillermo Varela
 676,Jores Okore
-695,Bertrand Traor�
+695,Bertrand Traore
 588,Leighton Baines
-613,Ga�l Clichy
+613,Gael Clichy
 973,Paulo Gazzaniga
 1072,Nick Powell
 760,Marcin Wasilewski
@@ -463,7 +463,7 @@ playerID,playerName
 477,Brad Smith
 910,Harrison Reed
 666,Aly Cissokho
-1026,Libor Koz�k
+1026,Libor Kozak
 1060,Jonathan Williams
 678,Mark Bunn
 826,Benik Afobe
@@ -474,24 +474,24 @@ playerID,playerName
 232,Jan Kirchhoff
 778,Henri Saivet
 762,Demarai Gray
-898,Obbi Oular�
+898,Obbi Oulare
 786,Ivo Pinto
 650,Kevin Wimmer
 848,Charlie Austin
 803,Ben Foster
 575,Nordin Amrabat
-777,Emmanuel Rivi�re
+777,Emmanuel Riviere
 902,Sam Byram
-937,Jo�o Teixeira
+937,Joao Teixeira
 162,Timm Klose
-728,Lamine Kon�
-731,Dame N&#039;Doye
+728,Lamine Kone
+731,Dame N'Doye
 734,Wahbi Khazri
 521,Emmanuel Adebayor
 817,Sandro
 716,Alberto Paloschi
 584,Joel Robles
-576,Mario Su�rez
+576,Mario Suarez
 1054,Bersant Celina
 861,Giannelli Imbula
 1059,Hiram Boateng
@@ -514,8 +514,8 @@ playerID,playerName
 896,Jay Fulton
 490,Jon Flanagan
 505,David Ospina
-906,Manu Garc�a
-893,S�bastien Pocognoli
+906,Manu Garcia
+893,Sebastien Pocognoli
 874,Andre Green
 478,Sheyi Ojo
 683,Matt Miazga
@@ -558,9 +558,9 @@ playerID,playerName
 1693,David Meyler
 1690,Sam Clucas
 1691,Robert Snodgrass
-1698,Abel Hern�ndez
+1698,Abel Hernandez
 1694,Adama Diomande
-1680,Luis Hern�ndez
+1680,Luis Hernandez
 1681,Ahmed Musa
 1737,Matt Phillips
 985,Mason Holgate
@@ -579,21 +579,21 @@ playerID,playerName
 1663,Johann Berg Gudmundsson
 1664,Lukas Jutkiewicz
 1728,Fernando Llorente
-1705,V�ctor Vald�s
+1705,Victor Valdes
 1757,Nsue
-1706,Antonio Barrag�n
+1706,Antonio Barragan
 1707,Ben Gibson
 1708,George Friend
 1710,Marten de Roon
 1717,Adam Clayton
 1782,Albert Adomah
 1712,Stewart Downing
-1715,�lvaro Negredo
+1715,Alvaro Negredo
 1753,David Nugent
 1711,Adam Forshaw
-343,Pierre-Emile H�jbjerg
-1784,J�r�my Pied
-1722,Juan Zu�iga
+343,Pierre-Emile Hojbjerg
+1784,Jeremy Pied
+1722,Juan Zuoiga
 1732,Nolito
 1027,Lynden Gooch
 1789,Lewis Cook
@@ -605,15 +605,15 @@ playerID,playerName
 265,Ragnar Klavan
 1678,Michy Batshuayi
 1760,Arthur Masuaku
-202,H�vard Nordtveit
-1703,G�khan T�re
+202,Havard Nordtveit
+1703,Gokhan Tore
 1740,Paul Pogba
 1764,Ramadan Sobhi
 1657,Steven Defour
-1662,Aiden O&#039;Neill
+1662,Aiden O'Neill
 1669,Marko Grujic
 1692,Shaun Maloney
-1726,Abdoulaye Doucour�
+1726,Abdoulaye Doucoure
 1017,Matej Vydra
 1785,Nampalys Mendy
 1071,Papy Djilobodji
@@ -636,11 +636,11 @@ playerID,playerName
 1687,Harry Maguire
 1713,Viktor Fischer
 1731,Claudio Bravo
-337,Leroy San�
+337,Leroy Sane
 1765,Jonathan Benteke
 1743,Bruno Martins Indi
 1699,Shkodran Mustafi
-1700,Lucas P�rez
+1700,Lucas Perez
 1746,Jeff Hendrick
 1642,Simone Zaza
 1763,Stefano Okaka
@@ -648,13 +648,13 @@ playerID,playerName
 1720,Didier Ndong
 1676,David Luiz
 1682,Islam Slimani
-314,Ilkay G�ndogan
-1055,Aleix Garc�a
+314,Ilkay Gundogan
+1055,Aleix Garcia
 1738,Hal Robson-Kanu
 1674,Sofiane Feghouli
-1701,Borja Bast�n
+1701,Borja Bastun
 1714,Jordan Rhodes
-1729,Georges-K�vin Nkoudou
+1729,Georges-Kevin Nkoudou
 1742,Lee Grant
 1671,Ezekiel Fryers
 1702,Mike van der Hoorn
@@ -662,7 +662,7 @@ playerID,playerName
 1684,David Marshall
 1696,Markus Henriksen
 1621,Marcos Alonso
-1704,�lvaro Arbeloa
+1704,Alvaro Arbeloa
 1673,Edimilson Fernandes
 1668,Michael Kightly
 1677,Nathaniel Chalobah
@@ -674,20 +674,20 @@ playerID,playerName
 1410,Rafael
 1842,Eros Pisano
 1853,Vangelis Moras
-2034,Rafael M�rquez
+2034,Rafael Marquez
 1954,Samuel Souprayen
 1151,Emil Hallfredsson
 1996,Leandro Greco
 1221,Jacopo Sala
 1959,Bosko Jankovic
 1955,Luca Toni
-1851,Juanito G�mez
-1849,R�mulo
+1851,Juanito Gumez
+1849,Rumulo
 1847,Giampaolo Pazzini
 1846,Luca Siligardi
 1244,Wojciech Szczesny
 1254,Alessandro Florenzi
-1179,Leandro Cast�n
+1179,Leandro Castan
 1246,Kostas Manolas
 1438,Vasilis Torosidis
 1251,Radja Nainggolan
@@ -738,16 +738,16 @@ playerID,playerName
 1402,Mauricio Isla
 1138,Orestis Karnezis
 1149,Thomas Heurtaux
-1887,Iv�n Piris
+1887,Ivan Piris
 1140,Danilo
 1097,Edenilson
 1156,Ali Adnan
 1228,Bruno Fernandes
 1977,Manuel Iturra
 1150,Emmanuel Badu
-1147,Cyril Th�r�au
+1147,Cyril Thereau
 1888,Antonio Di Natale
-1148,Duv�n Zapata
+1148,Duvan Zapata
 1561,Panagiotis Kone
 1139,Silvan Widmer
 1328,Stefano Sorrentino
@@ -760,8 +760,8 @@ playerID,playerName
 1271,Ivaylo Chochev
 1273,Mato Jajalo
 1275,Robin Quaison
-1836,Franco V�zquez
-1909,Fabio Daprel�
+1836,Franco Vazquez
+1909,Fabio Daprela
 1837,Aleksandar Trajkovski
 1284,Oscar Hiljemark
 1113,Eugenio Lamanna
@@ -780,7 +780,7 @@ playerID,playerName
 1924,Diego Capel
 1532,Emiliano Viviano
 1813,Mattia Cassani
-1222,Mat�as Silvestre
+1222,Matias Silvestre
 1530,Andrea Coda
 1224,Vasco Regini
 1937,Fernando
@@ -794,7 +794,7 @@ playerID,playerName
 1974,Zeljko Brkic
 1972,Gaetano Letizia
 2054,Igor Bubnjic
-1342,Nicol�s Spolli
+1342,Nicolas Spolli
 1896,Riccardo Gagliolo
 1153,Ryder Matos
 1904,Filippo Porcari
@@ -818,19 +818,19 @@ playerID,playerName
 1338,Antonio Floro Flores
 1360,Diego Falcinelli
 1826,Nicola Sansone
-1374,Jos� Reina
+1374,Jose Reina
 1391,Christian Maggio
-1588,Ra�l Albiol
+1588,Raul Albiol
 1395,Vlad Chiriches
 1375,Elseid Hysaj
 1381,Marek Hamsik
-1857,David L�pez
+1857,David Lupez
 1184,Mirko Valdifiori
 1393,Lorenzo Insigne
-1293,Gonzalo Higua�n
+1293,Gonzalo Higuain
 1384,Dries Mertens
 1385,Omar El Kaddouri
-1382,Jos� Callej�n
+1382,Jose Callejun
 1383,Manolo Gabbiadini
 1505,Samir Handanovic
 1509,Davide Santon
@@ -848,22 +848,22 @@ playerID,playerName
 1291,Hernanes
 1501,Marco Sportiello
 1485,Andrea Masiello
-1610,Nicol� Cherubin
+1610,Nicolu Cherubin
 1556,Guglielmo Stendardo
-1490,Boukary Dram�
+1490,Boukary Drame
 1557,Carlos Carmona
 1492,Jasmin Kurtic
 2029,Maximiliano Moralez
-1984,Germ�n Denis
+1984,German Denis
 1491,Alejandro Gomez
 1494,Mauricio Pinilla
-1502,Marco D&#039;Alessandro
+1502,Marco D'Alessandro
 1503,Giulio Migliaccio
 1305,Lukasz Skorupski
 1323,Marco Zambelli
 4032,Luca Martinelli
 1320,Federico Barba
-1792,M�rio Rui
+1792,Mario Rui
 1312,Daniele Croce
 1386,Piotr Zielinski
 1326,Assane Diousse
@@ -881,13 +881,13 @@ playerID,playerName
 1341,Ivan Radovanovic
 1334,Perparim Hetemaj
 1333,Lucas Castro
-1912,Paul-Jos� M&#039;Poku
+1912,Paul-Jose M'Poku
 1337,Riccardo Meggiorini
 1335,Nicola Rigoni
 1329,Fabrizio Cacciatore
 1416,Ciprian Tatarusanu
 1435,Nenad Tomovic
-1418,Gonzalo Rodr�guez
+1418,Gonzalo Rodriguez
 1884,Facundo Roncaglia
 1430,Milan Badelj
 1422,Borja Valero
@@ -895,9 +895,9 @@ playerID,playerName
 1426,Josip Ilicic
 1424,Federico Bernardeschi
 1425,Nikola Kalinic
-1622,Mat�as Fern�ndez
+1622,Matias Fernandez
 1419,Davide Astori
-1618,Diego L�pez
+1618,Diego Lupez
 1120,Mattia De Sciglio
 1119,Alessio Romagnoli
 1131,Rodrigo Ely
@@ -913,7 +913,7 @@ playerID,playerName
 2006,Alessio Cerci
 1873,Nicola Leali
 1352,Aleandro Rosi
-1807,Modibo Diakit�
+1807,Modibo Diakite
 1861,Adriano Russo
 1862,Roberto Crivello
 1963,Luca Paganini
@@ -934,11 +934,11 @@ playerID,playerName
 1183,Marco Benassi
 1182,Daniele Baselli
 1269,Alessandro Gazzi
-1188,Maxi L�pez
+1188,Maxi Lupez
 1230,Fabio Quagliarella
 1192,Afriyie Acquah
 1194,Giuseppe Vives
-1198,Josef Mart�nez
+1198,Josef Martinez
 1458,Ibrahima Mbaye
 1439,Domenico Maietta
 1452,Godfred Donsah
@@ -953,9 +953,9 @@ playerID,playerName
 1322,Raffaele Maiello
 1823,Lucas Digne
 1187,Adem Ljajic
-1942,Mart�n C�ceres
+1942,Martin Caceres
 1296,Stefano Sturaro
-1804,�lvaro Morata
+1804,Alvaro Morata
 1852,Ante Rebic
 1644,Giuseppe Rossi
 5821,Alexander Merkel
@@ -971,14 +971,14 @@ playerID,playerName
 1936,Niklas Moisander
 1906,Matteo Fedele
 1973,Lorenzo Lollo
-1949,Fredy Guar�n
+1949,Fredy Guarin
 1522,Andrea Ranocchia
 1506,Yuto Nagatomo
 1171,Simone Pepe
 1204,Patric
 1883,Ravel Morrison
 1096,Armando Izzo
-1099,Tom�s Rinc�n
+1099,Tomas Rincun
 1581,Serge Gakpe
 1104,Leonardo Pavoletti
 1456,Federico Viviani
@@ -989,7 +989,7 @@ playerID,playerName
 1359,Aleksandar Tonev
 1868,Daniel Ciofani
 1309,Manuel Pasqual
-1423,Mat�as Vecino
+1423,Matias Vecino
 1434,Khouma Babacar
 1966,Jakub Blaszczykowski
 1539,Diego Perotti
@@ -997,7 +997,7 @@ playerID,playerName
 1602,Daniel Pavlovic
 1872,Raman Chibsah
 1866,Paolo Sammarco
-1822,Antonio R�diger
+1822,Antonio Rudiger
 1255,Francesco Totti
 1289,Alex Sandro
 1300,Claudio Marchisio
@@ -1038,14 +1038,14 @@ playerID,playerName
 1135,Ignazio Abate
 1573,Riccardo Montolivo
 1817,Mario Balotelli
-1809,Joaqu�n Correa
+1809,Joaquin Correa
 1241,Pedro Pereira
 1812,Alejandro Rodriguez
 1442,Saphir Ta�der
 1451,Anthony Mounier
 1033,Emanuele Giaccherini
 1457,Luca Rizzo
-1159,Molla Wagu�
+1159,Molla Wague
 2028,Ronaldo
 1574,Davide Calabria
 1340,Roberto Inglese
@@ -1062,7 +1062,7 @@ playerID,playerName
 1843,Matteo Bianchetti
 1971,Simone Romagnoli
 1112,Isaac Cofie
-1969,Joan Verd�
+1969,Joan Verdu
 1877,Ogenyi Onazi
 1213,Filip Djordjevic
 1890,Maurizio Domizzi
@@ -1078,13 +1078,13 @@ playerID,playerName
 1958,Mattia Zaccagni
 1297,Neto
 1865,Alessandro Frara
-2026,Nicol�s Castillo
+2026,Nicolas Castillo
 1793,Alessandro Piu
 1944,William Vainqueur
-2025,Matuzal�m
+2025,Matuzalem
 1527,Emanuele Terranova
 1797,Lorenzo Ariaudo
-1934,Gast�n Silva
+1934,Gastun Silva
 2003,Antonio La Gumina
 1562,Francesco Lodi
 1415,Luca Bittante
@@ -1092,10 +1092,10 @@ playerID,playerName
 1938,Carlos Carbonero
 1908,Vid Belec
 1901,Raphael Martinho
-1325,Marcel B�chel
+1325,Marcel Buchel
 1311,Rade Krunic
 1245,Emerson
-1599,Norbert Gy�mb�r
+1599,Norbert Gyomber
 1141,Felipe
 1292,Sami Khedira
 1587,Kwadwo Asamoah
@@ -1107,7 +1107,7 @@ playerID,playerName
 1546,Federico Mattiello
 1154,Stipe Perica
 1878,Miroslav Klose
-1095,Ezequiel Mu�oz
+1095,Ezequiel Muooz
 1437,�ngelo Da Costa
 1545,Emil Krafth
 2019,Federico Bonazzoli
@@ -1115,14 +1115,14 @@ playerID,playerName
 1480,Gianluca Pegolo
 1932,Sanjin Prcic
 1848,Luca Checchin
-1165,Gast�n Brugman
+1165,Gastun Brugman
 1515,Cristian Ansaldi
-1523,Danilo D&#039;Ambrosio
+1523,Danilo D'Ambrosio
 1432,Luca Lezzerini
 1858,Massimo Zappino
 1827,Alessandro Longhi
 1816,Philippe Mexes
-1126,M&#039;Baye Niang
+1126,M'Baye Niang
 2018,Amauri
 1471,Lorenzo Pellegrini
 1899,Lorenzo Pasciuti
@@ -1132,7 +1132,7 @@ playerID,playerName
 1267,Michel Morganella
 1281,Giuseppe Pezzella
 1596,Archimede Morleo
-1950,Mart�n Montoya
+1950,Martin Montoya
 1301,Daniele Rugani
 1558,Davide Bassi
 1487,Andrea Conti
@@ -1150,8 +1150,8 @@ playerID,playerName
 1608,Salvador Ichazo
 1209,Ciro Immobile
 1536,Norbert Balogh
-1533,Dod�
-1231,Ricardo �lvarez
+1533,Dodu
+1231,Ricardo Alvarez
 1369,Marcello Trotta
 1854,Ferdinando Coppola
 1876,Milan Bisevac
@@ -1173,7 +1173,7 @@ playerID,playerName
 1802,Alexander Farnerud
 1547,Pablo Armero
 1488,Remo Freuler
-2014,J�r�my Menez
+2014,Jeremy Menez
 1105,Riccardo Fiamozzi
 1839,Fabrizio Alastra
 1808,Nenad Krsticic
@@ -1183,8 +1183,8 @@ playerID,playerName
 1519,Juan Pablo Carrizo
 1475,Claud Adjapong
 1821,Christian Abbiati
-1310,Jos� Mauri
-1350,Jonathan de Guzm�n
+1310,Jose Mauri
+1350,Jonathan de Guzman
 1875,Vasiliy Pryima
 1535,Accursio Bentivegna
 1132,Gabriel
@@ -1199,7 +1199,7 @@ playerID,playerName
 1989,Francesco Bardi
 1927,Berat Gjimshiti
 1806,Alberto Brignoli
-1811,Andr�s Ponce
+1811,Andres Ponce
 1830,Ionut Radu
 1829,Fabio Della Giovanna
 1553,Maurizio Pugliesi
@@ -1212,10 +1212,10 @@ playerID,playerName
 1144,Seko Fofana
 1145,Rodrigo de Paul
 1088,Gabriele Angella
-1548,Adalberto Pe�aranda
+1548,Adalberto Peoaranda
 1288,Dani Alves
 1433,Federico Chiesa
-1189,Lucas Boy�
+1189,Lucas Boye
 18,Slobodan Rajkovic
 1270,Haitam Aleesami
 1272,Ilija Nestorovski
@@ -1232,13 +1232,13 @@ playerID,playerName
 1172,Alessandro Crescenzi
 1174,Dario Zuparic
 1583,Arkadiusz Milik
-1489,Franck Kessi�
+1489,Franck Kessie
 1500,Leonardo Spinazzola
 1493,Andrea Petagna
 1563,Jordan Lukaku
 1218,Cristiano Lombardi
 1202,Wallace
-1443,�d�m Nagy
+1443,Adam Nagy
 1447,Ladislav Krejci
 1351,Alex Cordaz
 1353,Claiton
@@ -1252,10 +1252,10 @@ playerID,playerName
 1362,Simy
 1361,Raffaele Palladino
 1628,Pietro De Giorgio
-1368,Nicol� Fazzi
+1368,Nicolu Fazzi
 1348,Vittorio Parigini
 1520,�ver Banega
-1317,Andr�s Tello
+1317,Andres Tello
 1226,Karol Linetty
 1227,Lucas Torreira
 1236,Patrik Schick
@@ -1270,14 +1270,14 @@ playerID,playerName
 1400,Nicola Murru
 1404,Davide Di Gennaro
 1406,Marco Sau
-1414,Niccol� Giannetti
+1414,Niccolu Giannetti
 1411,Gianni Munari
 1645,Marko Pajac
 1595,Bastos
 328,Medhi Benatia
 1577,Marko Pjaca
-1128,Gustavo G�mez
-1130,Jos� Sosa
+1128,Gustavo Gumez
+1130,Jose Sosa
 1136,Gianluca Lapadula
 1549,Senna Miangue
 1234,Dennis Praet
@@ -1290,7 +1290,7 @@ playerID,playerName
 1308,Giuseppe Bellusci
 1324,Federico Dimarco
 1398,Bartosz Salamon
-1409,Nicol� Barella
+1409,Nicolu Barella
 1634,Alessandro Deiola
 1367,Marco Festa
 1358,Leonardo Capezzi
@@ -1303,7 +1303,7 @@ playerID,playerName
 1605,Diego Farias
 1143,Sven Kums
 1167,Alberto Aquilani
-1512,Jo�o M�rio
+1512,Joao Mario
 1314,Guido Marilungo
 1366,Noe Dussenne
 1528,Andrea Nalini
@@ -1314,9 +1314,9 @@ playerID,playerName
 1102,Giovanni Simeone
 1181,Antonio Barreca
 1397,Fabio Pisacane
-1592,Jo�o Pedro
+1592,Joao Pedro
 1372,Andrea Barberis
-1436,Sebasti�n Crist�foro
+1436,Sebastian Cristuforo
 1214,Thomas Strakosha
 1219,Luis Alberto
 1575,Timo Letschert
@@ -1344,18 +1344,18 @@ playerID,playerName
 1428,Ianis Hagi
 217,Manuel Neuer
 218,Philipp Lahm
-220,J�r�me Boateng
+220,Jerume Boateng
 391,David Alaba
 230,Xabi Alonso
 392,Arjen Robben
 222,Arturo Vidal
-224,Thomas M�ller
+224,Thomas Muller
 393,Douglas Costa
 227,Robert Lewandowski
-422,Mario G�tze
-229,Thiago Alc�ntara
+422,Mario Goatze
+229,Thiago Alcantara
 221,Rafinha
-163,Ren� Adler
+163,Rene Adler
 175,Dennis Diekmeier
 165,Emir Spahic
 302,Johan Djourou
@@ -1367,7 +1367,7 @@ playerID,playerName
 176,Sven Schipplock
 172,Ivo Ilicevic
 173,Pierre-Michel Lasogga
-177,Marcelo D�az
+177,Marcelo Diaz
 303,Ivica Olic
 181,Bernd Leno
 182,Roberto Hilbert
@@ -1379,20 +1379,20 @@ playerID,playerName
 186,Karim Bellarabi
 189,Hakan Calhanoglu
 190,Stefan Kie�ling
-195,Andr� Ramalho
+195,Andre Ramalho
 261,Julian Brandt
 194,Admir Mehmedi
 73,Oliver Baumann
-74,Pavel Kader�bek
-76,Fabian Sch�r
-75,Niklas S�le
+74,Pavel Kaderabek
+76,Fabian Schar
+75,Niklas Sule
 77,Jin-Su Kim
 80,Pirmin Schwegler
 81,Jonathan Schmid
 86,Eugen Polanski
 254,Steven Zuber
 83,Kevin Volland
-255,Kevin Kur�nyi
+255,Kevin Kuranyi
 79,Tobias Strobl
 445,Philipp Ochs
 88,Mark Uth
@@ -1405,12 +1405,12 @@ playerID,playerName
 270,Alexander Esswein
 280,Halil Altintop
 397,Tobias Werner
-273,Ra�l Bobadilla
+273,Raul Bobadilla
 272,Caiuby
-398,Sascha M�lders
+398,Sascha Molders
 267,Philipp Max
 434,Thomas Kraft
-443,Peter Pekar�k
+443,Peter Pekarik
 25,Fabian Lustenberger
 21,Sebastian Langkamp
 23,Marvin Plattenhardt
@@ -1427,7 +1427,7 @@ playerID,playerName
 110,Theodor Gebre Selassie
 123,Assani Lukimya
 111,Jannik Vestergaard
-399,Ulisses Garc�a
+399,Ulisses Garcia
 114,Philipp Bargfrede
 301,Zlatko Junuzovic
 117,Clemens Fritz
@@ -1435,9 +1435,9 @@ playerID,playerName
 119,Anthony Ujah
 118,Levin �ztunali
 116,Florian Grillitsch
-112,Alejandro G�lvez
-430,Aron J�hannsson
-330,Ralf F�hrmann
+112,Alejandro Galvez
+430,Aron Juhannsson
+330,Ralf Fahrmann
 331,Sascha Riether
 451,Matija Nastasic
 334,Dennis Aogo
@@ -1447,8 +1447,8 @@ playerID,playerName
 152,Julian Draxler
 341,Franco Di Santo
 340,Klaas-Jan Huntelaar
-427,Marco H�ger
-346,Roman Neust�dter
+427,Marco Hoger
+346,Roman Neustadter
 38,Daniel Brosinski
 40,Stefan Bell
 39,Niko Bungert
@@ -1464,7 +1464,7 @@ playerID,playerName
 271,Ja-Cheol Koo
 233,Ramazan �zcan
 234,Tobias Levels
-251,Benjamin H�bner
+251,Benjamin Hubner
 236,Marvin Matip
 402,Konstantin Engel
 239,Pascal Gro�
@@ -1475,7 +1475,7 @@ playerID,playerName
 241,Mathew Leckie
 237,Robert Bauer
 248,Elias Kachunga
-235,Romain Br�gerie
+235,Romain Bregerie
 1,Christian Mathenia
 7,Florian Jungwirth
 3,Luca Caldirola
@@ -1483,7 +1483,7 @@ playerID,playerName
 5,Fabian Holland
 6,Marcel Heller
 299,Peter Niemeyer
-8,J�r�me Gondorf
+8,Jerume Gondorf
 13,Konstantin Rausch
 14,Marco Sailer
 16,Dominik Stroh-Engel
@@ -1495,15 +1495,15 @@ playerID,playerName
 94,Christian Schulz
 95,Miiko Albornoz
 108,Manuel Schmiedebach
-96,Salif San�
+96,Salif Sane
 98,Kenan Karaman
 100,Edgar Prib
 350,Felix Klaus
-104,Mevl�t Erdinc
+104,Mevlut Erdinc
 349,Artur Sobiech
 99,Leon Andreasen
 103,Charlison Benschop
-309,Roman B�rki
+309,Roman Burki
 310,Lukasz Piszczek
 373,Mats Hummels
 371,Sokratis
@@ -1513,14 +1513,14 @@ playerID,playerName
 321,Shinji Kagawa
 318,Pierre-Emerick Aubameyang
 188,Kevin Kampl
-324,Adri�n Ramos
+324,Adrian Ramos
 311,Sven Bender
 199,Yann Sommer
 201,Tony Jantschke
 200,Andreas Christensen
 211,Marvin Schulz
 206,Oscar Wendt
-207,Ibrahima Traor�
+207,Ibrahima Traore
 208,Lars Stindl
 327,Fabian Johnson
 209,Josip Drmic
@@ -1531,12 +1531,12 @@ playerID,playerName
 159,Koen Casteels
 151,Vieirinha
 147,Naldo
-308,Ricardo Rodr�guez
+308,Ricardo Rodriguez
 150,Josuha Guilavogui
 153,Maximilian Arnold
 155,Max Kruse
 158,Bas Dost
-146,Christian Tr�sch
+146,Christian Trasch
 160,Nicklas Bendtner
 174,Aaron Hunt
 281,Lukas Hradecky
@@ -1557,7 +1557,7 @@ playerID,playerName
 383,Florian Klein
 71,Timo Baumgartl
 67,Adam Hlousek
-59,Emiliano Ins�a
+59,Emiliano Insua
 300,Daniel Didavi
 60,Christian Gentner
 62,Lukas Rupp
@@ -1570,7 +1570,7 @@ playerID,playerName
 127,Timo Horn
 128,Pawel Olkowski
 129,Dominique Heintz
-138,Frederik S�rensen
+138,Frederik Sorensen
 131,Jonas Hector
 132,Matthias Lehmann
 134,Marcel Risse
@@ -1585,9 +1585,9 @@ playerID,playerName
 34,Alexander Baumjohann
 125,Maximilian Eggestein
 90,Sebastian Rudy
-345,J�nior Cai�ara
+345,Junior Caiaara
 338,Max Meyer
-2,Gy�rgy Garics
+2,Gyorgy Garics
 12,Mario Vrancic
 359,Timothy Chandler
 368,Konstantinos Stafylidis
@@ -1597,7 +1597,7 @@ playerID,playerName
 92,Hiroki Sakai
 101,Allan Saint-Maximin
 66,Robbie Kruse
-170,Nicolai M�ller
+170,Nicolai Muller
 69,Carlos Gruezo
 56,Daniel Schwaab
 250,�rjan Nyland
@@ -1611,13 +1611,13 @@ playerID,playerName
 216,Branimir Hrgota
 322,Joo-Ho Park
 43,Danny Latza
-154,Andr� Sch�rrle
+154,Andre Schurrle
 342,Sead Kolasinac
-61,Geoffroy Serey Di�
+61,Geoffroy Serey Die
 375,Odisseas Vlachodimos
 289,Marc Stendera
 141,Philipp Hosiner
-166,Cl�ber
+166,Cleber
 386,Gojko Kacar
 361,Uffe Bech
 85,Eduardo Vargas
@@ -1626,10 +1626,10 @@ playerID,playerName
 228,Sebastian Rode
 260,Sebastian Boenisch
 31,Johannes van den Bergh
-113,Santiago Garc�a
+113,Santiago Garcia
 120,Felix Kroos
 215,Roel Brouwers
-412,Andr� Hahn
+412,Andre Hahn
 439,Martin Stranzl
 178,Jaroslav Drobny
 223,Joshua Kimmich
@@ -1655,20 +1655,20 @@ playerID,playerName
 432,Devante Parker
 307,Suat Serdar
 84,Ermin Bicakcic
-225,Javi Mart�nez
-149,Marcel Sch�fer
+225,Javi Martinez
+149,Marcel Schafer
 156,Sebastian Jung
 258,Tolga Cigerci
 19,Rune Jarstein
-333,Benedikt H�wedes
+333,Benedikt Howedes
 193,Giulio Donati
 435,Benjamin Henrichs
-15,J�nior D�az
+15,Junior Diaz
 124,Janek Sternberg
-400,Lukas Fr�de
+400,Lukas Frode
 257,Jeremy Toljan
-48,Jhon C�rdoba
-401,�lvaro Dom�nguez
+48,Jhon Curdoba
+401,Alvaro Dominguez
 253,Tomas Pekhart
 249,Danny da Costa
 279,Piotr Trochowski
@@ -1676,25 +1676,25 @@ playerID,playerName
 364,Luca-Milan Zander
 50,Gonzalo Jara
 214,Tobias Sippel
-97,Ceyhun G�lselam
+97,Ceyhun Gulselam
 164,Gotoku Sakai
 245,Max Christiansen
 130,Dominic Maroh
 121,Melvyn Lorenzen
 378,Milos Pantovic
-360,�d�m Szalai
+360,Adam Szalai
 184,�mer Toprak
 417,Tin Jedvaj
 298,Constant Djakpa
 70,Philip Heise
 82,Nadiem Amiri
-179,Zolt�n Stieber
+179,Zoltan Stieber
 198,Vladlen Yurchenko
 405,Mart Ristl
-367,Jan Mor�vek
+367,Jan Moravek
 352,Kazuki Nagasawa
 381,Ronny
-20,Yanni Reg�sel
+20,Yanni Regasel
 357,David Kinsombi
 212,Nico Elvedi
 219,Holger Badstuber
@@ -1708,10 +1708,10 @@ playerID,playerName
 58,Georg Niedermeier
 374,Marvin Wanitzek
 68,Boris Tashchy
-329,Franck Rib�ry
+329,Franck Ribery
 53,Maximilian Beister
 274,Christoph Janker
-102,Mike-Steven B�hre
+102,Mike-Steven Bahre
 244,Stefan Wannenwetsch
 246,Maurice Multhaup
 192,Marlon Frey
@@ -1719,7 +1719,7 @@ playerID,playerName
 87,Joelinton
 247,Danilo Soares
 2643,Mergim Mavraj
-429,Francisco Rodr�guez
+429,Francisco Rodriguez
 2666,Artjoms Rudnevs
 2644,Filip Mladenovic
 2664,Kevin Gro�kreutz
@@ -1727,18 +1727,18 @@ playerID,playerName
 436,Andre Hoffmann
 2680,Hugo Almeida
 2689,Jiloan Hamad
-2636,Dar�o Lezcano
-354,Ga�tan Bussmann
+2636,Dario Lezcano
+354,Gaetan Bussmann
 2668,Martin Hinteregger
 2640,Erik Durm
 2660,Szabolcs Huszti
-2661,Marco Fabi�n
-2637,Youn�s Belhanda
+2661,Marco Fabian
+2637,Younes Belhanda
 370,Marvin Friedrich
-2638,Alessandro Sch�pf
+2638,Alessandro Schopf
 2662,Christian Pulisic
 2681,Hotaru Yamaguchi
-2647,L�szl� Kleinheisler
+2647,Laszlu Kleinheisler
 2692,Leon Guwara
 2674,Thilo Kehrer
 161,Robin Knoche
@@ -1752,7 +1752,7 @@ playerID,playerName
 2650,Serdar Tasci
 380,Sandro Sirigu
 450,Benjamin Gorka
-2667,Sambou Yatabar�
+2667,Sambou Yatabare
 2645,Marcel Hartel
 2653,Iver Fossum
 2693,Marius Wolf
@@ -1761,7 +1761,7 @@ playerID,playerName
 2649,Sonny Kittel
 325,Roman Weidenfeller
 2663,Felix Passlack
-419,Maximilian Mittelst�dt
+419,Maximilian Mittelstadt
 2690,Sidney Sam
 2691,Milos Veljkovic
 2657,Nabil Bahoui
@@ -1769,13 +1769,13 @@ playerID,playerName
 2673,Albian Ajeti
 2631,Karim Onisiwo
 277,Alexander Manninger
-454,Charles Ar�nguiz
+454,Charles Aranguiz
 408,Carlos Ascues
-403,Lukas Kl�nter
+403,Lukas Klunter
 2659,Noah Joel Sarenren Bazee
 385,Daniel Opare
 2652,Valmir Sulejmani
-415,Oliver H�sing
+415,Oliver Husing
 2625,Paul Seguin
 446,Florian Kohls
 2629,Matthias Zimmermann
@@ -1788,14 +1788,14 @@ playerID,playerName
 2646,�zkan Yildirim
 142,Thomas Kessler
 256,Jens Grahl
-2639,Alexander N�bel
+2639,Alexander Nubel
 196,Dario Kresic
 2634,David Yelldell
 2632,Elkin Soto
 351,Lukasz Zaluska
 2623,Milan Ivana
 3593,Fallou Diagne
-3254,Lamine San�
+3254,Lamine Sane
 5351,Lennart Thy
 5291,Takashi Usami
 5327,Jeffrey Bruma
@@ -1803,31 +1803,31 @@ playerID,playerName
 2215,Alen Halilovic
 5274,Michael Hector
 2456,Omar Mascarell
-5234,Jes�s Vallejo
+5234,Jesus Vallejo
 5356,Breel Embolo
 5277,Michael Esser
 5284,Artem Fedetskyy
-4288,Immanuel H�hn
+4288,Immanuel Hohn
 5341,Denys Oliinyk
 2453,Marc Bartra
-3226,Ousmane Demb�l�
+3226,Ousmane Dembele
 3455,Raphael Guerreiro
-3468,Jonas L�ssl
+3468,Jonas Lossl
 4764,Jean-Philippe Gbamin
 5222,Joel Pohjanpalo
 5262,Alexander Schwolow
-5264,Caglar S�y�nc�
-4250,Nicolas H�fler
+5264,Caglar Soyuncu
+4250,Nicolas Hofler
 5292,Manuel Gulde
 5265,Amir Abrashi
 4271,Janik Haberer
 5266,Vincenzo Grifo
-4243,Christian G�nter
+4243,Christian Gunter
 4247,Maximilian Philipp
 5267,Onur Bulut
 4248,Nils Petersen
 5287,Marco Terrazzino
-5241,P�ter Gul�csi
+5241,Peter Gulacsi
 5253,Benno Schmitz
 5244,Marvin Compper
 5257,Willi Orban
@@ -1845,7 +1845,7 @@ playerID,playerName
 5228,Renato Sanches
 3887,Mario Gomez
 5353,Josip Brekalo
-5295,Sven M�ller
+5295,Sven Muller
 3216,Marcel Tisserand
 5216,Robert Leipertz
 5333,Roman Bezjak
@@ -1864,7 +1864,7 @@ playerID,playerName
 5272,Emre Mor
 5282,Antonio-Mirko Colak
 5231,Florian Kainz
-4036,Jos� Rodr�guez
+4036,Jose Rodriguez
 5312,Taleb Tawatha
 5310,Ousman Manneh
 5270,Gerrit Holtmann
@@ -1881,16 +1881,16 @@ playerID,playerName
 5290,Shani Tarashaj
 5304,Mikel Merino
 2656,Tim Rieder
-4252,Marc Torrej�n
+4252,Marc Torrejun
 5346,Jonas Meffert
 5220,Kai Havertz
 2252,Borja Mayoral
 5215,Florent Hadergjonaj
-5313,Julian G�nther-Schmidt
+5313,Julian Gunther-Schmidt
 2348,Carlos Kameni
 2331,Roberto Rosales
 2556,Marcos Angeleri
-2333,Ra�l Albentosa
+2333,Raul Albentosa
 2439,Arthur Boka
 2338,Ricardo Horta
 2540,Fernando Tissone
@@ -1904,14 +1904,14 @@ playerID,playerName
 2073,Coke
 2412,Adil Rami
 2414,Grzegorz Krychowiak
-2510,Beno�t Tr�moulinas
-2413,Steven N&#039;Zonzi
+2510,Beno�t Tremoulinas
+2413,Steven N'Zonzi
 2065,Vicente Iborra
 2441,Reyes
 2511,Vitolo
 2442,Kevin Gameiro
 2440,Mariano
-2503,Germ�n Lux
+2503,German Lux
 2313,Laure
 2314,Sidnei
 2486,Alberto Lopo
@@ -1923,91 +1923,91 @@ playerID,playerName
 2322,Cani
 2318,Fede Cartabia
 2323,Oriol Riera
-2225,Ger�nimo Rulli
-2226,Zald�a
-2484,I�igo Mart�nez
+2225,Gerunimo Rulli
+2226,Zaldua
+2484,Ioigo Martinez
 2236,Diego Reyes
 2239,Alberto De la Bella
 2233,Xabi Prieto
-2242,Rub�n Pardo
+2242,Ruben Pardo
 2231,Markel Bergara
 2235,Bruma
 2480,Jonathas
 2416,Carlos Vela
 2571,Sergio Canales
 2342,Gonzalo Castro
-2107,Pau L�pez
+2107,Pau Lupez
 2586,Anaitz Arbilla
-2430,�lvaro Gonz�lez
-2584,Ra�llo
-2110,Rub�n Duarte
-2108,Javi L�pez
-2113,V�ctor S�nchez
-2118,Paco Monta��s
+2430,Alvaro Gonzalez
+2584,Raillo
+2110,Ruben Duarte
+2108,Javi Lupez
+2113,Victor Sanchez
+2118,Paco Montaoes
 2121,Salva Sevilla
-2111,V�ctor �lvarez
+2111,Victor Alvarez
 2116,Felipe Caicedo
 2432,Burgui
-2114,Jos� Ca�as
+2114,Jose Caoas
 2120,Gerard Moreno
 2190,Vicente Guaita
-2194,Dami�n Su�rez
+2194,Damian Suarez
 2192,Santiago Vergini
 2572,Alexis
 2191,Vigaray
 2195,Mehdi Lacen
-2205,Juan Rodr�guez
-2197,Pedro Le�n
+2205,Juan Rodriguez
+2197,Pedro Leun
 2199,Pablo Sarabia
-2471,V�ctor Rodr�guez
-2200,�lvaro V�zquez
-2203,Emiliano Buend�a
-2196,�lvaro Medr�n
-2618,Ian Gonz�lez
+2471,Victor Rodriguez
+2200,Alvaro Vazquez
+2203,Emiliano Buendia
+2196,Alvaro Medran
+2618,Ian Gonzalez
 2261,Jan Oblak
 2262,Juanfran
-2278,Gim�nez
-2264,Diego God�n
+2278,Gimenez
+2264,Diego Godin
 2265,Filipe Luis
-2424,�liver Torres
+2424,Oliver Torres
 2268,Gabi
 2273,Tiago
 2269,Koke
 2270,Antoine Griezmann
-2548,Jackson Mart�nez
-2400,Ra�l Garc�a
-2275,�ngel Correa
+2548,Jackson Martinez
+2400,Raul Garcia
+2275,Angel Correa
 2271,Fernando Torres
-2351,Ra�l Lizoain
-2364,David Sim�n
+2351,Raul Lizoain
+2364,David Simun
 2353,Pedro Bigas
 2588,Antolin Alcaraz
 2461,Aythami
 2355,Dani Castellano
 2356,Roque Mesa
-2429,Hern�n
+2429,Hernan
 2622,Javi Castellano
 2358,Jonathan Viera
 2365,Sergio Araujo
-2363,Vicente G�mez
-2361,Willian Jos�
+2363,Vicente Gumez
+2361,Willian Jose
 2360,Momo
-2601,To�o
+2601,Tooo
 2159,Tito
-2487,Z� Castro
+2487,Ze Castro
 2163,Diego Llorente
 2161,Nacho
 2575,Patrick Ebert
-2488,Ra�l Baena
+2488,Raul Baena
 2162,Roberto Trashorras
-2168,Beb�
+2168,Bebe
 2170,Miku
 2171,Manucho
-2602,Luis Fari�a
+2602,Luis Farioa
 2558,Lass
 2385,Mat Ryan
-2379,Jo�o Cancelo
-2386,R�ben Vezo
+2379,Joao Cancelo
+2386,Ruben Vezo
 2377,Javi Fuego
 2387,Danilo
 2384,Santi Mina
@@ -2020,37 +2020,37 @@ playerID,playerName
 2404,Elustondo
 2396,Balenziaga
 2406,Mikel Rico
-2397,Be�at
+2397,Beoat
 2405,Markel Susaeta
 2409,Eraso
 2499,Sabin
 2410,Aduriz
 2408,Gurpegi
-2491,Ibai G�mez
-2393,Eneko B�veda
+2491,Ibai Gumez
+2393,Eneko Buveda
 2091,Javier Mascherano
 2093,Jordi Alba
-2096,Andr�s Iniesta
+2096,Andres Iniesta
 2094,Ivan Rakitic
 2095,Sergio Busquets
 2097,Lionel Messi
-2098,Luis Su�rez
+2098,Luis Suarez
 2100,Rafinha
-2537,Sandro Ram�rez
+2537,Sandro Ramirez
 2104,Sergi Roberto
-2208,Iv�n Cu�llar
+2208,Ivan Cuellar
 2209,Alberto Lora
 1716,Bernardo
-2211,Isma L�pez
+2211,Isma Lupez
 2214,Carlos Carmona
 2213,Nacho Cases
-2212,Sergio �lvarez
+2212,Sergio Alvarez
 2216,Jony
 2218,Guerrero
 2217,Antonio Sanabria
 2220,Rachid
-2585,Juan Mu�iz
-2219,�lex Men�ndez
+2585,Juan Muoiz
+2219,Alex Menendez
 2243,Keylor Navas
 2244,Danilo
 2245,Raphael Varane
@@ -2061,92 +2061,92 @@ playerID,playerName
 2255,Isco
 2251,Gareth Bale
 2371,Cristiano Ronaldo
-2256,Jes�
+2256,Jese
 2260,Daniel Carvajal
-2249,James Rodr�guez
+2249,James Rodriguez
 2254,Mateo Kovacic
-2188,Rub�n Mart�nez
-2175,Iv�n L�pez
+2188,Ruben Martinez
+2175,Ivan Lupez
 2178,Juanfran
-2516,�ngel Trujillo
+2516,Angel Trujillo
 2179,Simao Mate
-2187,To�o
-2390,V�ctor Camarasa
-2391,Jos� Mari
+2187,Tooo
+2390,Victor Camarasa
+2391,Jose Mari
 2180,Verza
 2542,Nabil Ghilas
 2185,Deyverson
 2186,Morales
-2184,Casades�s
-2183,Rub�n Garc�a
-2293,Rub�n Blanco
+2184,Casadesus
+2183,Ruben Garcia
+2293,Ruben Blanco
 2281,Hugo Mallo
 2419,Cabral
-2600,Font�s
+2600,Fontas
 2280,Jonny
 2284,Daniel Wass
-2267,Augusto Fern�ndez
-2286,Pablo Hern�ndez
-2285,Fabi�n Orellana
+2267,Augusto Fernandez
+2286,Pablo Hernandez
+2285,Fabian Orellana
 2290,Iago Aspas
-2553,N�stor
+2553,Nestor
 2283,Planas
 2287,John Guidetti
-2141,Antonio Ad�n
+2141,Antonio Adan
 2560,Cristiano Piccini
-2143,Germ�n Pezzella
+2143,German Pezzella
 2444,Bruno
 2448,Juan Vargas
-2142,�lvaro Cejudo
+2142,Alvaro Cejudo
 2146,Xavi Torres
-2144,Alfred N&#039;Diaye
+2144,Alfred N'Diaye
 2149,Francisco Portillo
-2150,Rub�n Castro
+2150,Ruben Castro
 2155,Jorge Molina
 2446,Dani Ceballos
 2604,Vincenzo Rennella
-2447,Fabi�n
+2447,Fabian
 2310,Alphonse Areola
 2296,Mario
-2298,V�ctor Ruiz
+2298,Victor Ruiz
 2539,Jaume Costa
 2309,Nahuel
-2482,Tom�s Pina
+2482,Tomas Pina
 2302,Bruno
 2303,Samu Castillejo
 2311,Roberto Soldado
 2304,Leo Baptistao
 2301,Manu Trigueros
-2306,C�dric Bakambu
-2300,Samu Garc�a
-2075,Andr�s Fern�ndez
+2306,Cedric Bakambu
+2300,Samu Garcia
+2075,Andres Fernandez
 2509,Dimitri Foulquier
 2077,Jean-Sylvain Babin
 2563,Diego Mainz
 2420,Salva Ruiz
-2080,Rub�n P�rez
-2422,Javi M�rquez
-2089,Robert Ib��ez
-2079,Rub�n Rochina
+2080,Ruben Perez
+2422,Javi Marquez
+2089,Robert Ibaoez
+2079,Ruben Rochina
 2425,Piti
 2082,Youssef El-Arabi
-2088,Edgar M�ndez
+2088,Edgar Mendez
 2076,Miguel Lopes
 2124,Xabi Irureta
 2125,Ander Capa
 2126,Mauro Dos Santos
-2127,Iv�n Ramis
+2127,Ivan Ramis
 2436,Antonio Luna
-2130,Dani Garc�a
-2133,Adri�n
+2130,Dani Garcia
+2133,Adrian
 2131,Keko
 2437,Gonzalo Escalante
-2134,Sa�l Berj�n
+2134,Saul Berjun
 2135,Sergi Enrich
 2591,Mikel Arruabarrena
-2128,David Junc�
+2128,David Junca
 2307,Jonathan dos Santos
-2115,Hern�n P�rez
+2115,Hernan Perez
 2228,Aritz Elustondo
 2232,Asier Illarramendi
 2099,Neymar
@@ -2154,7 +2154,7 @@ playerID,playerName
 2332,Weligton
 2334,Miguel Torres
 2337,Recio
-2279,Sergio �lvarez
+2279,Sergio Alvarez
 2289,Nemanja Radoja
 2158,Quini
 2172,Juan Carlos
@@ -2166,24 +2166,24 @@ playerID,playerName
 2530,Didier Digard
 2138,Asier Riesgo
 2394,Etxeita
-2403,��igo Lekue
+2403,�oigo Lekue
 2613,Aketxe
-2069,Daniel Carri�o
+2069,Daniel Carriao
 2443,Michael Krohn-Dehli
-2329,Jes�s G�mez
+2329,Jesus Gamez
 2272,Yannick Carrasco
-2266,Sa�l ��guez
-2505,Jos� Gay�
-2380,Paco Alc�cer
+2266,Saul �iguez
+2505,Jose Gaya
+2380,Paco Alcacer
 2378,Daniel Parejo
 2315,Alejandro Arribas
 2500,Luisinho
-2327,Jonathan Rodr�guez
-2207,Emiliano Vel�zquez
-2198,Moi G�mez
+2327,Jonathan Rodriguez
+2207,Emiliano Velazquez
+2198,Moi Gumez
 2450,Wanderson
-2573,�ngel Lafita
-2085,Lomb�n
+2573,Angel Lafita
+2085,Lomban
 2083,Rene Krhin
 2554,Thievy
 2367,Javi Varas
@@ -2193,41 +2193,41 @@ playerID,playerName
 2566,Roger
 2182,Jefferson Lerma
 2603,Marco Andreolli
-2063,Timoth�e Kolodziejczak
-2549,Ga�l Kakuta
+2063,Timothee Kolodziejczak
+2549,Gael Kakuta
 2434,Michael Ciani
-2122,Joan Jord�n
+2122,Joan Jordan
 2258,Pepe
-2253,Lucas V�zquez
-2222,Pablo P�rez
+2253,Lucas Vazquez
+2222,Pablo Perez
 2475,Jaume
 2374,Aymen Abdennour
-2376,Enzo P�rez
-2383,Andr� Gomes
+2376,Enzo Perez
+2383,Andre Gomes
 2274,Luciano Vietto
-2090,Marc-Andr� ter Stegen
+2090,Marc-Andre ter Stegen
 2445,Heiko Westermann
-2148,Joaqu�n
-2227,Mikel Gonz�lez
+2148,Joaquin
+2227,Mikel Gonzalez
 2535,Imanol Agirretxe
 2084,Fran Rico
-2305,Adri�n
-2308,Denis Su�rez
-2395,San Jos�
+2305,Adrian
+2308,Denis Suarez
+2395,San Jose
 2514,Roberto Lago
 2202,Stefan Scepovic
 2288,Theo Bongonda
 2362,Mubarak Wakaso
 2595,Adnane Tighadouini
 2562,Eddy
-2164,Pablo Hern�ndez
-2166,Adri�n Embarba
+2164,Pablo Hernandez
+2166,Adrian Embarba
 2167,Javi Guerra
-2546,Juan Dom�nguez
+2546,Juan Dominguez
 2472,Bernard Mensah
 2494,Denis Cheryshev
 2421,Doria
-2579,Nicol�s L�pez
+2579,Nicolas Lupez
 2240,Esteban Granero
 2241,Oier
 2119,Rober Correa
@@ -2236,8 +2236,8 @@ playerID,playerName
 2112,Papakouly Diop
 2117,Marco Asensio
 2072,Sergio Rico
-2282,Sergi G�mez
-2224,Alberto Garc�a
+2282,Sergi Gumez
+2224,Alberto Garcia
 2457,Roberto Canella
 2577,Kike Sola
 2454,Adriano
@@ -2249,9 +2249,9 @@ playerID,playerName
 2263,Stefan Savic
 2375,Guilherme Siqueira
 2230,David Zurutuza
-2210,Jorge Mer�
+2210,Jorge Mere
 2223,Carlos Castro
-2092,Gerard Piqu�
+2092,Gerard Pique
 2137,Aleksandar Pantic
 2140,Borja Ekiza
 2299,Antonio Rukavina
@@ -2259,59 +2259,59 @@ playerID,playerName
 2153,Rafael van der Vaart
 1012,Ricky van Wolfswinkel
 2564,Uche
-2428,Juan Carlos Valer�n
+2428,Juan Carlos Valerun
 2247,Nacho
 2335,Pablo Fornals
 2426,Chechu Dorado
 2292,Dejan Drazic
 2152,Varela
-2317,�lex Berganti�os
+2317,Alex Bergantioos
 2433,Mamadou Sylla
 2612,Noblejas
-2399,I�aki Williams
+2399,Ioaki Williams
 2398,Iturraspe
-2321,Jon�s Guti�rrez
-2352,David Garc�a
+2321,Jonas Gutierrez
+2352,David Garcia
 2521,Alfonso
 2518,Marcos Llorente
 2504,Douglas
 2336,Ignacio Camacho
 2366,Javier Garrido
-2463,Nauzet Alem�n
-2606,F�bio Espinho
+2463,Nauzet Aleman
+2606,Fabio Espinho
 2229,Yuri
 2234,Mikel Oyarzabal
 2359,Tana
 2297,Daniele Bonera
 2605,Mendi
 2259,Kiko Casilla
-2189,Pedro L�pez
+2189,Pedro Lupez
 2177,David Navarro
 2181,Jordi Xumetra
-2565,L�vy Madinda
+2565,Levy Madinda
 2465,Lillo
 2431,Abraham
 2599,Hugo Fraile
-2512,Carlos Mart�nez
-2464,I�igo Barrenetxea
+2512,Carlos Martinez
+2464,Ioigo Barrenetxea
 2608,Hachim Mastour
 2578,Javi Ontiveros
 2402,Borja Viguera
-2156,Dani Gim�nez
+2156,Dani Gimenez
 2193,Cala
 2201,Yoda
 2582,Jordi Figueras
-2237,H�ctor
+2237,Hector
 2328,Thomas Partey
 2341,Roque Santa Cruz
-2294,Se��
+2294,Seoe
 2497,Dani Ndi
-2483,Adri�n Mar�n
+2483,Adrian Marin
 2064,Sergio Escudero
 2477,Tropi
-2154,�lvaro Vadillo
+2154,Alvaro Vadillo
 2506,Alende
-2529,Borja Fern�ndez
+2529,Borja Fernandez
 2495,Mateo Musacchio
 2157,Yoel
 2438,Egor Filipenko
@@ -2319,17 +2319,17 @@ playerID,playerName
 2291,Pape Cheikh
 2173,Joni Montiel
 2401,Muniain
-2174,Diego Mari�o
-2550,Nikos Kar�mpelas
+2174,Diego Marioo
+2550,Nikos Karampelas
 2576,Zhang Chengdong
-2559,Guiti�n
-2459,�lex Barrera
+2559,Guitian
+2459,Alex Barrera
 2569,Fran Villalba
 2481,Foued Kadir
 2103,Aleix Vidal
 2102,Arda Turan
 2389,Mauricio Cuero
-2407,Iago Herrer�n
+2407,Iago Herrerin
 2544,David Goldar
 2502,Claudio Beauvue
 2132,Jota
@@ -2337,140 +2337,140 @@ playerID,playerName
 2087,David Barral
 2455,Ognjen Vranjes
 2368,Montoro
-2435,�scar Duarte
+2435,Oscar Duarte
 2312,Manu
 2344,Christian Atsu
-2276,Lucas Hern�ndez
+2276,Lucas Hernandez
 2129,Josip Radosevic
 2147,Charly Musonda
 2078,Ricardo Costa
 2349,Ikechukwu Uche
 2373,Diego Alves
 2081,Isaac Cuenca
-2067,Juan Mu�oz
+2067,Juan Muooz
 2515,Nili Perdomo
-2423,Mat�as Kranevitter
+2423,Matias Kranevitter
 2139,Ion Ansotegi
 2541,Imanol Corral
 2221,Igor Lichnovsky
 2176,Carl Medjani
 2354,Mauricio Lemos
-2508,Leandro Dami�o
+2508,Leandro Damiao
 2347,Federico Ricca
 2507,Capilla
-2206,�lvaro Pereira
+2206,Alvaro Pereira
 2324,Stipe Pletikosa
 2325,Manuel Pablo
-2462,�ngel
+2462,Angel
 2330,Guillermo Ochoa
 2489,Aras �zbiliz
 2492,Sergi Samper
 2326,Rober
-2086,Jes�s Fern�ndez
+2086,Jesus Fernandez
 2460,Sergio Asenjo
 2522,Henok Goitom
 2527,Nacho Monsalve
 2066,Curro
 2496,Rodri
-2451,Miguel �ngel
+2451,Miguel Angel
 2238,Jon Bautista
 2485,Ander Gayoso
 2469,Matos
-2470,Cot�n
+2470,Cotan
 2062,Nico Pareja
 2295,Mariano Barbosa
-2071,Diego Gonz�lez
-2070,Carlos Fern�ndez
+2071,Diego Gonzalez
+2070,Carlos Fernandez
 2476,Sito
 2417,Igor Zubeldia
 2411,David Carmona
-3279,Bakary Kon�
+3279,Bakary Kone
 5100,Nauzet
-5097,Javier Fla�o
-5090,David Garc�a
-5205,Miguel Fla�o
-5141,Unai Garc�a
+5097,Javier Flaoo
+5090,David Garcia
+5205,Miguel Flaoo
+5141,Unai Garcia
 5094,Fausto
 5096,De las Cuevas
 5128,Oier
 5129,Kenan Kodro
-5088,Bu�uel
+5088,Buouel
 5099,Jaime Romero
-5130,Fran M�rida
+5130,Fran Merida
 5084,Bruno Gama
 4068,Florin Andone
 5076,Cristian Rivera
-5074,Kike Garc�a
-5075,Rub�n Pe�a
+5074,Kike Garcia
+5075,Ruben Peoa
 3567,Samuel Umtiti
 3237,Aissa Mandi
 5036,Riza Durmisi
-5170,Felipe Guti�rrez
+5170,Felipe Gutierrez
 3346,Jonas Martin
 3544,Jeremie Boga
 5180,Jon Toral
 2057,Ezequiel Ponce
 4163,Luis Martins
-5167,Mario Gonz�lez
-5113,Santos Borr�
+5167,Mario Gonzalez
+5113,Santos Borre
 5051,Gabriel Mercado
 3210,Wissam Ben Yedder
-5087,Roberto Jim�nez
+5087,Roberto Jimenez
 5078,Fernando Amorebieta
 5158,Akram Afif
 5077,Mikel Vesga
 5135,David Concha
-5071,Nicol�s Gait�n
+5071,Nicolas Gaitan
 5042,Fernando Pacheco
-5043,Kiko Femen�a
-5114,Ra�l Garc�a
+5043,Kiko Femenia
+5114,Raul Garcia
 5048,Daniel Torres
-5045,Manu Garc�a
+5045,Manu Garcia
 4162,Gaizka Toquero
-5044,V�ctor Laguardia
+5044,Victor Laguardia
 5115,Christian Santos
 5116,Pione Sisto
 5203,Jon Serantes
-5117,V�ctor D�az
-5119,Mart�n Mantovani
+5117,Victor Diaz
+5119,Martin Mantovani
 4107,Unai Bustinza
 5065,Diego Rico
-4091,Unai L�pez
+4091,Unai Lupez
 5066,David Timor
 5118,Alberto
 5067,Gabriel Pires
-4037,Pablo Ins�a
-4226,Darwin Mach�s
+4037,Pablo Insua
+4226,Darwin Machis
 2589,Rafa Mir
-4042,M�chel Macedo
+4042,Michel Macedo
 5080,Emre Colak
 5188,Borja Valle
 5086,Marc Roca
 5169,Youssef En-Nesyri
 5101,Carlos Clerc
-5095,Sergio Le�n
+5095,Sergio Leun
 5073,Florian Lejeune
 4536,Nani
 5110,Mariano
 5068,Alexander Szymanowski
 5192,Tyronne
-2547,Theo Hern�ndez
+2547,Theo Hernandez
 5202,Cristian Espinoza
 5210,Aitor Cantalapiedra
 5171,Tano
 5093,Roberto Torres
 5111,Ganso
-5055,Mateo Garc�a
+5055,Mateo Garcia
 5057,Jasper Cillessen
 5181,Omar Ramos
-5166,Kon�
+5166,Kone
 3056,Ezequiel Garay
 5037,Darko Brasanac
-5038,�lex Alegr�a
+5038,Alex Alegria
 5186,Roman Zozulia
 980,Franck Tabanou
 5108,Omer Atzili
-5154,Mehdi Carcela-Gonz�lez
+5154,Mehdi Carcela-Gonzalez
 4119,Alberto Bueno
 5083,Marlos Moreno
 5061,Kepa
@@ -2478,30 +2478,30 @@ playerID,playerName
 5204,Lluis Sastre
 5121,Markel Areitio
 3301,Salvatore Sirigu
-5143,Mario Fern�ndez
-5160,Imanol Garc�a
-5062,Yeray �lvarez
+5143,Mario Fernandez
+5160,Imanol Garcia
+5062,Yeray Alvarez
 5060,Aleksandar Katai
 5120,Nano
 5039,Ryan Donk
-5126,Jos� �ngel
-4130,Ra�l Navas
-5054,H�lder Lopes
+5126,Jose Angel
+4130,Raul Navas
+5054,Helder Lopes
 5176,Ryan Babel
 5069,Luciano Neves
 5091,Alex Berenguer
 5098,Olavide
 5034,Rafa Navarro
 5063,Saborit
-5191,�lvaro Fern�ndez
-5040,�lex Mart�nez
-2581,Asdr�bal
-5133,Aar�n Mart�n
-5047,Rub�n Sobrino
+5191,Alvaro Fernandez
+5040,Alex Martinez
+2581,Asdrubal
+5133,Aarun Martin
+5047,Ruben Sobrino
 5146,Mikel Villanueva
 5196,Otegui
-5207,Javi �lamo
-5152,Juan Rodr�guez
+5207,Javi Alamo
+5152,Juan Rodriguez
 5145,Michael Santos
 3353,Vincent Enyeama
 3363,Benjamin Pavard
@@ -2510,7 +2510,7 @@ playerID,playerName
 3357,Djibril Sidibe
 3563,Florent Balmont
 3359,Rio Mavuba
-3354,S�bastien Corchia
+3354,Sebastien Corchia
 3361,�ric Bautheac
 3360,Mounir Obbadi
 3368,Junior Tallo
@@ -2530,16 +2530,16 @@ playerID,playerName
 3318,Jean-Louis Leca
 3319,Francois Modesto
 3322,Alexander Djiku
-3321,S�bastien Squillaci
+3321,Sebastien Squillaci
 3546,Julian Palmieri
 3326,Sadio Diallo
 3325,Yannick Cahuzac
 3333,Francois Kamano
-3327,Brand�o
-3328,Floyd Ayit�
+3327,Brandao
+3328,Floyd Ayite
 3659,Christopher Maboulou
 3334,Lassana Coulibaly
-3329,Ga�l Danic
+3329,Gael Danic
 3218,Benoit Costil
 3592,Steven Moreira
 3221,Pedro Mendes
@@ -2552,7 +2552,7 @@ playerID,playerName
 3228,Giovanni Sio
 3411,Ermir Lenjani
 3231,Kamil Grosicki
-3605,Brice Dja Dj�dj�
+3605,Brice Dja Djedje
 3388,Karim Rekik
 3649,Stephane Sparagna
 3389,Benjamin Mendy
@@ -2560,7 +2560,7 @@ playerID,playerName
 3394,Romain Alessandrini
 3559,Abdel Barrada
 3393,Bouna Sarr
-3520,R�my Vercoutre
+3520,Remy Vercoutre
 3521,Dennis Appiah
 3542,Damien Da Silva
 3524,Alaeddine Yahia
@@ -2568,27 +2568,27 @@ playerID,playerName
 3522,Jordan Adeoti
 3564,Lenny Nangis
 3668,Jonathan Delaplace
-3527,Julien F�ret
+3527,Julien Feret
 3525,Vincent Bessat
 3530,Andy Delort
-3537,Jordan N&#039;Kololo
+3537,Jordan N'Kololo
 3532,Herve Bazile
 3543,Nicolas Seube
 3703,Geoffrey Jourdren
 3340,Bryan Dabo
 3351,Mathieu Deplagne
 3349,Ramy Bensebaini
-3338,Daniel Congr�
+3338,Daniel Congre
 3606,Joris Marveaux
 3741,Paul Lasne
 3343,Ryad Boudebouz
 3590,Souleymane Camara
 3800,Steve Mounie
-3630,Mamadou N&#039;Diaye
-3342,K�vin Berigaud
+3630,Mamadou N'Diaye
+3342,Kevin Berigaud
 3744,Ludovic Butelle
 3486,Vincent Manceau
-3487,Ismael Traor�
+3487,Ismael Traore
 3488,Romain Thomas
 3489,Yoann Andreu
 3491,Romain Saiss
@@ -2598,13 +2598,13 @@ playerID,playerName
 3745,Abdoul Camara
 3493,Gilles Sunu
 3495,Pierrick Capelle
-3398,R�my Riou
-3412,L�o Dubois
+3398,Remy Riou
+3412,Leo Dubois
 3550,Koffi Djidji
 3740,Lucas Deaux
 3804,Olivier Veigneau
 3549,Adrien Thomasson
-3415,Birama Tour�
+3415,Birama Toure
 3673,Valentin Rongier
 3407,Adryan
 3406,Emiliano Sala
@@ -2613,9 +2613,9 @@ playerID,playerName
 3405,Alejandro Bedoya
 3409,Johan Audel
 3472,Lars Jacobsen
-3618,J�r�my Sorbon
+3618,Jeremy Sorbon
 3470,Christophe Kerbrat
-3654,Dorian L�v�que
+3654,Dorian Lev�que
 3702,Nill de Pauw
 3628,Lionel Mathis
 3474,Younousse Sankhare
@@ -2633,8 +2633,8 @@ playerID,playerName
 3307,Vincent Koziello
 3312,Jean Michael Seri
 3638,Hatem Ben Arfa
-3309,Val�re Germain
-3310,Alassane Pl�a
+3309,Valere Germain
+3310,Alassane Plea
 3722,Kevin Gomis
 3313,Mouez Hassen
 3585,Said Benrahma
@@ -2644,9 +2644,9 @@ playerID,playerName
 3418,Ricardo Carvalho
 3298,Layvin Kurzawa
 1134,Mario Pasalic
-3421,J�r�my Toulalan
+3421,Jeremy Toulalan
 3634,Nabil Dirar
-3422,Jo�o Moutinho
+3422,Joao Moutinho
 3683,Ivan Cavaleiro
 3635,Bernardo Silva
 3424,Guido Carrillo
@@ -2673,9 +2673,9 @@ playerID,playerName
 3613,Amos Youga
 3374,Jerome Le Moigne
 3377,Mohamed Larbi
-3614,Gr�gory Pujol
+3614,Gregory Pujol
 3379,John Tshibumbu
-3383,K�vin Mayi
+3383,Kevin Mayi
 3380,Khalid Boutaib
 3217,Mauro Goicoechea
 3204,Uros Spajic
@@ -2687,44 +2687,44 @@ playerID,playerName
 3213,Adrien Regattin
 3211,Martin Braithwaite
 3207,Alexis Blin
-3208,�scar Trejo
-3503,St�phane Ruffier
-3504,K�vin Th�ophile-Catherine
+3208,Oscar Trejo
+3503,Stephane Ruffier
+3504,Kevin Theophile-Catherine
 3689,Loic Perrin
 3505,Florentin Pogba
 3759,Francois Clerc
-3508,J�r�my Cl�ment
+3508,Jeremy Clement
 3509,Fabien Lemoine
 3516,Benoit Assou-Ekotto
-3513,K�vin Monnet-Paquet
+3513,Kevin Monnet-Paquet
 3749,Jonathan Bamba
 3561,Romain Hamouma
 3623,Ismael Diomande
 3512,Nolan Roux
 2998,Yohan Mollo
-3727,C�dric Carrasso
+3727,Cedric Carrasso
 3253,Frederic Guilbert
 3670,Nicolas Pallois
-3809,Gr�gory Sertic
+3809,Gregory Sertic
 3576,Maxime Poundje
 3252,Andre Biyogo Poko
-3258,Cl�ment Chant�me
-3263,Thomas Tour�
-3577,Cheick Diabat�
+3258,Clement Chantume
+3263,Thomas Toure
+3577,Cheick Diabate
 3731,Nicolas Maurice-Belay
 3261,Diego Rolan
-3257,C�dric Yamb�r�
+3257,Cedric Yambere
 3250,Kossi Agassa
 3239,Hamari Traore
 3666,Anthony Weber
 3555,Franck Signorino
 3240,Antoine Devaux
 3642,Alexis Peuget
-3664,Fr�d�ric Bulot
-3556,Prince Oniangu�
+3664,Frederic Bulot
+3556,Prince Oniangue
 3244,Nicolas de Preville
 3245,David Ngog
-3243,Ga�tan Charbonnier
+3243,Gaetan Charbonnier
 3682,Jordan Siebatcheu
 3663,Grejohn Kyei
 3269,Anthony Lopes
@@ -2736,7 +2736,7 @@ playerID,playerName
 3667,Nabil Fekir
 3277,Alexandre Lacazette
 3282,Arnold Mvuemba
-3271,J�r�my Morel
+3271,Jeremy Morel
 3276,Rachid Ghezzal
 3451,Benjamin Lecomte
 3607,Lamine Gassama
@@ -2747,11 +2747,11 @@ playerID,playerName
 3458,Walid Mesloub
 3570,Benjamin Moukandjo
 3460,Benjamin Jeannot
-3465,Alain Traor�
+3465,Alain Traore
 3463,Romain Philippoteaux
 3459,Maxime Barthelme
 3724,Baptiste Guillaume
-3739,Soualiho Meit�
+3739,Soualiho Meite
 3356,Adama Soumaoro
 3506,Moustapha Bayal Sall
 3514,Benjamin Corgnet
@@ -2761,24 +2761,24 @@ playerID,playerName
 3712,Isaac Thelin
 3502,Denis Petric
 3582,Chris Mavinga
-3438,St�phane Darbion
+3438,Stephane Darbion
 3447,Thiago Xavier
-3311,Mahamane Traor�
+3311,Mahamane Traore
 3757,Jonathan Correia
 3778,Albert Rafetraniaina
 3515,Valentin Eysseric
-3223,Benjamin Andr�
+3223,Benjamin Andre
 3233,Mehdi Zeffane
 3799,Wesley Said
 3337,Hilton
 3352,Djamel Bakar
 3698,Ferebory Dore
-3586,Jean-Pierre Nsam�
+3586,Jean-Pierre Nsame
 3401,Oswaldo Vizcarrondo
 3652,Enock Kwateng
 3534,Chaker Alhadhur
 3686,Pavle Ninkov
-3205,Fran�ois Moubandje
+3205,Franaois Moubandje
 3206,Yann Bodiger
 3688,Mamadou Samassa
 3471,Benjamin Angoua
@@ -2787,7 +2787,7 @@ playerID,playerName
 3186,Mathieu Valbuena
 3278,Maxwel Cornet
 3248,Omenuke Mfulu
-3387,Nicolas N&#039;Koulou
+3387,Nicolas N'Koulou
 3461,Majeed Waris
 3466,Marvin Gakpa
 3608,Moryke Fofana
@@ -2796,30 +2796,30 @@ playerID,playerName
 3687,Yassine Jebbour
 3332,Thomas Vincensini
 3643,Ezequiel Lavezzi
-3369,Cl�ment Maury
+3369,Clement Maury
 3371,Roderic Filippi
 3378,Jacques Zoua
 3350,Jonathan Ligali
-3339,J�r�me Roussillon
+3339,Jerume Roussillon
 3272,Mapou Yanga-Mbiwa
-3222,Cheikh M&#039;Bengue
-3404,R�mi Gomis
+3222,Cheikh M'Bengue
+3404,Remi Gomis
 3241,Jaba Kankava
 3595,Johny Placide
 3580,Alexandre Mendy
 3523,Syam Ben Youssef
 3651,Jeff Louis
 3214,Steeve Yago
-3431,Almamy Tour�
-3695,Adama Traor�
-3429,Tiemou� Bakayoko
+3431,Almamy Toure
+3695,Adama Traore
+3429,Tiemoue Bakayoko
 3427,Fares Bahlouli
-3432,Lacina Traor�
+3432,Lacina Traore
 3425,Thomas Lemar
 3547,Jesper Hansen
 3482,Maxime Baca
 3771,Julien Begue
-3501,Goran Karanovi�
+3501,Goran Karanovia
 3565,Marko Basa
 3720,Milan Gajic
 3766,Kevin Soni
@@ -2830,7 +2830,7 @@ playerID,playerName
 3621,Neal Maupay
 3562,Jonathan Brison
 3557,Lass Diarra
-3390,R�my Cabella
+3390,Remy Cabella
 3449,Quentin Othon
 3444,Brayan Perea
 3481,Reynald Lema�tre
@@ -2841,7 +2841,7 @@ playerID,playerName
 3754,Issiar Dia
 3336,William Remy
 3770,Quentin Cornette
-3587,Guy N&#039;Gosso
+3587,Guy N'Gosso
 3639,Paulin Puel
 3644,Wallyson Mallmann
 3238,Antoine Conte
@@ -2849,16 +2849,16 @@ playerID,playerName
 3781,Denis Bouanga
 3571,Rafidine Abdullah
 3230,Paul-Georges Ntep
-3202,Som�lia
-3419,Elderson Echi�jil�
+3202,Somalia
+3419,Elderson Echiejile
 3297,Marquinhos
-3553,�ngel Di Mar�a
+3553,Angel Di Maria
 3265,Pablo
-3268,Abdou Traor�
+3268,Abdou Traore
 3640,Aldo Kalulu
 3366,Yassine Benzia
 3602,Stoppila Sunzu
-3345,Mustapha Yatabar�
+3345,Mustapha Yatabare
 3691,Robert Beric
 3629,Yann Jouffre
 3588,Olivier Auriac
@@ -2866,9 +2866,9 @@ playerID,playerName
 3528,Jordan Leborgne
 3303,Ricardo Pereira
 3789,Mickael Le Bihan
-3653,Jeremie Br�chet
-3633,F�bio Coentr�o
-3414,Maxime Dup�
+3653,Jeremie Brechet
+3633,Fabio Coentrao
+3414,Maxime Dupe
 3400,Lorik Cana
 3399,Youssouf Sabaly
 3545,Abdoulaye Diallo
@@ -2894,12 +2894,12 @@ playerID,playerName
 3500,Charles Diers
 3249,Mohamed Fofana
 3247,Oda�r Fortes
-3554,Micka�l Tacalfred
+3554,Mickael Tacalfred
 3483,Laurent Dos Santos
 3620,Jaroslav Plasil
 3384,Louis Poggi
 3742,Jean Deza
-3402,Wilfried Moimb�
+3402,Wilfried Moimbe
 3783,Youssef Benali
 3453,Lindsay Rose
 3397,Rolando
@@ -2917,7 +2917,7 @@ playerID,playerName
 3386,Alassane Toure
 3212,Zinedine Machach
 3480,Julien Cardy
-3462,R�mi Mulumba
+3462,Remi Mulumba
 3344,Casimir Ninga
 3627,Juan Quintero
 3302,Yoan Cardinale
@@ -2926,25 +2926,25 @@ playerID,playerName
 3748,Erin Pinheiro
 3560,Renaud Cohade
 3314,Franck Honorat
-3428,H�lder Costa
+3428,Helder Costa
 3316,Romain Genevois
 3317,Niklas Hult
 3711,Alexis Alegue
 3776,Diego Gomez
 3440,Karim Azamoum
-3604,St�phan Raheriharimanana
+3604,Stephan Raheriharimanana
 3721,Romain Del Castillo
 3599,Presnel Kimpembe
 3598,Hervin Ongenda
 3696,Morgan Sanson
 3705,Hugo Rodriguez
-3674,Abdoulaye Tour�
+3674,Abdoulaye Toure
 3773,Nolan Mbemba
 3774,Alexis Araujo
 3755,Lyes Houri
-3568,Cl�ment Grenier
+3568,Clement Grenier
 3625,Johan Martial
-3700,Hicham M&#039;Laab
+3700,Hicham M'Laab
 3730,Valentin Lavigne
 3201,Alban Lafont
 3203,Issa Diop
@@ -2975,9 +2975,9 @@ playerID,playerName
 3485,Alexandre Letellier
 3498,Mohamed Yattara
 3403,Guillaume Gillet
-3511,Alexander S�derlund
+3511,Alexander Soderlund
 3579,Antony Ranieri
-3734,J�r�mie Porsan-Clemente
+3734,Jeremie Porsan-Clemente
 3647,Antoine Rabillard
 3701,Gautier Lloris
 3694,Joris Gnagnon
@@ -2986,14 +2986,14 @@ playerID,playerName
 3726,Anthony Ribelin
 3315,Dorian Caddy
 3306,Remi Walter
-3395,Yohann Pel�
-3426,V�gner Love
+3395,Yohann Pele
+3426,Vagner Love
 3636,Ilyes Chaibi
 3330,Abdoulaye Keita
 3510,Oussama Tannane
 3264,Mauro Arambarri
 3433,Matthieu Dreyer
-3497,Gr�gory Bourillon
+3497,Gregory Bourillon
 3533,Christian Kouakou
 3262,Malcom
 3235,Sebastien Salles-Lamonge
@@ -3019,9 +3019,9 @@ playerID,playerName
 3706,Timothee Taufflieb
 3713,Samuel Grandsir
 3692,Franck Beria
-3709,S�bastien W�thrich
+3709,Sebastien Wuthrich
 3710,Anthony Walongwa
-3684,Mahamadou N&#039;Diaye
+3684,Mahamadou N'Diaye
 3676,Erwin Koffi
 3678,Issam Ben Khemis
 3672,Nicolas Douchez
@@ -3037,13 +3037,13 @@ playerID,playerName
 5656,Nicolas Pepe
 5701,Ivan Santini
 5700,Yann Karamoh
-5646,Caf�
+5646,Cafu
 5806,Faiz Selemani
 5671,Thomas Didillon
 4744,Jonathan Rivierez
 4734,Guido Milan
 5673,Simon Falette
-5672,Iv�n Balliu
+5672,Ivan Balliu
 4741,Cheick Doukoure
 5677,Florent Mollet
 5676,Opa Nguette
@@ -3056,9 +3056,9 @@ playerID,playerName
 5617,Cedric Varrault
 5784,Quentin Bernard
 5620,Romain Amalfitano
-5725,Jordan Mari�
+5725,Jordan Marie
 5621,Frederic Sammaritano
-5622,J�lio Tavares
+5622,Julio Tavares
 4805,Dylan Bahamboula
 5623,Lois Diony
 5626,Jeremie Bela
@@ -3067,16 +3067,16 @@ playerID,playerName
 5713,Lucas Lima
 5717,Amine Harit
 5776,Nicolaj Thomsen
-5627,Guy N&#039;Dy Assembe
+5627,Guy N'Dy Assembe
 5628,Joffrey Cuffaut
 5050,Clement Lenglet
 5629,Modou Diagne
 5720,Vincent Muratori
 5633,Youssef Ait Bennasser
-5739,Serge N&#039;Guessan
+5739,Serge N'Guessan
 5697,Benoit Pedretti
 5634,Antony Robic
-5637,Junior Dal�
+5637,Junior Dale
 5636,Anthony Koura
 4708,Christophe Mandanne
 5631,Tobias Badila
@@ -3097,12 +3097,12 @@ playerID,playerName
 2856,Maciej Rybus
 5714,Alexander Kacaniklic
 4804,Abdou Diallo
-3657,Kevin N&#039;Doram
+3657,Kevin N'Doram
 5632,Julien Cetout
 5641,Diallo Guidileye
 5794,Jerson Cabral
-5755,Vincent R�fli
-5708,Fernando Mar�al
+5755,Vincent Rufli
+5708,Fernando Maraal
 3772,Maxime Lopez
 5787,Aaron Leya Iseka
 3764,Benjamin Karamoko
@@ -3133,7 +3133,7 @@ playerID,playerName
 5609,Yves Bissouma
 5608,Naim Sliti
 5774,Clement Michelin
-5694,�d�m Lang
+5694,Adam Lang
 5616,Jordan Loties
 5642,Erick Cabaco
 5630,Michael Basser Chretien
@@ -3155,10 +3155,10 @@ playerID,playerName
 5762,Pierre-Yves Hamel
 5759,Matteo Guendouzi
 4869,Nicolas Saint-Ruf
-4710,C�dric Mongongu
+4710,Cedric Mongongu
 5726,Anthony Belmonte
 4793,Chris Philipps
-4740,K�vin Lejeune
+4740,Kevin Lejeune
 5611,Martin Terrier
 5722,Ibrahim Sangare
 2823,Artyom Rebrov
@@ -3171,7 +3171,7 @@ playerID,playerName
 2817,Ivelin Popov
 3127,Yura Movsisyan
 3130,Denis Davydov
-2818,Z� Lu�s
+2818,Ze Luis
 2816,Jano Ananidze
 2937,David Yurchenko
 2899,Aleksandr Sukhov
@@ -3209,16 +3209,16 @@ playerID,playerName
 2969,Maksim Kanunnikov
 2968,Magomed Ozdoev
 2967,Sergei Kislyak
-2971,G�kdeniz Karadeniz
+2971,Gokdeniz Karadeniz
 2974,Vladimir Dyadyun
 3103,Carlos Eduardo
 2970,Igor Portnyagin
 3194,Albert Sharipov
 2766,Soslan Dzhanaev
 2785,Timofey Margasov
-2769,C�sar Navas
+2769,Cesar Navas
 2768,Ivan Novoseltsev
-2779,Gu�lor Kanga
+2779,Guelor Kanga
 3024,Aleksandru Gatcan
 2776,Timofei Kalachev
 2775,Dmitriy Poloz
@@ -3230,7 +3230,7 @@ playerID,playerName
 3009,Rodolfo
 2852,Andrey Semenov
 2851,Adilson
-2855,Facundo P�riz
+2855,Facundo Piriz
 2862,Igor Lebedenko
 2857,Oleg Ivanov
 2858,Ismail Aissati
@@ -3240,11 +3240,11 @@ playerID,playerName
 2861,Zaur Sadaev
 3054,Yuri Lodygin
 3055,Igor Smolnikov
-3074,Lu�s Neto
+3074,Luis Neto
 3065,Domenico Criscito
 3059,Axel Witsel
 3067,Artur Yusupov
-3061,Javi Garc�a
+3061,Javi Garcia
 3064,Hulk
 3063,Artem Dzyuba
 3062,Oleg Shatov
@@ -3257,7 +3257,7 @@ playerID,playerName
 2750,Roman Zobnin
 2749,Igor Denisov
 2751,Aleksey Ionov
-3187,Bal�zs Dzsudzs�k
+3187,Balazs Dzsudzsak
 3066,Aleksandr Kokorin
 2761,Nikolai Obolski
 3021,Aleksei Kozlov
@@ -3286,7 +3286,7 @@ playerID,playerName
 2711,Aleksey Miranchuk
 2893,Alan Kasaev
 2713,Petar Skuletic
-3121,Maic�n
+3121,Maicun
 2955,Evgeny Pomazan
 3023,Andrey Eshchenko
 2939,Alexander Zhirov
@@ -3351,7 +3351,7 @@ playerID,playerName
 2894,Vladislav Ignatjev
 3177,Andrey Arshavin
 2819,Lorenzo Melgarejo
-2732,Ibrahima Bald�
+2732,Ibrahima Balde
 2734,Roman Pavlyuchenko
 2733,Arsen Khubulov
 2740,Gigel Bucur
@@ -3398,11 +3398,11 @@ playerID,playerName
 2926,Wanderson
 3014,Stefan Strandberg
 3128,Kirill Kombarov
-2813,R�mulo
+2813,Rumulo
 2725,Georgi Zotov
 2947,Islamnur Abdulavov
 2710,Aleksandr Samedov
-2714,Delvin N&#039;Dinga
+2714,Delvin N'Dinga
 2717,Renat Yanbayev
 3090,Igor Konovalov
 2834,Giorgi Jikia
@@ -3456,13 +3456,13 @@ playerID,playerName
 2979,Denis Tkachuk
 2844,Alikhan Shavaev
 2931,Andrei Sinitsyn
-2921,Charles Kabor�
+2921,Charles Kabore
 2932,Nikolai Markov
 2830,Pavel Pogrebnyak
 2762,Maksim Kuzmin
 2849,Evgeni Gorodov
 2798,Spartak Gogniyev
-3135,Yannick Djal�
+3135,Yannick Djalu
 2767,Boris Rotenberg
 2868,Khalid Kadyrov
 2913,Sergei Narubin
@@ -3479,7 +3479,7 @@ playerID,playerName
 3155,Rasim Tagirbekov
 3149,Maksim Semakin
 2820,Alexandr Zotov
-2928,Jo�ozinho
+2928,Joaozinho
 2860,Gheorghe Grozav
 3042,Ilie Cebanu
 3029,Thomas Phibel
@@ -3507,7 +3507,7 @@ playerID,playerName
 3025,Alexander Troshechkin
 2999,Gianni Bruno
 2982,Andriy Pylyavskyi
-2965,Emil Bergstr�m
+2965,Emil Bergstrom
 2976,Mijo Caktas
 2731,Apodi
 2729,Felipe Santana
@@ -3531,7 +3531,7 @@ playerID,playerName
 2839,Bright Dike
 2885,Aaron Samuel
 3043,Ruslan Navletov
-2747,Sebastian Holm�n
+2747,Sebastian Holmen
 2864,Pedro Ken
 2853,Zaurbek Pliev
 2949,Anvar Gazimagomedov
@@ -3590,7 +3590,7 @@ playerID,playerName
 5379,Aleksandr Denisov
 4631,Maksim Belyaev
 4622,Dmitry Aydov
-4597,Luk�s Tes�k
+4597,Lukas Tesak
 5374,Kantemir Berkhamov
 4539,Vadim Steklov
 4552,Igor Shevchenko
@@ -3599,7 +3599,7 @@ playerID,playerName
 5461,Odise Roshi
 5463,Gabriel Torje
 5404,Evgeny Bashkirov
-4077,Sergio S�nchez
+4077,Sergio Sanchez
 5475,Anton Shynder
 5381,Aleksandar Miljkovic
 4606,Marat Izmailov
@@ -3629,7 +3629,7 @@ playerID,playerName
 3026,Artem Timofeev
 3140,Andrei Batyutin
 4571,Dmitriy Smirnov
-5460,Wilker �ngel
+5460,Wilker Angel
 5438,Dmitri Abakumov
 5385,Mikhail Kostyukov
 5440,Kehinde Fatai
@@ -3638,7 +3638,7 @@ playerID,playerName
 5474,David Khurtsidze
 4661,Aleksandr Filtsov
 5406,Cristian Pasquato
-5482,Luk�s Droppa
+5482,Lukas Droppa
 5491,Kyrylo Kovalchuk
 4572,Vladislav Ryzhkov
 2786,Nikita Medvedev
@@ -3694,21 +3694,21 @@ playerID,playerName
 4929,Orji Okwonkwo
 3978,Marco Faraoni
 1114,Davide Biraschi
-4975,Joshua P�rez
+4975,Joshua Perez
 4160,David Costas
-5144,Luis Mu�oz
-5134,�scar Melendo
+5144,Luis Muooz
+5134,Oscar Melendo
 5092,Goran Causic
 5214,Martin Hansen
-5347,Jonas F�hrenbach
-4339,Mats M�ller D�hli
+5347,Jonas Fohrenbach
+4339,Mats Moller Dehli
 2699,Finn Porath
 5235,Aymen Barkok
 5251,Rani Khedira
 5332,Victor Obinna
 5306,Aaron Seydel
 5771,Paul Charruau
-5644,J�r�mie Aliadi�re
+5644,Jeremie Aliadiere
 5645,Paul Delecroix
 5786,Yoane Wissa
 5793,Quentin Depehi
@@ -3721,7 +3721,7 @@ playerID,playerName
 3163,Valery Yaroshenko
 5516,Egor Golenkov
 1390,Marko Rog
-1476,Cristian Dell&#039;Orco
+1476,Cristian Dell'Orco
 1343,Samuel Bastien
 4932,Pietro Pellegri
 972,Jerome Sinclair
@@ -3730,34 +3730,34 @@ playerID,playerName
 5555,Dominic Calvert-Lewin
 1791,Trent Alexander-Arnold
 782,Ben Chilwell
-5125,Jos� Carlos
+5125,Jose Carlos
 5173,Asier Villalibre
-5157,Iv�n M�rquez
+5157,Ivan Marquez
 5059,Denys Boyko
 2478,Carlos Soler
-2277,Moy�
-5164,Leo Su�rez
+2277,Moya
+5164,Leo Suarez
 5149,Diego Barrios
-5263,Lukas K�bler
+5263,Lukas Kubler
 4245,Julian Schuster
 2685,Baris Atik
-5269,H�vard Nielsen
-5324,Justin M�bius
+5269,Havard Nielsen
+5324,Justin Mobius
 5303,Donis Avdijaj
 5323,Bernard Tekpetey
-4244,Karim Gu�d�
+4244,Karim Guede
 5750,Lorenzo Callegari
 5754,Boris Mathis
 3518,Jessy Moulin
 5772,Anthony Maisonnial
-5668,Th�o Pellenard
+5668,Theo Pellenard
 5650,Patrick Burner
-5652,Walter Ben�tez
+5652,Walter Benitez
 4742,David Oberhauser
 5397,Alexander Sobolev
 5510,Dmitriy Scherbak
 5343,Hendrik Hansen
-304,Ashton G�tz
+304,Ashton Gotz
 5655,Flavien Tait
 5558,Brandon Mason
 1735,Jack Stephens
@@ -3796,8 +3796,8 @@ playerID,playerName
 4938,Mame Thiam
 4939,Alessandro Bastoni
 4959,Filippo Melegoni
-4912,Paolo Farag�
-4904,Adri�n Cubas
+4912,Paolo Faragu
+4904,Adrian Cubas
 4907,Bartosz Bereszynski
 4937,Miha Zajc
 4450,Adel Taarabt
@@ -3856,7 +3856,7 @@ playerID,playerName
 5243,Dayotchanculle Upamecano
 5289,Max Besuschkow
 5280,Hamit Altintop
-5281,Markus Steinh�fer
+5281,Markus Steinhofer
 5330,Dzenis Burnic
 5226,Walace
 5299,Riechedly Bazoer
@@ -3865,10 +3865,10 @@ playerID,playerName
 5261,Kevin Danso
 5278,Patrick Banggaard
 5279,Wilson Kamavuaka
-5258,L�szl� B�nes
+5258,Laszlu Benes
 5255,Fabio Coltorti
 5223,Vasilije Janjicic
-5233,Andersson Ord��ez
+5233,Andersson Orduoez
 5296,Julius Kade
 51,Jannik Huth
 5225,Bakery Jatta
@@ -3880,42 +3880,42 @@ playerID,playerName
 5298,Arne Maier
 5364,Silas Zehnder
 5360,Weston McKennie
-5187,Rub�n S�nchez
-5049,Adri� Ortol�
+5187,Ruben Sanchez
+5049,Adria Ortola
 5070,Nereo Champagne
 2479,Toni Lato
-2418,�lvaro Odriozola
-5041,Benito Ram�rez
-2468,�scar
+2418,Alvaro Odriozola
+5041,Benito Ramirez
+2468,Oscar
 5085,Marc Navarro
 5104,Sverrir Ingi Ingason
-5106,Aly Mall�
-4182,Gazta�aga
+5106,Aly Malle
+4182,Gaztaoaga
 5103,Martin Hongla
-5031,�lvaro Lemos
+5031,Alvaro Lemos
 5035,Alin Tosca
-5153,K�vin Rodrigues
-5046,�scar Romero
+5153,Kevin Rodrigues
+5046,Oscar Romero
 5082,Ola John
 5064,Dimitrios Siovas
-4185,Erik Mor�n
+4185,Erik Moran
 5089,Nikola Vujadinovic
-5139,Raoul Lo�
+5139,Raoul Loe
 5032,Andrew Hjulsager
 2570,Nacho Gil
 5052,Walter Montoya
 5179,Jon Guridi
-5058,Carles Ale��
+5058,Carles Aleoa
 5142,Luis Perea
-5150,Pablo Fern�ndez
-5136,Estupi��n
-5102,Jhon Steven Mondrag�n
+5150,Pablo Fernandez
+5136,Estupioan
+5102,Jhon Steven Mondragun
 2519,Tejero
 5079,Erik Exposito
 5107,Entrena
-5081,Edu Exp�sito
+5081,Edu Expusito
 5056,Marlon Santos
-5033,Iv�n Villar
+5033,Ivan Villar
 5132,Jean Carlos
 2415,David Soria
 5140,Kike Barja
@@ -3930,7 +3930,7 @@ playerID,playerName
 5643,Alhassan Wakaso
 5770,James Edward Lea Siliki
 5660,Lukas Pokorny
-5682,Gon�alo Guedes
+5682,Gonaalo Guedes
 5704,Xeka
 5612,Anwar El Ghazi
 5662,Isaac Mbenza
@@ -3941,7 +3941,7 @@ playerID,playerName
 5618,Oussama Haddadi
 4833,Dimitri Kevin Cavare
 5724,Irvin Cardona
-5719,S�rgio Oliveira
+5719,Sergio Oliveira
 5625,Kwon Chang-Hoon
 5607,Junior Alonso
 5728,Hamza Mendyl
@@ -3952,7 +3952,7 @@ playerID,playerName
 5715,Prejuce Nakoulma
 5757,Farid Boulaya
 5686,Digbo Maiga
-5669,Alexis Th�baux
+5669,Alexis Thebaux
 5702,Jordan Tell
 5689,Afonso Figueiredo
 5678,Eiji Kawashima
@@ -3970,7 +3970,7 @@ playerID,playerName
 5664,Killian Sanson
 3719,Seydou Sy
 5748,Loic Badiashile
-5477,Cristian Ram�rez
+5477,Cristian Ramirez
 5478,Viktor Claesson
 5479,Ilya Zhigulev
 4559,Adlan Katsaev
@@ -4010,7 +4010,7 @@ playerID,playerName
 5403,Alexander Naumenko
 5459,Konstantin Kuchaev
 5448,Marko Simic
-4299,Jefferson Farf�n
+4299,Jefferson Farfan
 5428,Vladimir Parnyakov
 5458,Timur Zhamaletdinov
 4605,Anton Miranchuk
@@ -4041,7 +4041,7 @@ playerID,playerName
 4433,Ron Vlaar
 1004,Joe Cole
 4367,Eljero Elia
-4386,N�lson Oliveira
+4386,Nelson Oliveira
 1771,Reece Burke
 4383,Carlton Cole
 4435,Nen�
@@ -4071,7 +4071,7 @@ playerID,playerName
 4395,Junior Hoilett
 4467,Jazz Richards
 4445,Reece Grego-Cox
-4388,Anthony R�veillere
+4388,Anthony Reveillere
 1788,Fredrik Ulvestad
 4463,Tyler Blackett
 4481,Isaiah Brown
@@ -4080,14 +4080,14 @@ playerID,playerName
 4475,Jed Steer
 1041,Nathan Baker
 4423,Steven Reid
-1035,Kenji Gorr�
+1035,Kenji Gorre
 4446,Brandon Comley
 4457,Cole Kpekawa
 1020,Elliot Lee
 4427,Andreas Weimann
 4409,Allan McGregor
 4411,Alex Bruce
-4471,Mohamed Diam�
+4471,Mohamed Diame
 4432,Michael Doughty
 4431,Armand Traore
 4443,Yannick Sagbo
@@ -4098,13 +4098,13 @@ playerID,playerName
 4438,Matt Upson
 4391,Darnell Furlong
 4429,Rio Ferdinand
-918,Joey O&#039;Brien
+918,Joey O'Brien
 4461,Tom Lawrence
 1790,Chuba Akpom
 1049,Ryan Seager
 4405,Florin Gardos
 1044,Oliver Shenton
-4384,Jussi J��skel�inen
+4384,Jussi Jaaskelainen
 4412,Maynor Figueroa
 4489,Oussama Assaidi
 4455,Jak Alnwick
@@ -4115,14 +4115,14 @@ playerID,playerName
 1092,Diego Poyet
 4454,Tom Ince
 4497,Anthony Knockaert
-4492,Jos� Enrique
+4492,Jose Enrique
 4448,Dwight Tiendalli
 4385,Guy Demel
 4493,Jozy Altidore
-4485,Jos� Pozo
+4485,Jose Pozo
 3871,Lukas Podolski
 4491,Emmanuel Mayuka
-3814,Samuel Eto&#039;o
+3814,Samuel Eto'o
 1062,Gerhard Tremmel
 4495,Liam Moore
 4456,Chris Wood
@@ -4138,17 +4138,17 @@ playerID,playerName
 4469,Philippe Senderos
 4499,Georgios Samaras
 4503,Ricardo Vaz Te
-4505,Sebasti�n Blanco
+4505,Sebastian Blanco
 4513,Tom Thorpe
 4528,Alejandro Faurlin
 4530,Valentin Roberge
-4531,Stuart O&#039;Keefe
+4531,Stuart O'Keefe
 1761,Lloyd Isgrove
 4532,Gary Taylor-Fletcher
 4479,Jason Davidson
 4525,Anderson
 3815,Gonzalo Bergessio
-3848,Carlos T�vez
+3848,Carlos Tevez
 1952,Leonardo Fontanesi
 3869,Dejan Lazarevic
 3866,Cesare Natali
@@ -4165,7 +4165,7 @@ playerID,playerName
 3909,Giuseppe Biava
 3910,Cristiano Del Grosso
 3906,Rolando Bianchi
-3885,Jos� Basanta
+3885,Jose Basanta
 3851,Federico Agliardi
 3852,Gabriele Perico
 3853,Daniele Capelli
@@ -4175,20 +4175,20 @@ playerID,playerName
 3861,Nicola Dalmonte
 3856,Milan Djuric
 3854,Emmanuel Cascione
-3849,Mariano And�jar
+3849,Mariano Andujar
 1639,Sebastiano Luperto
 3904,Gian Filippo Felicioli
 3913,Antonio Balzano
 3836,Alessandro Iacobucci
-3830,Crist�bal Jorquera
+3830,Cristubal Jorquera
 3831,Abdelkader Ghezzal
 3832,Massimo Coda
 3833,Andi Lila
-3825,�lvaro Gonz�lez
+3825,Alvaro Gonzalez
 1392,Luigi Sepe
 1941,Mattia Vitale
-3875,Rub�n Botta
-3901,Guillermo Rodr�guez
+3875,Ruben Botta
+3901,Guillermo Rodriguez
 3899,Mattia Valoti
 3898,Gustavo Campanharo
 3880,Melker Hallberg
@@ -4218,7 +4218,7 @@ playerID,playerName
 3872,George Puscas
 3890,Daniele Galloppa
 3835,Mirko Esposito
-3860,Z� Eduardo
+3860,Ze Eduardo
 3928,Richmond Boakye
 3908,Lorenzo Rosseti
 3905,Alessandro Mastalli
@@ -4227,14 +4227,14 @@ playerID,playerName
 3822,Luis Pedro Cavanda
 3929,Lionel Scaloni
 3933,Davide Di Molfetta
-3914,Alejandro Gonz�lez
+3914,Alejandro Gonzalez
 2052,Simone Pontisso
 3816,Federico Balzaretti
 1479,Alberto Pomini
 3868,Paolo Bianco
 1625,Walter Bressan
 3889,Constantin Nica
-3924,H�rdur Bjorgvin Magnusson
+3924,Hordur Bjorgvin Magnusson
 3925,Gabriele Moncini
 3834,Ishak Belfodil
 3958,Nico Pulzetti
@@ -4251,7 +4251,7 @@ playerID,playerName
 3961,Josef Husbauer
 3817,Ashley Cole
 3812,Michele Somma
-3970,Cristian Rodr�guez
+3970,Cristian Rodriguez
 3915,Caio
 3967,Michael Essien
 3964,Gaston Camara
@@ -4268,16 +4268,16 @@ playerID,playerName
 3877,Nicola Pozzi
 3960,Salvatore Masiello
 3985,Sebastian Giovinco
-3983,Jean-Fran�ois Gillet
+3983,Jean-Franaois Gillet
 3990,Luca Antonini
 3927,Alessio Cragno
 3988,Nen�
 4011,Manuel Coppola
 4010,Luca Garritano
 3986,Nicola Bellomo
-4022,Granddi N&#039;Goyi
+4022,Granddi N'Goyi
 3989,Salvatore Molina
-4017,Juan S�nchez Mi�o
+4017,Juan Sanchez Mioo
 3879,Alexis Zapata
 4001,Stefan Ristovski
 4003,Gianluca Sansone
@@ -4292,7 +4292,7 @@ playerID,playerName
 4026,Paulo Barreto
 4031,Jonathan
 4027,Sol Bamba
-3845,Jo�o Silva
+3845,Joao Silva
 3884,Marco Marchionni
 4029,Tiberio Guarente
 4008,Franco Mussis
@@ -4302,14 +4302,14 @@ playerID,playerName
 4239,Sebastian Kehl
 4281,Cedrick Makiadi
 4272,Anderson
-4274,N�lson Haedo Valdez
+4274,Nelson Haedo Valdez
 4241,Pavel Krmas
 4256,Lukas Kruse
 4295,Marc Vucinovic
-4258,Uwe H�nemeier
+4258,Uwe Hunemeier
 4231,Rafa
-4259,Daniel Br�ckner
-4265,S�leyman Koc
+4259,Daniel Bruckner
+4265,Suleyman Koc
 4260,Patrick Ziegler
 4266,Marvin Bakalorz
 4296,Moritz Stoppelkamp
@@ -4318,7 +4318,7 @@ playerID,playerName
 4261,Jens Wemmer
 4234,Simon Rolfes
 416,Gianluca Gaudino
-4330,Lukas G�rtler
+4330,Lukas Gortler
 4282,Marcell Jansen
 4237,Marcel Ndjeng
 4249,Mensur Mujdza
@@ -4336,9 +4336,9 @@ playerID,playerName
 4312,Marnon Busch
 4273,Alexander Madlung
 4276,Slawomir Peszko
-4285,Thomas Br�ker
-428,Max Gr�n
-4235,Petr Jir�cek
+4285,Thomas Broker
+428,Max Grun
+4235,Petr Jiracek
 4315,Marius Stankevicius
 4317,Hajime Hosogai
 2677,Shawn Parker
@@ -4357,7 +4357,7 @@ playerID,playerName
 4333,Ronny Marcos
 4294,Oliver Kirch
 4290,Nikola Djurdjic
-4325,Jo�o Pereira
+4325,Joao Pereira
 4289,Dani Schahin
 4301,Timon Wellenreuther
 4309,Atsuto Uchida
@@ -4376,7 +4376,7 @@ playerID,playerName
 2676,Erik Thommy
 4346,Sebastian Kerk
 4354,Petar Sliskovic
-4355,Patrick Pfl�cke
+4355,Patrick Pflucke
 4352,Ronny Philp
 4362,Junior Malanda
 4316,Kai Herdling
@@ -4394,116 +4394,116 @@ playerID,playerName
 4379,Mitsuru Maruoka
 4377,Joseph-Claude Gyau
 4378,Tolcay Cigerci
-4054,Pablo Herv�as
+4054,Pablo Hervias
 4075,Loukas Vyntra
 4074,Kalu Uche
-4071,��igo L�pez
+4071,�oigo Lupez
 4072,Deivid
 4152,Luso
 4146,Fidel
 4079,Patrick Ekeng
 4069,Fede Vico
-4078,Adri�n Gunino
+4078,Adrian Gunino
 4093,Xavi
 4108,Andoni Iraola
 4159,Guillermo
-4096,St�phane Mbia
+4096,Stephane Mbia
 4097,Iker Casillas
 2587,Fabri
-4129,Toch�
+4129,Toche
 4102,Juan Carlos
-4059,H�ctor Moreno
-4060,Sergio Garc�a
+4059,Hector Moreno
+4060,Sergio Garcia
 4123,Jorge Morcillo
-4120,�lex Moreno
-4122,Lic�
+4120,Alex Moreno
+4122,Lica
 4086,Fredy Hinestroza
 4094,Diego Castro
-4148,Bab�
+4148,Baba
 2528,Ivi
 4106,Roberto
-4139,Txema A�ibarro
+4139,Txema Aoibarro
 4132,Borja
-4131,D�dac Vil�
+4131,Didac Vila
 4137,Derek Boateng
 4157,Manu del Moral
 4133,Federico Piovaccari
-4136,�ngel
+4136,Angel
 2620,Jon Errasti
 4114,Domingo Cisma
 4111,Rodrigues
-4110,Aar�n ��guez
-4116,Sergio Pelegr�n
+4110,Aarun �iguez
+4116,Sergio Pelegrin
 4115,Manu Herrera
 4052,Ximo Navarro
 4049,Casado
 4050,Jonathan
 4081,Javier Espinosa
-4043,Sebasti�n Dubarbier
+4043,Sebastian Dubarbier
 4047,Wellington
 4046,Tomer Hemed
 4045,Corona
-4038,Joaqu�n Larrivey
-4039,�lex L�pez
+4038,Joaquin Larrivey
+4039,Alex Lupez
 4135,Javi Lara
 4134,Dejan Lekic
 4061,Diego Colotto
-4066,Abel G�mez
+4066,Abel Gumez
 4070,Borja
-4145,Diogo Salom�o
-4184,H�lder Postiga
+4145,Diogo Salomao
+4184,Helder Postiga
 4164,Mohamed Sissoko
 4156,Rafael Martins
 4125,Andreas Ivanschitz
 4101,Giovani dos Santos
 4143,Samu
-4142,�lvaro
+4142,Alvaro
 4113,Cristian Herrera
-4170,Antonio Mar�n
-2617,David Cobe�o
+4170,Antonio Marin
+2617,David Cobeoo
 4118,Javier Aquino
-4127,�lex Pozuelo
-4088,�lvaro Arroyo
+4127,Alex Pozuelo
+4088,Alvaro Arroyo
 4112,Coro
-4056,E�aut Zubikarai
+4056,Eoaut Zubikarai
 4062,Mikel Saizar
 4064,Fausto Rossi
 4196,Fran Serrano
-4065,H�ldon
-4087,�lex Felip
+4065,Heldon
+4087,Alex Felip
 4090,Felipe Mattioni
-4051,Ram�n Azeez
+4051,Ramun Azeez
 4186,Pol
 2105,Jordi Masip
 2590,Haris Medunjanin
 4155,Riki
 4103,Daniel Candeias
-4105,Ra�l Jim�nez
+4105,Raul Jimenez
 4128,Sergio Marcos
 4048,Fernando Soriano
 4126,Mohammed Fatau
-4197,Sergio Garc�a
+4197,Sergio Garcia
 2517,Martin Odegaard
 4095,Jordi Codina
 4140,Jaime
-4121,Cristian �lvarez
+4121,Cristian Alvarez
 4154,Abdoulaye Ba
 4067,Bruno Zuculini
-4041,Juli�n
-4117,Jos� �ngel
-4109,Edu Alb�car
-4167,Man�
-1976,Emanuel Ins�a
+4041,Julian
+4117,Jose Angel
+4109,Edu Albacar
+4167,Mane
+1976,Emanuel Insua
 4092,Aurtenetxe
-4141,Rafael G�lvez
-4205,Mario Arqu�s
+4141,Rafael Galvez
+4205,Mario Arques
 4194,Fran Sol
 4158,Abraham
 4083,Jona
 4082,Dani Romera
 4063,Eduard Campabadal
-4044,Fran V�lez
-4104,Adri�n Colunga
+4044,Fran Velez
+4104,Adrian Colunga
 4151,Daniel Pinillos
 4124,Issam El Adoua
 4085,Sammir
@@ -4514,72 +4514,72 @@ playerID,playerName
 4099,Cezary Wilk
 4183,Vitorino Antunes
 4191,Ezequiel Rescaldani
-4188,Quique Gonz�lez
+4188,Quique Gonzalez
 4150,Juan Valera
 4176,Xisco
 4190,Daniel Larsson
-4181,Alfredo Ortu�o
+4181,Alfredo Ortuoo
 4192,Luque
 4189,Teerasil Dangda
 4178,Abdoul Sissoko
-4180,H�ctor Yuste
-4177,�lex Fern�ndez
+4180,Hector Yuste
+4177,Alex Fernandez
 4144,Franco Fragapane
-4153,L�pez Silva
-4208,M�chel
+4153,Lupez Silva
+4208,Michel
 4073,Filipe Augusto
-2427,Claver�a
+2427,Claveria
 4219,Juan Carlos
-4213,Iker Hern�ndez
-4080,Iago Bouz�n
-4173,L�pez Garai
-4218,Jaime Gavil�n
+4213,Iker Hernandez
+4080,Iago Bouzun
+4173,Lupez Garai
+4218,Jaime Gavilan
 4209,Carlos Caballero
 4216,Carlos Selfa
-4207,H�ctor Rodas
+4207,Hector Rodas
 4217,Sulayman Marreh
 4206,Jonathan Pereira
-4211,V�ctor P�rez
-4215,Jos� Carlos
+4211,Victor Perez
+4215,Jose Carlos
 4227,Gaspar
 4223,Mike Havenaar
-4221,Ra�l Rodr�guez
+4221,Raul Rodriguez
 2567,Luismi
 2619,Stole Dimitrievski
-4232,H�ctor
+4232,Hector
 4731,Anthony Mfa Mezui
-4732,Romain M�tanire
-4733,Jos� Luis Palomino
-4779,J�r�my Choplin
+4732,Romain Metanire
+4733,Jose Luis Palomino
+4779,Jeremy Choplin
 4735,Ahmed Kashi
 4736,Ferjani Sassi
 4737,Florent Malouda
-4738,Yeni N&#039;Gbakoto
+4738,Yeni N'Gbakoto
 4781,Janis Ikaunieks
 4780,Fakhreddine Ben Youssef
-4747,Andr�-Pierre Gignac
+4747,Andre-Pierre Gignac
 3802,Baptiste Aloe
-4719,C�dric Cambon
+4719,Cedric Cambon
 4210,Dany Nounkeu
 4813,Olivier Sorlin
 4713,Yeltsin Tejeda
-4716,Clarck N&#039;Sikulu
+4716,Clarck N'Sikulu
 4787,Mathieu Duhamel
-4712,Djakaridja Kon�
+4712,Djakaridja Kone
 4721,Alioune Fall
-4715,Nicol�s Blandi
+4715,Nicolas Blandi
 4750,Pedrinho
 4701,Julien Faubert
-4725,Mads Alb�k
+4725,Mads Albek
 4694,Lucas Barrios
-4722,Siaka Ti�n�
-4723,Drissa Diakit�
+4722,Siaka Tiene
+4723,Drissa Diakite
 4724,Romaric
-4728,Landry N&#039;Gu�mo
-4756,Gr�goire Puel
+4728,Landry N'Guemo
+4756,Gregoire Puel
 4753,Carlos Eduardo
 4758,Alexy Bosetti
-4706,Bangaly-Fod� Koita
+4706,Bangaly-Fode Koita
 4699,Simon Kjaer
 4761,David Rozehnal
 4763,Rudy Riou
@@ -4605,16 +4605,16 @@ playerID,playerName
 4727,Dimitar Berbatov
 4775,Quentin Lecoeuche
 4825,Boubacar Sylla
-4795,Djibril Ciss�
+4795,Djibril Cisse
 4711,Jesper Juelsgaard
 4714,Milos Ninkovic
 3284,Gueida Fofana
-4745,Guirane N&#039;Daw
-4820,Juan Manuel Falc�n
+4745,Guirane N'Daw
+4820,Juan Manuel Falcun
 4749,Anders Konradsen
-4792,Jean Calv�
+4792,Jean Calve
 4798,Aldo Angoula
-4802,David Ram�rez
+4802,David Ramirez
 4826,Jordan Boy
 4823,Samuel Atrous
 4790,Lala�na Nomenjanahary
@@ -4624,7 +4624,7 @@ playerID,playerName
 4726,Matheus Carvalho
 4739,Federico Andrada
 4718,Nicki Bille Nielsen
-4786,C�dric Barbosa
+4786,Cedric Barbosa
 1063,Tiago Ilori
 4703,Adama Niane
 4705,Felipe Saad
@@ -4647,31 +4647,31 @@ playerID,playerName
 4754,Bryan Constant
 4762,Christopher Glombard
 4848,Michael Frey
-4751,Christian Br�ls
+4751,Christian Bruls
 4794,Yoann Wachter
-4846,Ga�tan Courtet
+4846,Gaetan Courtet
 4841,Younes Kaabouni
 4867,David Djigla
-3708,Sessi D&#039;Almeida
+3708,Sessi D'Almeida
 4860,Sami Larabi
 4797,Famoussa Kone
-4819,Jos� Saez
+4819,Jose Saez
 4801,Rachid Alioui
 4849,Sada Thioub
 4830,Bilal Boutobba
 4832,Billel Omrani
 4834,Malick Seck
 4844,Mathieu Coutadeur
-4855,Bryan Pel�
+4855,Bryan Pele
 4836,Itay Shechter
 4851,Dario Cvitanich
 4838,Jean-Jacques Pierre
 4842,Azbe Jug
 4856,Fabien Robert
-4870,Joao Rodr�guez
+4870,Joao Rodriguez
 3801,Gael Andonian
-4812,V�ctor Hugo Monta�o
-4845,Deme N&#039;Diaye
+4812,Victor Hugo Montaoo
+4845,Deme N'Diaye
 4864,Bocundji Ca
 4789,El-Hadji Ba
 4850,Juan Pablo Pino
@@ -4679,8 +4679,8 @@ playerID,playerName
 3551,Aristote Ndongala
 4791,Patrick Fradj
 4866,Aboubakar Kamara
-4881,Mayoro N&#039;Doye
-4880,Ga�l Givet
+4881,Mayoro N'Doye
+4880,Gael Givet
 4840,Karim Achahbar
 4875,Sacha Bastien
 3736,Cyriak Garel
@@ -4693,18 +4693,18 @@ playerID,playerName
 4889,Vincent Aboubakar
 4883,Bruno Ecuele Manga
 4884,Eliran Atar
-4590,Kim K�llstr�m
-4589,Jo�o Carlos
+4590,Kim Kallstrom
+4589,Joao Carlos
 4556,Ailton
 4557,Adolphe Teikeu
 4593,Martin Jakubko
 4538,Tomas Mikuckis
 4541,Anton Putsila
 4540,Sergei Zenjov
-4544,Arnor Sm�rason
+4544,Arnor Smarason
 4548,Ibrahima Niasse
 4549,Danilo
-4595,J�n Mucha
+4595,Jan Mucha
 4580,Sergei Sukharev
 4564,Mladen Kascelan
 4577,Aleksandr Kutjin
@@ -4767,13 +4767,13 @@ playerID,playerName
 4614,Soslan Takasov
 4654,Evgeni Tyukalov
 4656,Aleksandr Subbotin
-4615,S�lvi Ottesen
-4673,R�ginal Goreux
+4615,Solvi Ottesen
+4673,Reginal Goreux
 4674,Azim Fatullaev
 4676,Nika Chkhapelia
 4666,Danilo
 4687,Sekou Oliseh
-4659,Ant�nio Ferreira
+4659,Antunio Ferreira
 4612,Marko Simonovski
 4678,Nemanja Nikolic
 4619,Aleksandr Shchanitsin
@@ -4823,10 +4823,10 @@ playerID,playerName
 5921,Aleksey Druzin
 5920,Vitali Fedotov
 5541,Konstantin Savichev
-5924,Sebasti�n Driussi
+5924,Sebastian Driussi
 5926,Magomed-Shapi Suleymanov
 5928,Philipe Sampaio
-5929,Leo Jab�
+5929,Leo Jaba
 5930,Ravanelli
 5933,Artur Nigmatullin
 6613,Sofiane Hanni
@@ -4887,7 +4887,7 @@ playerID,playerName
 6373,Ivan Ivanchenko
 6385,Alexander Maksimenko
 5895,Aleksandr Makarov
-6599,Bj�rn Sigurdarson
+6599,Bjorn Sigurdarson
 6608,Ionut Nedelcearu
 6611,Vyacheslav Grulev
 6575,Paul Anton
@@ -4927,7 +4927,7 @@ playerID,playerName
 6029,Tommy Smith
 6030,Zanka
 6031,Christopher Schindler
-6032,Chris L�we
+6032,Chris Lowe
 6033,Aaron Mooy
 6034,Philip Billing
 705,Kasey Palmer
@@ -4940,7 +4940,7 @@ playerID,playerName
 6048,Lewis Dunk
 6049,Solly March
 6051,Dale Stephens
-6050,Davy Pr�pper
+6050,Davy Propper
 6052,Jamie Murphy
 6054,Ederson
 6062,Isaac Hayden
@@ -4948,9 +4948,9 @@ playerID,playerName
 1679,Dominic Solanke
 6039,Michael Hefele
 6063,Jacob Murphy
-6230,Andr� Carrillo
-6231,Jos� Izquierdo
-6249,Davinson S�nchez
+6230,Andre Carrillo
+6231,Jose Izquierdo
+6249,Davinson Sanchez
 6276,Nikola Vlasic
 5552,Nick Pope
 6283,Levi Lumeka
@@ -4960,8 +4960,8 @@ playerID,playerName
 6301,Jonathan Hogg
 6328,Dean Whitehead
 1778,Freddie Ladapo
-6105,Ga�tan Bong
-6080,Victor Lindel�f
+6105,Gaetan Bong
+6080,Victor Lindelof
 5593,Thomas Edwards
 6384,Beni Baningime
 6104,Will Hughes
@@ -4988,9 +4988,9 @@ playerID,playerName
 5767,Fousseni Diabate
 6525,Badou Ndiaye
 6526,Jordan Hugill
-6531,Alexander S�rloth
+6531,Alexander Sorloth
 6532,Martin Dubravka
-6542,J�rgen Locadia
+6542,Jurgen Locadia
 6561,Tyrese Campbell
 5584,Aaron Wan-Bissaka
 6482,Eddie Nketiah
@@ -5002,7 +5002,7 @@ playerID,playerName
 6657,Lasse Sorenson
 6756,Dwight McNeil
 6457,Emerson Hyndman
-6129,N�colas
+6129,Nicolas
 6130,Daniel Bessa
 6155,Robin Gosens
 6156,Andreas Cornelius
@@ -5024,17 +5024,17 @@ playerID,playerName
 6193,Amato Ciciretti
 6194,Lorenzo Del Pinto
 6197,Gianluca Di Chiara
-6195,Karamoko Ciss�
+6195,Karamoko Cisse
 6196,Nicolas Viola
 6201,Andrej Galabinov
 6203,Eddie Salcedo
 6202,Stephane Omeonga
 6206,Bram Nuytinck
 6168,Leandro Cabrera
-6170,Andr� Silva
-6204,Ricardo Centuri�n
+6170,Andre Silva
+6204,Ricardo Centuriun
 6108,Rodrigo Bentancur
-6162,Cengiz �nder
+6162,Cengiz Under
 6187,Mirco Antenucci
 6185,Eros Schiavon
 6208,Antonin Barak
@@ -5063,11 +5063,11 @@ playerID,playerName
 1818,Stefan Simic
 6190,Dawid Kownacki
 1831,Bright Gyamfi
-6313,Mamadou Kanout�
+6313,Mamadou Kanoute
 1998,Francesco Cassata
 6372,Cesar Falletti
 6362,Rick Karsdorp
-6300,Arist�teles Romero
+6300,Aristuteles Romero
 2012,Nicholas Pierini
 6253,Gianluca Scamacca
 6210,Svante Ingelsson
@@ -5087,7 +5087,7 @@ playerID,playerName
 6530,Felipe Avenatti
 6536,Iuri Medeiros
 6512,Musa Barrow
-6506,Lisandro L�pez
+6506,Lisandro Lupez
 4908,Lorenco Simic
 6516,Everton Luiz
 6519,Deian Boldor
@@ -5095,7 +5095,7 @@ playerID,playerName
 6551,Damir Ceter
 3951,Kevin Bonifazi
 5025,Alessandro Buongiorno
-4917,Niccol� Zanellato
+4917,Niccolu Zanellato
 6467,Giovanni Volpicelli
 6132,Marco Silvestri
 6236,Antonio Santurro
@@ -5118,45 +5118,45 @@ playerID,playerName
 5162,Nacho Vidal
 6076,Nemanja Maksimovic
 6078,Leandro Chichizola
-6124,Maxi G�mez
+6124,Maxi Gumez
 6125,Stanislav Lobotka
-6114,Pedro Alcal�
+6114,Pedro Alcala
 1003,Pablo Maffeo
-6115,Aday Ben�tez
-6116,�lex Granell
+6115,Aday Benitez
+6116,Alex Granell
 6117,Pere Pons
 6118,Portu
 6119,Olarenwaju Kayode
 2074,Borja Lasso
 6135,Guido Pizarro
-6149,Unai N��ez
-6150,I�igo C�rdoba
-6151,Djen� Dakonam
-6152,�lvaro Jim�nez
+6149,Unai Nuoez
+6150,Ioigo Curdoba
+6151,Djene Dakonam
+6152,Alvaro Jimenez
 2532,Amath Diedhiou
 6153,Gaku Shibasaki
 6154,Sergio Mora
-6163,N�lson Semedo
-6164,Andr�s Guardado
-6165,Juanjo Narv�ez
+6163,Nelson Semedo
+6164,Andres Guardado
+6165,Juanjo Narvaez
 6166,Francis
-6214,Ra�l Fern�ndez
+6214,Raul Fernandez
 6215,Sergio Postigo
-6216,Chema Rodr�guez
+6216,Chema Rodriguez
 6217,Enis Bardhi
-4034,Jos� Campa�a
+4034,Jose Campaoa
 6218,Emmanuel Boateng
-6219,Enes �nal
-5201,Dar�o Poveda
+6219,Enes Unal
+5201,Dario Poveda
 6224,Marko Dmitrovic
 6225,Paulo Oliveira
-6226,Iv�n Alejo
-6220,R�ben Semedo
+6226,Ivan Alejo
+6220,Ruben Semedo
 6074,Enzo Zidane
 6121,Juanpe
 6122,Douglas Luiz
 5206,Alejandro Mula
-6079,Fabio Gonz�lez
+6079,Fabio Gonzalez
 6241,Federico Valverde
 6222,Chuca
 6136,Mario Hermoso
@@ -5165,47 +5165,47 @@ playerID,playerName
 5209,Naranjo
 6288,Michael Olunga
 6318,Lionel Carole
-6297,Esteban Rol�n
+6297,Esteban Rolun
 6325,Andoni Gorosabel
-6073,Guillermo Marip�n
-6227,Brais M�ndez
-1594,Hern�n Toledo
-6243,Jon�s Ramalho
+6073,Guillermo Maripan
+6227,Brais Mendez
+1594,Hernan Toledo
+6243,Jonas Ramalho
 6248,Borja Herrera
 5197,Achraf Hakimi
-6342,Gerard Valent�n
+6342,Gerard Valentin
 6354,Ramiro Guerra
 6363,Francis Uzoho
 6244,Emanuel Cecchini
 6120,Bono
-6367,Carlos Calder�n
-2534,Andr�s Prieto
-6376,Adri�n Di�guez
+6367,Carlos Calderun
+2534,Andres Prieto
+6376,Adrian Dieguez
 6347,Shaquell Moore
-6368,Math�as Olivera
+6368,Mathias Olivera
 5148,Imanol Sarriegui
 5199,Raba
 6221,Pau Torres
-5198,Mart�n Aguirregabiria
+5198,Martin Aguirregabiria
 6404,Hacen
 6426,Daniel Pacheco
 6427,Aitor Ruibal
 6341,Julio Gracia
-6441,Ferr�n Torres
+6441,Ferran Torres
 6442,Ignasi Miquel
-6469,Gabriel Pe�alba
-6470,Jos� Arn�iz
-6494,Roger Mart�nez
+6469,Gabriel Peoalba
+6470,Jose Arnaiz
+6494,Roger Martinez
 6471,Aldo One
-5112,To�o Ram�rez
+5112,Tooo Ramirez
 6496,Ermedin Demirovic
 6515,Jaime Sierra
-6528,Loren Mor�n
-6481,Robert Maz�n
-6534,Andoni L�pez
-6537,Mat�as Aguirregaray
+6528,Loren Morun
+6481,Robert Mazan
+6534,Andoni Lupez
+6537,Matias Aguirregaray
 6538,Oghenekaro Etebo
-6485,J�nior Firpo
+6485,Junior Firpo
 6521,Yerry Mina
 6533,Anthony Lozano
 6473,Merveille Ndockyt
@@ -5219,24 +5219,24 @@ playerID,playerName
 6659,Carlos Isaac
 5178,Antonio Moya
 6688,Aly Abeid
-6689,Iv�n Rodr�guez
+6689,Ivan Rodriguez
 5194,Sergio Arribas
 6343,Barri
-2449,Pedro L�pez
+2449,Pedro Lupez
 6075,Antonio Sivera
 6573,Axel Werner
 6738,Alberto Redondo
 6739,David Alba
-6740,Miguel �ngel Rubio
-6720,Arona San�
-6619,V�ctor L�pez
+6740,Miguel Angel Rubio
+6720,Arona Sane
+6619,Victor Lupez
 6675,Fahad Al Muwallad
-6757,Alberto L�pez
+6757,Alberto Lupez
 6749,Mujaid Sadick
 6673,Francesc Regis
 6371,Alejandro Robles
 6759,Juan Cruz
-6760,Jos� Lara
+6760,Jose Lara
 6763,Salem Al Dawsari
 6269,Luca Zidane
 6716,Daniel Molina
@@ -5251,10 +5251,10 @@ playerID,playerName
 6089,Chadrac Akolo
 6090,Simon Terodde
 6094,Rick van Drongelen
-6096,Sergio C�rdova
+6096,Sergio Curdova
 107,Philipp Tschauner
-6097,Florian H�bner
-6098,Niclas F�llkrug
+6097,Florian Hubner
+6098,Niclas Fullkrug
 6100,Felix Uduokhai
 6101,Kaylen Hinds
 6102,Landry Dimata
@@ -5263,7 +5263,7 @@ playerID,playerName
 2611,Philipp Lienhart
 6142,Tim Kleindienst
 6143,Jetro Willems
-6144,S�bastien Haller
+6144,Sebastien Haller
 6145,Daichi Kamada
 6147,Denis Zakaria
 6084,Johannes Eggestein
@@ -5276,20 +5276,20 @@ playerID,playerName
 6274,Andriy Yarmolenko
 6270,Julio Villalba
 6289,Santiago Ascacibar
-6298,T�rles Kn�ll
+6298,Torles Knoll
 6228,Luka Jovic
 6316,Panagiotis Retsos
 6317,Ryan Kent
 1786,Bartosz Kapustka
 5232,Alexander Isak
-6148,Micha�l Cuisance
+6148,Michael Cuisance
 6110,Yvon Mvogo
 5355,Jacob Bruun Larsen
 5300,Gian-Luca Itter
 6338,Lucas Alario
 6323,Tatsuya Ito
 6353,Tim Handwerker
-6326,Ibrahima Konat�
+6326,Ibrahima Konate
 6351,Robin Hack
 6352,Valentino Lazaro
 6348,Jann-Fiete Arp
@@ -5309,13 +5309,13 @@ playerID,playerName
 6356,Kwasi Okyere Wriedt
 5340,Marco Friedl
 5321,Birk Risa
-6449,Chris F�hrich
+6449,Chris Fuhrich
 6450,Filip Kusic
-6448,Ole K�uper
+6448,Ole Kauper
 6446,Marcel Benger
 6484,Renato Steffen
-6475,Lucas H�ler
-6476,Mohamed Dr�ger
+6475,Lucas Holer
+6476,Mohamed Drager
 6095,Julian Pollersbeck
 5293,Rafal Gikiewicz
 6505,Josip Elez
@@ -5325,15 +5325,15 @@ playerID,playerName
 6490,Manuel Akanji
 6508,Mandela Egbo
 6568,Kilian Jakob
-5328,Florian M�ller
+5328,Florian Muller
 6626,Joshua Vagnoman
 6638,Linton Maina
 6522,Cedric Teuchert
 6483,Florian Mayer
 6540,Stephan Ambrosius
-6656,Sergio G�mez
-6595,Paul J�ckel
-6403,Timo H�bers
+6656,Sergio Gumez
+6595,Paul Jackel
+6403,Timo Hubers
 6699,Lars Lukas Mai
 6411,Niklas Dorsch
 6642,Meritan Shabani
@@ -5343,7 +5343,7 @@ playerID,playerName
 6708,Bote Baku
 6597,Simon Asta
 5956,Youri Tielemans
-5957,R�gis Gurtner
+5957,Regis Gurtner
 5958,Oualid El Hajjam
 5960,Prince
 5959,Khaled Adenon
@@ -5365,8 +5365,8 @@ playerID,playerName
 5979,Idriss Saadi
 5981,Anthony Goncalves
 5982,Ihsan Sacko
-5980,St�phane Bahoken
-5987,Ger�nimo Poblete
+5980,Stephane Bahoken
+5987,Gerunimo Poblete
 5988,Ibrahima Niane
 5990,Pedro Rebocho
 5991,Lebogang Phiri
@@ -5381,7 +5381,7 @@ playerID,playerName
 5707,Durel Avounou
 6009,Adama Mbengue
 6008,Stef Peeters
-6010,Edgar I�
+6010,Edgar Ie
 5803,Fode Toure
 6011,Thiago Mendes
 6012,Luiz Araujo
@@ -5411,19 +5411,19 @@ playerID,playerName
 6057,Najib Gandi
 6113,Yassine El Ghanassy
 6251,Wilfried Kanga
-6060,Ot�vio
-6240,Brian Fern�ndez
+6060,Otavio
+6240,Brian Fernandez
 6239,Junior Sambia
 6232,Kalifa Coulibaly
 6233,Ferland Mendy
-5688,Rais M&#039;bolhi
+5688,Rais M'bolhi
 6279,Jan Repas
 6234,Christopher Martins Pereira
 5993,Felix Eboa Eboa
 6292,Tomas Koubek
 6293,Gerzino Nyamsi
 6238,Ignatius Ganago
-5983,J�r�my Blayac
+5983,Jeremy Blayac
 6281,Bongani Zungu
 6264,Mathieu Dossevi
 6307,Suk Hyun-Jun
@@ -5432,7 +5432,7 @@ playerID,playerName
 6340,Driss Khalid
 6332,Willem Geubbels
 6003,Jimmy Giraudon
-6335,J�r�my Cordoval
+6335,Jeremy Cordoval
 6361,Lilian Fournier
 6355,Kostas Mitroglou
 6020,Saliou Ciss
@@ -5450,17 +5450,17 @@ playerID,playerName
 6401,Amine Gouiri
 6007,Nicolas Cozza
 6419,Ervin Taha
-6407,V�gner
+6407,Vagner
 5984,Alexandre Oukidja
 6365,Thomas Carrique
 5810,Vahid Selimovic
 6064,Landry Bonnefoi
 6370,Georges Gope-Fenepej
-6436,Stanley N&#039;Soki
+6436,Stanley N'Soki
 4748,Brice Samba
 6478,Danijel Milicevic
 5971,Jean-Christophe Bouet
-6433,Jules Kound�
+6433,Jules Kounde
 6487,John Mendoza
 6486,Timo Stavitski
 6066,Eden Massouema
@@ -5473,7 +5473,7 @@ playerID,playerName
 1056,Jeff Reine-Adelaide
 6552,Bryan Mbeumo
 6555,Joris Kayembe
-6128,K�vin Zohi
+6128,Kevin Zohi
 6514,Dylan Lempereur
 6601,Timothy Weah
 6623,Abdallah Ndour
@@ -5513,10 +5513,10 @@ playerID,playerName
 6797,Filip Uremovic
 6799,Christian Cueva
 6802,Nikita Chicherin
-4608,Oleg Lan�n
-6806,Rodrigo Bec�o
+4608,Oleg Lanin
+6806,Rodrigo Becao
 6807,Jaka Bijol
-6781,Anton Sal�tros
+6781,Anton Saletros
 6800,Daniil Krugovoy
 6814,Gael Ondoua
 6378,Nikolai Rasskazov
@@ -5533,15 +5533,15 @@ playerID,playerName
 6580,Danil Glebov
 7121,Djorde Despotovic
 7123,Evgeny Kharin
-6911,J�n Gudni Fj�luson
+6911,Jun Gudni Fjuluson
 6791,Mikhail Komkov
 7135,Olivier Thill
 7150,Ricardo Alves
-7103,Agust�n Rogel
+7103,Agustin Rogel
 7161,Vidar Orn Kjartansson
 7143,Ognjen Ozegovic
 7137,Takuma Nishimura
-7136,Arn�r Sigurdsson
+7136,Arnur Sigurdsson
 6614,Mikhail Ignatov
 6364,Roman Tugarev
 7196,Roman Evgeniev
@@ -5568,7 +5568,7 @@ playerID,playerName
 7463,Damian Szymanski
 7447,Yaroslav Rakitskiy
 7448,Wilmar Barrios
-7466,Andr�s Vombergar
+7466,Andres Vombergar
 7475,Ayrton Lucas
 6848,Pavel Kaloshin
 5524,Kamil Zakirov
@@ -5614,19 +5614,19 @@ playerID,playerName
 6828,Josh Murphy
 6829,Gary Madine
 6830,Danny Ward
-6849,Rui Patr�cio
+6849,Rui Patricio
 6850,Willy Boly
 6851,Conor Coady
 6852,Matt Doherty
-6853,R�ben Neves
+6853,Ruben Neves
 6854,Diogo Jota
-6856,R�ben Vinagre
+6856,Ruben Vinagre
 6857,Morgan Gibbs-White
-6855,L�o Bonatini
+6855,Leo Bonatini
 6893,Stuart Armstrong
 6894,Mohamed Elyounoussi
 6891,Ryan Fredericks
-6892,Fabi�n Balbuena
+6892,Fabian Balbuena
 6928,Kenneth Zohore
 2641,Jon Gorenc Stankovic
 7076,Marcus Bettinelli
@@ -5647,7 +5647,7 @@ playerID,playerName
 7236,Leander Dendoncker
 5573,Domingos Quina
 7198,Oliver Skipp
-6839,Ibrahima Ciss�
+6839,Ibrahima Cisse
 7314,Tyreke Johnson
 7078,Sean Longstaff
 7326,Kayne Ramsay
@@ -5661,7 +5661,7 @@ playerID,playerName
 6666,Rafael Camacho
 7384,Chris Mepham
 7390,Karlan Grant
-7420,Miguel Almir�n
+7420,Miguel Almirun
 7437,Demeaco Duhaney
 5602,Sam Surridge
 7438,James Garner
@@ -5680,18 +5680,18 @@ playerID,playerName
 6962,Robin Olsen
 6963,Justin Kluivert
 6672,Riccardo Sottil
-7092,Koray G�nter
-7091,Christian Kouam�
+7092,Koray Gunter
+7091,Christian Kouame
 7090,Krzysztof Piatek
 6989,Simone Iacoponi
 6991,Leo Stulac
-6990,Antonino Barill�
+6990,Antonino Barilla
 6996,William Troost-Ekong
 6997,Ignacio Pussetto
 6998,Lukasz Teodorczyk
 7002,Giangiacomo Magnani
 7003,Mehdi Bourabia
-7006,Lautaro Mart�nez
+7006,Lautaro Martinez
 6977,Pietro Terracciano
 6978,Giovanni Di Lorenzo
 6979,Jacob Rasmussen
@@ -5707,13 +5707,13 @@ playerID,playerName
 7096,Omar Colley
 7082,Darijo Srna
 6987,Filip Bradaric
-7083,Christian N�rgaard
-7018,Nicol� Brighenti
-6985,Samuel Mr�z
+7083,Christian Norgaard
+7018,Nicolu Brighenti
+6985,Samuel Mraz
 6986,Hamed Junior Traore
-6965,Iv�n Marcano
+6965,Ivan Marcano
 6999,Felipe Vizeu
-7088,Joaqu�n Ard�iz
+7088,Joaquin Ardaiz
 2040,Paolo Ghiglione
 7097,Ronaldo Vieira
 6974,Mattias Svanberg
@@ -5721,7 +5721,7 @@ playerID,playerName
 3965,Arturo Calabresi
 7086,David Hancko
 7084,Dusan Vlahovic
-6973,Nehu�n Paz
+6973,Nehuen Paz
 6993,Mattia Sprocati
 6686,Nicolo Zaniolo
 4970,Luca Pellegrini
@@ -5739,14 +5739,14 @@ playerID,playerName
 6983,Joel Untersee
 6691,Dejan Kulusevski
 7014,Arkadiusz Reca
-7365,Lucas Paquet�
-7126,J�nior Tavares
+7365,Lucas Paqueta
+7126,Junior Tavares
 6382,Pedro Neto
 7386,Dimitri Oberlin
 7405,Kiril Despodov
 6336,Bruno Jordao
-1946,Pep�n
-5195,Nicol�s Schiappacase
+1946,Pepin
+5195,Nicolas Schiappacase
 7285,Riccardo Doratiotto
 7299,Francesco Verde
 7416,Merih Demiral
@@ -5756,7 +5756,7 @@ playerID,playerName
 7483,Hans Nicolussi Caviglia
 7381,Jandrei
 7288,Zan Celar
-7085,T�fol Montiel
+7085,Tufol Montiel
 5009,Juan Manuel Valencia
 7375,Roberto Piccoli
 7387,Dimitris Nikolaou
@@ -5770,11 +5770,11 @@ playerID,playerName
 7539,Angelo Ndrecka
 6189,Giacomo Poluzzi
 7507,Gianluca Gaetano
-7413,Iba�ez
+7413,Ibaoez
 7089,Gabriele Corbo
 6940,Silvio Proto
 1881,Guido Guerrieri
-7611,Nicol� Armini
+7611,Nicolu Armini
 7500,Giacomo Raspadori
 7004,Leonardo Sernicola
 7225,Petar Micin
@@ -5789,39 +5789,39 @@ playerID,playerName
 6914,Javi Moyano
 6915,Kiko Olivas
 6916,Fernando Calero
-6917,Rub�n Alcaraz
+6917,Ruben Alcaraz
 6918,Anuar Mohamed
 6919,Toni Villa
 6920,Chris Ramos
-6921,�scar Plano
+6921,Oscar Plano
 6926,William Carvalho
 6927,Raphael Dwamena
-6930,N�stor Ara�jo
-6931,Fran Beltr�n
+6930,Nestor Araujo
+6931,Fran Beltran
 6669,Dennis Eckert
 6933,Javi Puado
-6938,Santiago C�seres
+6938,Santiago Caseres
 6592,Manuel Morlanes
 6942,Arthur
-6949,Jorge Miram�n
+6949,Jorge Miramun
 6950,Jorge Pulido
-6951,�lex Gallar
-6952,Dami�n Musto
+6951,Alex Gallar
+6952,Damian Musto
 6953,Gonzalo Melero
-6954,Juan Camilo Hern�ndez
+6954,Juan Camilo Hernandez
 6956,David Ferreiro
-6955,Ezequiel �vila
-6967,Luis Adv�ncula
-6970,Tom�s Vaclik
+6955,Ezequiel Avila
+6967,Luis Advincula
+6970,Tomas Vaclik
 7009,Jaime Mata
 7012,Gelson Martins
-5185,Unai Sim�n
+5185,Unai Simun
 7019,Peru Nolaskoain
 7022,Daniel Ojeda
 4175,Pere Milla
 6943,Patrick Twumasi
-7070,Santiago Comesa�a
-7071,�lvaro Garc�a
+7070,Santiago Comesaoa
+7071,Alvaro Garcia
 6969,Sergio Moreno
 6932,Okay Yokuslu
 7020,Gorka Guruzeta
@@ -5829,86 +5829,86 @@ playerID,playerName
 5212,Sergi Guardiola
 5159,Marc Cardona
 6939,Luca Sangalli
-7101,Mart�n Merquelanz
+7101,Martin Merquelanz
 7113,Santiago Arias
-4229,Ra�l de Tom�s
-7131,Borja Garc�s
-6570,�scar Rodr�guez
+4229,Raul de Tomas
+7131,Borja Garces
+6570,Oscar Rodriguez
 7155,Nikola Vukcevic
 7169,Moses Simon
-6922,Anto�ito
+6922,Antooito
 7134,Marc Cucurella
-7165,Rodrigo Tar�n
+7165,Rodrigo Tarin
 7128,Carlos Akapo
 7129,Juan Aguilera
 7188,Aleksandar Jovanovic
-7008,Vin�cius J�nior
+7008,Vinicius Junior
 7166,Mathias Jensen
 7119,Kenneth Omeruo
-2574,Miguel�n
+2574,Miguelun
 2594,Sergio Akieme
 6924,Miguel De la Fuente
-7187,Sergio Reguil�n
+7187,Sergio Reguilun
 7208,Samuel Chukwueze
 6958,Rajko Brezancic
 7132,Francisco Montero
 7194,Andriy Lunin
-7245,Javi S�nchez
+7245,Javi Sanchez
 4202,Kevin
-7233,Joaqu�n Fern�ndez
+7233,Joaquin Fernandez
 7271,Fran Manzanara
-7246,Valery Fern�ndez
+7246,Valery Fernandez
 7274,Cristian Ganea
 7276,Robin Le Normand
-7174,Adri� Pedrosa
+7174,Adria Pedrosa
 7303,Camacho
-6959,Roberto Santamar�a
+6959,Roberto Santamaria
 7308,Ander Barrenetxea
-7339,Samu S�iz
+7339,Samu Saiz
 7338,Bryan Gil Salvatierra
-7306,Aihen Mu�oz
-7195,Roberto L�pez
-6934,�lex L�pez
+7306,Aihen Muooz
+7195,Roberto Lupez
+6934,Alex Lupez
 7313,Lee Kang-In
-7343,Cristo Gonz�lez
+7343,Cristo Gonzalez
 7349,Enric Gallego
 7350,Yangel Herrera
-7258,Joaqu�n Mu�oz
+7258,Joaquin Muooz
 7351,Victor Mollejo
 7354,Diego Lainez
-2123,Lluis L�pez
-7182,Mois�s Delgado
+2123,Lluis Lupez
+7182,Moises Delgado
 7368,Emmanuel Apeh
 7099,Paik Seung-Ho
-7366,Maximilian W�ber
-4193,Aitor Fern�ndez
+7366,Maximilian Wober
+4193,Aitor Fernandez
 4515,Facundo Ferreyra
 7398,Wu Lei
 5211,Wilfrid Kaptoum
-7402,�lex Blanco
-7385,Javi Gal�n
+7402,Alex Blanco
+7385,Javi Galan
 7426,Stiven Plaza
 7424,Alex Sola
 7409,Alfa Semedo
 7364,Vasyl Kravets
 7430,Emerson
-7133,Andr�s Solano
+7133,Andres Solano
 6257,Juan Soriano
 6126,Ander Guevara
-7523,Javier D�az
+7523,Javier Diaz
 7514,Lucas Olaza
-7492,Xavier Quintill�
+7492,Xavier Quintilla
 7525,Waldo Rubio
 6816,Jean-Clair Todibo
-7547,Moussa Wagu�
+7547,Moussa Wague
 7548,Riqui Puig
-7555,Miguel Mar�
-7526,Mart�n Zubimendi
+7555,Miguel Mari
+7526,Martin Zubimendi
 7100,Jordi Calavera
-7586,�lex Collado
+7586,Alex Collado
 7604,Alejandro Catena
 7549,Abel Ruiz
-7609,Carles P�rez
+7609,Carles Perez
 7528,Sergio Camello
 7024,Kasim Nuhu
 7052,Wout Weghorst
@@ -5916,51 +5916,51 @@ playerID,playerName
 7056,Niko Gie�elmann
 4302,Marcel Sobottka
 7057,Jean Zimmer
-7058,Kevin St�ger
+7058,Kevin Stoger
 7059,Benito Raman
 7060,Rouwen Hennings
 7028,Dennis Jastrzembski
 7030,Fabian Bredlow
 7031,Georg Margreitter
-7032,Lukas M�hl
+7032,Lukas Muhl
 7033,Tim Leibold
 7036,Alexander Fuchs
-7034,Ondrej Petr�k
+7034,Ondrej Petrak
 7035,Hanno Behrens
 7037,Edgar Salli
 7038,Mikael Ishak
 7039,Yuya Kubo
 7040,Patrick Erras
 7046,Hendrik Weydandt
-7048,Frederik R�nnow
+7048,Frederik Ronnow
 7049,Evan Ndicka
-7050,Lucas Torr�
+7050,Lucas Torru
 6557,Louis Beyer
 7065,Florian Neuhaus
 7073,Pierre Kunde
-7074,Nicol�s Gonz�lez
+7074,Nicolas Gonzalez
 7075,Borna Sosa
 7079,Marcelo Saracchi
 7080,Matheus Cunha
 7104,Enrico Valentini
 7105,Kevin Goden
-7043,Eduard L�wen
+7043,Eduard Lowen
 7106,Philipp Mwene
-7107,Jean-Paul Bo�tius
+7107,Jean-Paul Boetius
 7045,Luca Plogmann
-5305,Felix G�tze
+5305,Felix Gotze
 7067,Paulinho
 7053,Pavao Pervan
 7122,Javairo Dilrosun
 7108,Jonathan Burkardt
-7138,Ahmet G�rleyen
+7138,Ahmet Gurleyen
 7140,Adam Bodzek
 7062,Robin Bormuth
 7153,Matheus Pereira
 7154,Virgil Misidjan
 7026,Joshua Brenet
 7163,Derrick Luckassen
-7044,Kevin M�hwald
+7044,Kevin Mohwald
 5288,Gregor Kobel
 6678,Justin Hoogma
 7180,Michael Lang
@@ -5972,13 +5972,13 @@ playerID,playerName
 7054,Steven Skrzybski
 7197,Fredrik Jensen
 7214,Simon Rhein
-7242,Adam Zrel�k
+7242,Adam Zrelak
 7234,John Yeboah
 7255,Oliver Fink
 7256,Antonis Aidonis
 5361,Haji Wright
 6667,Patrick Kammerbauer
-7029,Pascal K�pke
+7029,Pascal Kopke
 7213,Ewerton
 7266,Leon Dajaku
 7295,Joshua Sargent
@@ -5992,8 +5992,8 @@ playerID,playerName
 7346,Jozo Stanic
 7109,Leandro Barreiro Martins
 7025,David Otto
-7051,Gon�alo Paci�ncia
-7041,Lukas J�ger
+7051,Gonaalo Paci�ncia
+7041,Lukas Jager
 7436,Alfons Amade
 7267,Woo-Yeong Jeong
 7042,Timothy Tillman
@@ -6018,23 +6018,23 @@ playerID,playerName
 6882,Ghislain Konan
 6883,Xavier Chavalerin
 6884,Remi Oudin
-6875,R�nar Alex R�narsson
+6875,Runar Alex Runarsson
 6876,Senou Coulibaly
 6877,Jules Keita
 6860,Sofiane Alakouch
 6861,Anthony Briancon
 6862,Florian Miguel
-6863,T�ji Savanier
+6863,Teji Savanier
 6865,Umut Bozok
 6864,Renaud Ripart
 6868,Gaetan Paquiez
 6866,Theo Valls
 6867,Clement Depres
-6872,Mehmet Zeki �elik
+6872,Mehmet Zeki Celik
 6873,Arton Zekaj
 3732,Denis Poha
 6452,Mahdi Camara
-6889,Cheick Traor�
+6889,Cheick Traore
 6895,Jordan Lefort
 6896,Gaoussou Traore
 6897,Juan Ferney Otero
@@ -6070,15 +6070,15 @@ playerID,playerName
 7146,Laurent Ciman
 7160,Nemanja Radonjic
 7151,Thomas Foket
-7152,Bj�rn Engels
+7152,Bjorn Engels
 7147,Hakim El Mokkedem
-7171,Natha�l Julan
+7171,Nathael Julan
 7167,Serigne Modou Kara Mbodji
 6888,William Saliba
-7193,Rafael Le�o
+7193,Rafael Leao
 6887,Mickael Panos
-6847,Pel�
-7176,Micka�l Alphonse
+6847,Pele
+7176,Mickael Alphonse
 7173,Cristian
 7207,Jakob Johansson
 7206,Jonathan Gradit
@@ -6111,8 +6111,8 @@ playerID,playerName
 6900,Sanasi Sy
 6745,Christopher Rocchia
 7395,Carlos Vinicius
-7369,Math�as Su�rez
-7397,Arb�r Zeneli
+7369,Mathias Suarez
+7397,Arber Zeneli
 7358,Souleyman Doumbia
 5587,Josh Maja
 7406,Sory Kaba
@@ -6137,14 +6137,14 @@ playerID,playerName
 7481,Till Cissokho
 7566,Pedro Brazao
 7557,Yassin Benrahou
-7570,Moreto Cassam�
+7570,Moreto Cassama
 7511,Sacha Boey
 7577,Lo�c Mbe Soh
 7598,Louis Carnot
 7589,Wesley Fofana
 6636,Gaetan Poussin
 7482,Kouadio Kone
-7612,Nathan N&#039;Goumou Minpol
+7612,Nathan N'Goumou Minpol
 3792,Alexandre Olliero
 7278,Imran Louza
 7292,Thody Elie Youan
@@ -6307,11 +6307,11 @@ playerID,playerName
 7694,Marco Stiepermann
 7695,Todd Cantwell
 7696,Teemu Pukki
-7697,Onel Hern�ndez
+7697,Onel Hernandez
 5603,Aaron Ramsdale
 7702,Dean Henderson
 7704,Chris Basham
-7705,Jack O&#039;Connell
+7705,Jack O'Connell
 7703,John Egan
 7706,George Baldock
 7707,Enda Stevens
@@ -6325,7 +6325,7 @@ playerID,playerName
 7700,Che Adams
 7382,Dan Burn
 7721,Conor Hourihane
-7722,Tr�z�guet
+7722,Trezeguet
 7723,John McGinn
 7724,Wesley
 7725,Jonathan Kodjia
@@ -6380,7 +6380,7 @@ playerID,playerName
 8323,Josh Brownhill
 8224,William Smallbone
 8286,Jack Robinson
-8380,Pablo Mar�
+8380,Pablo Mari
 8383,Faustino Anjorin
 8384,Armando Broja
 8379,Alexis Mac Allister
@@ -6391,7 +6391,7 @@ playerID,playerName
 8480,Max Thompson
 8090,Lloyd Kelly
 8204,Neco Williams
-8272,Jo�o Pedro
+8272,Joao Pedro
 8214,Tyrick Mitchell
 8496,Tommy Doyle
 8476,Jarrad Branthwaite
@@ -6401,39 +6401,39 @@ playerID,playerName
 7602,Kelland Watts
 8080,Akin Famewo
 8518,Jordan Thomas
-7824,Gabriel Fern�ndez
+7824,Gabriel Fernandez
 7825,Iker Losada
 7836,Manolo Reina
 7837,Joan Sastre
 7838,Martin Valjent
 7839,Lumor Agbenyenu
 7840,Iddrisu Baba
-7841,Dani Rodr�guez
+7841,Dani Rodriguez
 7842,Aleix Febas
 7843,Lago Junior
 7844,Xisco Campos
 7779,Oihan Sancet
 7781,Frenkie de Jong
-7856,Aridane Hern�ndez
+7856,Aridane Hernandez
 7857,Jon Moncayola
 5109,Rui Silva
 7860,Domingos Duarte
-7861,Germ�n S�nchez
+7861,German Sanchez
 7862,Yan Eteki
 7863,Antonio Puertas
 7870,Luis Rioja
-5124,Alberto Rodr�guez
-7886,Mat�as Vargas
-7380,V�ctor Campuzano
+5124,Alberto Rodriguez
+7886,Matias Vargas
+7380,Victor Campuzano
 7887,Luuk de Jong
 7888,Nemanja Gudelj
-7889,Dani Mart�n
+7889,Dani Martin
 6923,Mohammed Salisu
 7891,Renan Lodi
-7892,Jo�o F�lix
+7892,Joao Felix
 7858,Juan Villar
 7905,Fede San Emeterio
-7217,Javier Avil�s
+7217,Javier Aviles
 7921,Felipe
 7826,Joseph Aidoo
 7780,Gaizka Larrazabal
@@ -6441,83 +6441,83 @@ playerID,playerName
 7872,Hern�ni
 7967,Anssumane Fati
 8001,Takefusa Kubo
-7896,Jos� Antonio Mart�nez
+7896,Jose Antonio Martinez
 8002,Rodrigo Riquelme
-7828,Jorge S�enz
-8014,Abd�n Prats
-7829,Eder Milit�o
-7893,H�ctor Herrera
+7828,Jorge Saenz
+8014,Abdun Prats
+7829,Eder Militao
+7893,Hector Herrera
 7864,Carlos Neva
-8041,Ismael Guti�rrez
-8042,Raul Garc�a
+8041,Ismael Gutierrez
+8042,Raul Garcia
 8058,Thierry Correia
 2555,Remiro
-8029,Lisandro Magall�n
+8029,Lisandro Magallan
 8015,Rodrygo
 5138,Alejandro Pozo
 7315,Pipa
-7847,Fran G�mez
+7847,Fran Gamez
 8073,Aridai Cabrera
 7834,Manu Vallejo
-8091,Ronald Ara�jo
+8091,Ronald Araujo
 7917,Marc Pedraza
 8107,Jorge De Frutos
-8086,V�ctor G�mez
-8131,I�igo P�rez
+8086,Victor Gumez
+8131,Ioigo Perez
 7827,Sergio Bermejo
-8051,Ismail K�ybasi
+8051,Ismail Koybasi
 7859,Sergio Herrera
-8142,Edgar Gonz�lez
-5172,Juan P�rez
-8183,Pablo Mart�nez
+8142,Edgar Gonzalez
+5172,Juan Perez
+8183,Pablo Martinez
 8149,Vicente Esquerdo
 8184,Eliseo
 8195,Gonzalo Pereira
 8140,Munas Dabbur
 7916,Pol Lozano
 8135,Esteban Burgos
-7605,Manuel S�nchez
-8212,Juan Hern�ndez
-4168,Javi Mu�oz
+7605,Manuel Sanchez
+8212,Juan Hernandez
+4168,Javi Muooz
 7845,Aleksander Sedlar
 8230,German Valera
-8209,Miguel �ngel Atienza
-8267,Guido Rodr�guez
-8266,�scar Clemente
-8271,Fernando Ni�o
+8209,Miguel Angel Atienza
+8267,Guido Rodriguez
+8266,Oscar Clemente
+8271,Fernando Nioo
 7894,Ivan Saponjic
 8307,Ljubomir Fejsa
-8316,Roger Assal�
-2346,Aar�n
+8316,Roger Assale
+2346,Aarun
 8329,Unai Vencedor
 8320,Leonardo Koutris
-8334,Hugo Guillam�n
+8334,Hugo Guillamun
 8390,Rafa Soares
-8353,Anto�in
+8353,Antooin
 5174,Caro
 8419,Matheus Fernandes
-8470,Kike P�rez
-8413,Javier L�pez
+8470,Kike Perez
+8413,Javier Lupez
 7584,Paulino De la Fuente
 8306,Sofian Chakla
-8461,Nicol�s Melamed
+8461,Nicolas Melamed
 8429,Luka Romero
 8414,Mahmoud Abdallahi
-8415,Jacobo Gonz�lez
+8415,Jacobo Gonzalez
 8423,Jon Pacheco Dozagarat
-7175,N�is Djouahra
+7175,Nais Djouahra
 8507,Manuel Garrido
-8203,Mario Rodr�guez
-8531,Adri� Guerrero
-8500,V�ctor Garc�a
-8412,Jos� Luis Rodr�guez
+8203,Mario Rodriguez
+8531,Adria Guerrero
+8500,Victor Garcia
+8412,Jose Luis Rodriguez
 8159,Florent Poulolo
 8425,Giorgi Kochorashvili
-8417,�lex Baena
-6925,Samuel P�rez
+8417,Alex Baena
+6925,Samuel Perez
 8509,Joan Monterde
-8525,�lex Blesa
-8263,Javi Mart�nez
+8525,Alex Blesa
+8263,Javi Martinez
 8424,Aimar Oroz
 7846,Miquel Parera
 8554,Rafael Obrador
@@ -6531,7 +6531,7 @@ playerID,playerName
 7809,Mads Pedersen
 7810,Ruben Vargas
 7794,Jamilu Collins
-7795,Kai Pr�ger
+7795,Kai Proger
 7796,Klaus Gjasula
 7797,Sebastian Vasiliadis
 7798,Christopher Antwi-Adjei
@@ -6548,15 +6548,15 @@ playerID,playerName
 7789,Dominick Drexler
 7790,Darko Churlinov
 7831,Stefan Lainer
-7833,M�nir Mercan
+7833,Munir Mercan
 7867,Robert Skov
-7868,Diadie Samass�kou
+7868,Diadie Samassekou
 7875,Christopher Trimmel
 7876,Christopher Lenz
-4340,Grischa Pr�mel
+4340,Grischa Promel
 7877,Robert Andrich
 7878,Suleiman Abdullahi
-7879,Marius B�lter
+7879,Marius Bulter
 7880,Sebastian Andersson
 7882,Sheraldo Becker
 7881,Sebastian Polter
@@ -6598,7 +6598,7 @@ playerID,playerName
 7286,Juan Miranda
 8205,Jan Thielmann
 8044,Joshua Zirkzee
-8213,Paulo Ot�vio
+8213,Paulo Otavio
 7869,Philipp Pentke
 7818,Florian Kastenmeier
 8260,Erling Haaland
@@ -6609,7 +6609,7 @@ playerID,playerName
 8317,Edmond Tapsoba
 8299,Toni Leistner
 8137,Maximilian Beier
-8274,Sam�el K�ri Fridj�nsson
+8274,Samuel Kari Fridjunsson
 8325,Exequiel Palacios
 7986,Lucas Ribeiro
 8335,Mamoudou Karamoko
@@ -6623,7 +6623,7 @@ playerID,playerName
 8341,Lazar Samardzic
 8393,Omar Marmoush
 8207,Oliver Batista Meier
-3715,Mamadou Doucour�
+3715,Mamadou Doucoure
 8192,Melayro Bogarde
 8070,Mateu Morey
 8406,Can Bozdogan
@@ -6633,7 +6633,7 @@ playerID,playerName
 8430,Chris Richards
 8418,Jamal Musiala
 6321,Moritz Nicolas
-7318,Torben M�sel
+7318,Torben Musel
 8114,Tobias Raschl
 8337,Luca Horn
 8407,Tim Lemperle
@@ -6643,7 +6643,7 @@ playerID,playerName
 7498,Lyle Foster
 7687,Jean Lucas
 7229,Florian Chabrolle
-7716,Dar�o Benedetto
+7716,Dario Benedetto
 7718,Predrag Rajkovic
 7719,Nathanael Mbuku
 7728,Gautier Larsonneur
@@ -6653,7 +6653,7 @@ playerID,playerName
 6736,Ibrahima Diallo
 7732,Haris Belkebla
 7734,Cristian Battocchio
-7733,Ferris N&#039;Goma
+7733,Ferris N'Goma
 7737,Efthymios Koulouris
 7739,Joris Chotard
 6398,Yannis Clementia
@@ -6661,11 +6661,11 @@ playerID,playerName
 6412,Raoul Bellanova
 7745,Loris Benito
 7746,Hwang Ui-Jo
-7747,Mama Bald�
-7748,Bryan Soumar�
+7747,Mama Balde
+7748,Bryan Soumare
 7750,Harold Moukoudi
 7751,Miguel Trauco
-7754,Tiago Djal�
+7754,Tiago Djalu
 7755,Domagoj Bradaric
 7756,Yusuf Yazici
 7760,Abdoul Kader Bamba
@@ -6689,7 +6689,7 @@ playerID,playerName
 7998,Ngonda Muzinga
 7749,Rayan Philippe
 7913,Lamine Fomba
-7776,K�vin Denkey
+7776,Kevin Denkey
 7758,Cheikh Niasse
 7915,Adrien Lebeau
 7736,Brendan Chardonnet
@@ -6705,18 +6705,18 @@ playerID,playerName
 5752,Alexis Claude Maurice
 8026,Raphinha
 7759,Abou Ouattara
-8013,Aur�lien Chedjou
+8013,Aurelien Chedjou
 7968,Nicolas Isimat-Mirin
 8050,Hichem Boudaoui
 8057,Stefan Bajic
 7614,Lucas Perrin
 7717,Isaac Lihadji
 7512,Ibrahim Cisse
-7735,Donovan L�on
-8037,Marley Ak�
-8071,Jhonder C�diz
+7735,Donovan Leon
+8037,Marley Ake
+8071,Jhonder Cadiz
 7775,Lucas Lionel Dias
-7907,Ga�tan Belaud
+7907,Gaetan Belaud
 8049,Jean-Kevin Duverne
 7766,Manuel Cabit
 8024,Antoine Valerio
@@ -6726,7 +6726,7 @@ playerID,playerName
 7189,Rafik Guitane
 8118,Bastian Badu
 7613,Moussa Diarra
-8151,Hianga&#039;a M&#039;Bock
+8151,Hianga'a M'Bock
 5742,Hugo Magnetti
 7568,Bilal Benkhedim
 8168,Edmilson Indjai Correia
@@ -6749,7 +6749,7 @@ playerID,playerName
 8253,Lovre Kalinic
 6845,Percy Ruiz
 7293,Matis Carvalho
-8294,El Bilal Tour�
+8294,El Bilal Toure
 8311,Janis Antiste
 8293,Adil Taoui
 8312,Kaj Sierhuis
@@ -6757,15 +6757,15 @@ playerID,playerName
 8182,Lucas Da Cunha
 7744,Danijel Petkovic
 8277,Thibaut Vargas
-8314,Yvann Ma�on
+8314,Yvann Maaon
 8098,Wesley Moustache
-7425,Josu� Homawoo
-8318,Moussa Kon�
+7425,Josue Homawoo
+8318,Moussa Kone
 3665,Nicolas Lemaitre
 8310,Mitchel Bakker
 8330,Jean Onana
-8327,Bruno Guimar�es
-8175,Zin�dine Ould Khaled
+8327,Bruno Guimaraes
+8175,Zinedine Ould Khaled
 8003,Dario Maresic
 7909,Gaetano Castrovilli
 7912,Eljif Elmas
@@ -6778,13 +6778,13 @@ playerID,playerName
 7931,Takehiro Tomiyasu
 7932,Stefano Denswil
 6704,Kingsley Michael
-7935,Lasse Sch�ne
+7935,Lasse Schone
 7940,Denis Vavro
 7943,Igor Julio
 7947,Ruslan Malinovskiy
-7950,Mert M�ld�r
+7950,Mert Muldur
 7952,Simone Pinna
-7953,Nahitan N�ndez
+7953,Nahitan Nandez
 7954,Daniele Ragatzu
 7955,Jesse Joronen
 7956,Andrea Cistana
@@ -6815,7 +6815,7 @@ playerID,playerName
 7937,Julian Chabot
 8036,Luigi Vitale
 7942,Bobby Adekanye
-7919,L�o Duarte
+7919,Leo Duarte
 7951,Alessandro Tripaldelli
 7979,Brayan Vera
 7933,Jerdy Schouten
@@ -6826,7 +6826,7 @@ playerID,playerName
 2043,Kastriot Dermaku
 7936,Filip Jagiello
 8127,Amad Diallo Traore
-8120,Sinan G�m�s
+8120,Sinan Gumus
 8010,Kevin Agudelo
 7969,Sebastiano Esposito
 8007,Yildirim Mert Cetin
@@ -6840,7 +6840,7 @@ playerID,playerName
 8144,Denilho Cleonise
 7978,Edgaras Dubickas
 8101,Stefano Turati
-7941,Andr� Anderson
+7941,Andre Anderson
 8161,Ebrima Colley
 8199,Mattia Viviani
 8165,Lucien Agoume
@@ -6849,7 +6849,7 @@ playerID,playerName
 4957,Alessandro Semprini
 8030,Sebastian Walukiewicz
 6706,Ndary Adopo
-8252,Nicol�s Dom�nguez
+8252,Nicolas Dominguez
 8269,Birkir Bjarnason
 8270,Simon Skrabb
 8008,Mauro Vigorito
@@ -6857,7 +6857,7 @@ playerID,playerName
 8297,Alexis Saelemaekers
 8105,Gonzalo Maroni
 6750,Gonzalo Villar
-8289,Gast�n Pereiro
+8289,Gastun Pereiro
 8133,Lorenzo Andrenacci
 4920,Matteo Gabbia
 8124,Andri Fannar Baldursson
@@ -6873,7 +6873,7 @@ playerID,playerName
 8475,Bosko Sutalo
 7627,Andrea Ghion
 8113,Marco Olivieri
-8492,Felice D&#039;Amico
+8492,Felice D'Amico
 8111,Lucas
 8170,Marco Ballarini
 8331,Dion Ruffo Luci
@@ -6889,7 +6889,7 @@ playerID,playerName
 8388,Jaume Cuellar
 6976,Demba Thiam
 8592,Jakub Iskra
-8591,Krisztofer Horv�th
+8591,Krisztofer Horvath
 8553,Federico Marigosu
 1631,Luca Zanimacchia
 8333,Daouda Peeters
@@ -6921,8 +6921,8 @@ playerID,playerName
 8639,Brandon Soppy
 8649,Houboulang Mendes
 8650,Julien Laporte
-8651,Enzo Le F�e
-8652,St�phane Diarra
+8651,Enzo Le Fee
+8652,Stephane Diarra
 8653,Adrian Grbic
 4882,Laurent Abergel
 8654,Franklin Wadja
@@ -6946,7 +6946,7 @@ playerID,playerName
 8671,Manuel Perez
 8056,Arnaud Kalimuendo Muinga
 8698,Kays Ruiz-Atil
-8676,An�bal Chal�
+8676,Anibal Chala
 8686,Cheick Tidiane Sabaly
 8648,Fraser Hornby
 8678,Jonas Omlin
@@ -6995,9 +6995,9 @@ playerID,playerName
 7517,Ilya Vorobjov
 8675,Bruno Fuchs
 8694,Chidera Ejuke
-8704,Marek Rod�k
+8704,Marek Rodak
 8706,Eberechi Eze
-8961,R�ben Dias
+8961,Ruben Dias
 8864,Matthew Cash
 8865,Ollie Watkins
 8941,Jacob Ramsey
@@ -7010,7 +7010,7 @@ playerID,playerName
 8720,Jack Harrison
 8721,Jamie Shackleton
 978,Sam Johnstone
-8756,Dara O&#039;Shea
+8756,Dara O'Shea
 4490,Semi Ajayi
 8757,Romaine Sawyers
 8758,Kyle Edwards
@@ -7028,7 +7028,7 @@ playerID,playerName
 8351,Ki-Jana Hoever
 8819,Mergim Vojvoda
 8828,Ivan Ilic
-8827,Kevin R�egg
+8827,Kevin Ruegg
 8837,Vladimir Golemic
 8838,Junior Messias
 8840,Denis Dragus
@@ -7040,7 +7040,7 @@ playerID,playerName
 8859,Mikkel Damsgaard
 8820,Jacopo Segre
 8870,Sam Lammers
-8881,Lorenzo Montip�
+8881,Lorenzo Montipu
 8882,Daam Foulon
 1617,Roberto Insigne
 8884,Alessandro Tuia
@@ -7065,26 +7065,26 @@ playerID,playerName
 8725,Luis Milla
 8727,Jon Morcillo
 8730,David Gil
-8731,Isaac Carcel�n
+8731,Isaac Carcelen
 8732,Marcos Mauro
 8733,Alfonso Espino
-8734,Sergio Gonz�lez
-8735,Salvi S�nchez
+8734,Sergio Gonzalez
+8735,Salvi Sanchez
 8736,Jorge Pombo
 8737,Jens Jonsson
 8738,Filip Malbasic
 8744,Juan Cruz
 8750,Rodrigo Battaglia
-8751,Sergi Garc�a
+8751,Sergi Garcia
 8761,Shon Weissman
-9011,�scar Mingueza
+9011,Oscar Mingueza
 8935,Pedri
-8934,Trinc�o
-8979,Sergi�o Dest
-8890,Edgar Bad�a
-8891,Gonzalo Verd�
+8934,Trincao
+8979,Sergioo Dest
+8890,Edgar Badia
+8891,Gonzalo Verdu
 8892,Josema
-8894,Ra�l Guti
+8894,Raul Guti
 8895,Tete Morente
 8896,Nino
 8863,Marvin Park
@@ -7095,29 +7095,29 @@ playerID,playerName
 8767,Kelechi Nwakali
 8771,Yunus Musah
 7330,Uros Racic
-8774,Dani G�mez
+8774,Dani Gumez
 8713,Gabriel Veiga
 8769,Dani Escriche
 8739,Alberto Cifuentes
 8741,Fali
-8907,Micka�l Malsa
+8907,Mickael Malsa
 8775,Son
-8939,Marcos Acu�a
+8939,Marcos Acuoa
 9340,Helibelton Palacios
 2597,Dani Calvo
 8893,Josan
-9033,Iv�n Marcone
+9033,Ivan Marcone
 8861,Urko Gonzalez
 7355,Paul Akouokou
-8762,Luis P�rez
+8762,Luis Perez
 8726,Alberto Soro
 8933,Marcos de Sousa
-8921,I�igo Vicente
-8949,Jerem�as Ledesma
+8921,Ioigo Vicente
+8949,Jeremias Ledesma
 8938,Jon Ander Garrido
-8433,Jos� Manuel Font�n
+8433,Jose Manuel Fontan
 8708,Unai Arietaleanizbeaskoa
-8897,Ram�n Folch
+8897,Ramun Folch
 8823,Ante Palaversa
 8786,Stefan Ortega Moreno
 8787,Nathan de Medina
@@ -7129,7 +7129,7 @@ playerID,playerName
 8792,Fabian Klos
 8793,Fabian Kunze
 8796,Christian Gebauer
-8794,C�dric Brunner
+8794,Cedric Brunner
 8795,Jacob Laursen
 8801,Sebastian Griesbeck
 8805,Deyovaisio Zeefuik
@@ -7137,7 +7137,7 @@ playerID,playerName
 8807,Silas Wamangituka
 8808,Wataru Endo
 8809,Mateo Klimowicz
-8811,Alkhaly Momo Ciss�
+8811,Alkhaly Momo Cisse
 8810,Hamadi Al Ghaddioui
 8812,Sasa Kalajdzic
 8824,Jude Bellingham
@@ -7148,14 +7148,14 @@ playerID,playerName
 8869,Ragnar Ache
 8813,Tanguy Coulibaly
 8825,Reinier
-8874,J�an S�mun Edmundsson
+8874,Juan Simun Edmundsson
 8875,Tolu Arokodare
 8876,Dimitris Limnios
 7431,Jean-Manuel Mbom
 8702,Tinotenda Kadewere
 8372,Lucas Gourna Douath
 8749,Lamine Gueye
-8688,Warren Tchimbemb�
+8688,Warren Tchimbembe
 6615,Trevoh Chalobah
 8697,Jonathan Clauss
 8755,Wilitty Younoussa
@@ -7168,7 +7168,7 @@ playerID,playerName
 5744,Matteo Ahlinvi
 8640,Adrien Truffert
 8663,Flavius Daniliuc
-8851,Abdoulaye Sidib�
+8851,Abdoulaye Sidibe
 8879,Tyrone Tormin
 6937,Georginio Rutter
 8687,Kiki Kouyate
@@ -7195,7 +7195,7 @@ playerID,playerName
 8985,Marko Dugandzic
 8954,Akhmed Alibekov
 8960,Stepan Oganesyan
-9013,S�bastien Thill
+9013,Sebastien Thill
 9068,Komnen Andric
 9054,Leon Sabua
 9062,Armin Gigovic
@@ -7236,7 +7236,7 @@ playerID,playerName
 9371,Aleksey Shchetkin
 9375,Nemanja Miletic
 9374,Parfait Bizoza
-9413,Filip Dagerst�l
+9413,Filip Dagerstal
 9420,Denis Kaykov
 9365,Aleksandr Yerkin
 9368,Dmitri German
@@ -7262,7 +7262,7 @@ playerID,playerName
 9531,Sergey Chibisov
 9165,Ivan Kuzmichev
 3070,Maksim Rudakov
-8780,Jo�l Veltman
+8780,Joel Veltman
 8919,Leif Davis
 8965,Vladimir Coufal
 8966,Filip Krovinovic
@@ -7273,10 +7273,10 @@ playerID,playerName
 5590,Tosin Adarabioyo
 9040,Conor Gallagher
 6377,Joe Rodon
-7983,Daniel N&#039;Lundulu
+7983,Daniel N'Lundulu
 8228,Nathaniel Phillips
 8109,Niels Nkounkou
-9098,Robert S�nchez
+9098,Robert Sanchez
 6350,Jayson Molumby
 9163,Kean Bryan
 8482,Bailey Peacock-Farrell
@@ -7302,7 +7302,7 @@ playerID,playerName
 9284,Jakub Moder
 9082,Lewis Richardson
 9395,Sidnei Tavares
-8366,Jo�o Virg�nia
+8366,Joao Virginia
 9311,Thakgalo Leshabela
 9307,Iliman Ndiaye
 9406,Nathan Broadhead
@@ -7319,37 +7319,37 @@ playerID,playerName
 9558,Hannibal Mejbri
 9557,William Fish
 8849,Alberto Perea
-8978,Luis Su�rez
+8978,Luis Suarez
 8712,Miguel Rodriguez
 8103,Modibo Sagnan
-8709,E�aut Mend�a
+8709,Eoaut Mendia
 8728,Oier Zarraga
 8122,Sergio Carreira
 9008,Jairo Izquierdo
-7516,Nehu�n P�rez
+7516,Nehuen Perez
 9024,Yeremi Pino
-9035,Jeison Lucum�
-9032,Tom�s Tavares
+9035,Jeison Lucumi
+9032,Tomas Tavares
 7835,Aritz Arambarri
-8410,Rodrigo S�nchez
-9109,�ngel Jim�nez
+8410,Rodrigo Sanchez
+9109,Angel Jimenez
 9110,Sergio Barcia
 8215,Pepe Sanchez
 9111,Isma Ruiz
-9113,�lvaro Bravo
+9113,Alvaro Bravo
 9114,Juan Brunet
 9112,Kingsley Fobi
 9115,Daniel Plomer
 9031,Jota
 9132,Oussama Idrissi
-8108,Daniel C�rdenas
+8108,Daniel Cardenas
 9174,Edgar Sevikyan
 9170,John Finn
-9173,Lautaro de Le�n
+9173,Lautaro de Leun
 8765,Roberto Navarro
 9199,John Donald
-2372,Rub�n Y��ez
-9203,�lex Mill�n
+2372,Ruben Yaoez
+9203,Alex Millan
 8772,Guillem Molina
 8210,Sergio Cubero
 9218,Juan Iglesias
@@ -7359,28 +7359,28 @@ playerID,playerName
 9244,Stephane Paul Keller
 9181,Sergio Benito
 8763,Kuki Zalazar
-8901,Jony �lamo
+8901,Jony Alamo
 9245,Mamor Niang
-8740,Marc Bar�
+8740,Marc Baru
 9144,Manuel Nieto
 9305,Augusto Solari
 8764,Oriol Rey
 9243,Ilaix Moriba
-9353,�lex Mart�n
+9353,Alex Martin
 9335,Ferro
-8319,Ricard S�nchez
+8319,Ricard Sanchez
 9324,Facundo Pellistri
 9208,Sabit Abdulai
-9457,Jos� Boacho
+9457,Jose Boacho
 9268,Koffi
 9280,Antonio Blanco
-8513,Miguel Guti�rrez
+8513,Miguel Gutierrez
 9211,Nico Williams
 8542,Unai Dufur
 9496,Alejandro Cantero
-9519,Carlos Dom�nguez
+9519,Carlos Dominguez
 9520,Hugo Sotelo
-9534,�lvaro Bastida
+9534,Alvaro Bastida
 7072,Jokin Ezkieta
 8951,Keita Endo
 8958,Reinhold Yabo
@@ -7395,11 +7395,11 @@ playerID,playerName
 8986,Omar Alderete
 8815,Klauss
 8803,Robert Gumny
-9076,Philipp F�rster
+9076,Philipp Forster
 8799,Joakim Nilsson
 8855,Bartosz Bialek
 9100,Tim Maciejewski
-8398,M�rton D�rdai
+8398,Marton Dardai
 8804,Felix Agu
 9128,Andreas Voglsammer
 9133,Youssoufa Moukoko
@@ -7408,7 +7408,7 @@ playerID,playerName
 9161,Jan-Luca Schuler
 7220,Michael Langer
 9069,Romano Schmid
-9187,Sebastian M�ller
+9187,Sebastian Muller
 9201,Eren Sami Dinkci
 9023,Ajdin Hrustic
 6596,Finn Dahmen
@@ -7428,7 +7428,7 @@ playerID,playerName
 9352,Masaya Okugawa
 9229,Tiago Dantas
 9129,Lennart Grill
-9162,Kerim �alhanoglu
+9162,Kerim Calhanoglu
 9426,Mikail Maden
 8989,Ansgar Knauff
 9269,Nishan Burkart
@@ -7447,8 +7447,8 @@ playerID,playerName
 8990,Emrehan Gedikli
 9547,Jonas Michel Dirkner
 8854,Tim Siersleben
-9288,Elias B�rdner
-9052,Josep Mart�nez
+9288,Elias Bordner
+9052,Josep Martinez
 9443,Vasilis Pavlidis
 8953,Antonio Palumbo
 9022,Amer Gojak
@@ -7459,16 +7459,16 @@ playerID,playerName
 8975,Gennaro Acampora
 9002,Vedat Muriqi
 8916,Simone Bastoni
-9018,M&#039;Bala Nzola
+9018,M'Bala Nzola
 9029,Simon Sohm
 9043,Steeve-Mike Eboa Ebongue
 8888,Giuseppe Di Serio
-9019,Lucas Mart�nez Quarta
-9065,Nahuel Est�vez
+9019,Lucas Martinez Quarta
+9065,Nahuel Estevez
 8569,Botond Balogh
 9090,Ardian Ismajli
 8872,Matteo Ruggeri
-9103,L�o Sena
+9103,Leo Sena
 8831,Iyenoma Destiny Udogie
 9104,Juan Brunetta
 9140,Maxime Busi
@@ -7492,7 +7492,7 @@ playerID,playerName
 8887,Christian Pastina
 8221,Brian Oddei
 7901,Giacomo Ricci
-9262,J�r�me Ongu�n�
+9262,Jerume Onguene
 9225,Antonio Cioffi
 9234,Daan Dierckx
 9303,Dennis Man
@@ -7505,7 +7505,7 @@ playerID,playerName
 9344,Viktor Kovalenko
 9259,Isaac Karamoko
 8858,Guglielmo Vicario
-9260,Chaka Traor�
+9260,Chaka Traore
 9444,Felix Correia
 8130,Ebrima Darboe
 7203,Drissa Camara
@@ -7516,21 +7516,21 @@ playerID,playerName
 9503,Kacper Urbanski
 9539,Antonio Raimondo
 9304,Vasilios Zagaritis
-8885,Nicol� Manfredini
+8885,Nicolu Manfredini
 9360,Amadou Diambo
 8844,Gian Marco Crespi
 9550,Yayah Kallon
 9559,Marco Bertini
-8568,M�rk Kosznovszky
+8568,Mark Kosznovszky
 6399,Manuel Gasparini
 7930,Alessandro Berardi
 8759,David Pereira Da Costa
 8691,Saidou Sow
 8971,Saturnin Allagbe
-8969,Florentino Lu�s
+8969,Florentino Luis
 8645,Enzo Millot
 6709,Yehvann Diouf
-8981,J�remy Doku
+8981,Jeremy Doku
 9038,Aleksandar Radovanovic
 8980,Luis Henrique
 5177,Caio Henrique
@@ -7540,9 +7540,9 @@ playerID,playerName
 8995,Hugo Ekitike
 8996,Mouhamadou Drammeh
 8997,Terem Igobor Moffi
-9067,Amadou Traor�
+9067,Amadou Traore
 7317,Marvin Tshibuabua
-8684,Fod� Doucour�
+8684,Fode Doucoure
 8243,Moise Sakava
 9060,Danilo Pereira
 9014,Djamel Benlamri
@@ -7554,24 +7554,24 @@ playerID,playerName
 9021,Pape Sarr
 8682,Salim Ben Seghir
 8701,Timothee Pembele
-9066,Maham� Siby
+9066,Mahame Siby
 7527,Kelyan Guessoum
 9182,Sepe Elye Wahi
 9197,Loris Mouyokolo
 8642,Strahinja Pavlovic
 9212,Tom Lacoux
-8672,Wuilker Fari�ez
+8672,Wuilker Farioez
 9147,Yaya Soumare
 9207,Adilson Malanda
 9285,Yoann Etienne
 9236,Baptiste Gabard
-9279,Kr�pin Diatta
+9279,Krepin Diatta
 9017,Malo Gusto
-9271,Cheick Souar�
-9315,Pape Abou Ciss�
+9271,Cheick Souare
+9315,Pape Abou Cisse
 6543,Sebastien Cibois
 9237,Florent da Silva
-8970,S�kou Mara
+8970,Sekou Mara
 9378,Issouf Sissokho
 9341,Edouard Michut
 9355,Abdoulaye Sylla
@@ -7584,7 +7584,7 @@ playerID,playerName
 9467,Jacques Siwe
 8700,Xavi Simons
 9460,Kenny Nagera
-9471,Yassin Fortun�
+9471,Yassin Fortune
 8633,Waniss Taibi
 9463,Adrien Louveau
 9451,Chimuanya Ugochukwu
@@ -7592,12 +7592,12 @@ playerID,playerName
 9298,Alexis Flips
 9510,Habib Keita
 8119,Boubacar Traore
-9515,Mahamadou Doucour�
+9515,Mahamadou Doucoure
 8784,Nassim Chadli
 9523,Andy Diouf
 9562,Sacha Delaye
 7396,Loic Bessile
-9566,Yanis Lh�ry
+9566,Yanis Lhery
 9565,Mathys Saban
 9568,Charles Costes
 9567,Erwan Belhadji
@@ -7623,19 +7623,19 @@ playerID,playerName
 9600,Lucas Masoero
 5410,Leo Goglichidze
 9602,Igor Gorbunov
-9606,Rodrig�o
+9606,Rodrigao
 9607,Mateo Barac
 5535,Dmitry Vorobyev
 9608,Daniil Pavlov
 9595,Dmitri Tsypchenko
 9594,Sergei Pinyaev
-9609,Axel Bj�rnstr�m
+9609,Axel Bjornstrom
 9584,Luka Gagnidze
 9605,Daniil Penchikov
 9576,Artem Sokolov
 9604,Ilya Berkovskiy
 9665,David Davidyan
-9743,�kos Kecsk�s
+9743,Akos Kecskes
 9799,Daniil Kornyushin
 9581,Artem Sukhanov
 9676,David Raya
@@ -7645,7 +7645,7 @@ playerID,playerName
 9681,Frank Onyeka
 9680,Vitaly Janelt
 9682,Mads Bidstrup
-9683,Mads Bech S�rensen
+9683,Mads Bech Sorensen
 9684,Marcus Forss
 9689,Albert Sambi Lokonga
 9690,Folarin Balogun
@@ -7654,7 +7654,7 @@ playerID,playerName
 7603,Marc Guehi
 9461,Jesurun Rak-Sakyi
 9512,Valentino Livramento
-9740,Jos� S�
+9740,Jose Sa
 1025,Daniel Bachmann
 9745,Dimitris Giannoulis
 852,Freddie Woodman
