@@ -61,7 +61,7 @@ cols = ['gameID', 'playerID', 'position', 'assists', 'shots', 'goals', 'yellowCa
 appearances = appearances[cols]
 appearances = appearances.rename(columns={'shots': 'numShots', 'yellowCard': 'yellowCards', 'redCard': 'redCards'})
 
-11. Read in Shot table, add row index as column shotID, select necessary columns, rename assisterID to assistID
+# 11. Read in Shot table, add row index as column shotID, select necessary columns, rename assisterID to assistID
 shots['shotID'] = shots.index
 cols = ['shotID', 'gameID', 'shooterID', 'assisterID', 'situation', 'shotType', 'shotResult']
 shots = shots[cols]
