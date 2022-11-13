@@ -80,3 +80,4 @@ for table, name in zip(tables, names):
     table.to_csv('finalTables/{}.csv'.format(name), index=False)
     
 # shots.to_csv('finalTables/shot.csv', index=False)
+# managerteam.to_csv('finalTables/managerteam.csv', index=False)
