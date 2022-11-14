@@ -1,7 +1,12 @@
+import os
+import psycopg2
 from flask import Flask, render_template
-from dotenv import find_dotenv, load_dotenv
 
-load_dotenv(find_dotenv())
+DATABASE_URL = os.environ['DATABASE_URL']
+
+conn = psycopg2.connect(DATABASE_URL, sslmode='require')
+
+
 
 
 app = Flask(__name__)
