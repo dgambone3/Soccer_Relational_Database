@@ -17,6 +17,24 @@ db.init_app(app)
 @app.route('/')
 def hello():
   
+  form = ManagerTeamForm()
+  if form.validate_on_submit():
+    new_manager = Manager(
+                manager_name = form.manager_name.data
+                )
+    new_team = Team(
+                team_name = form.team.data 
+                )
+    new_managerteam = ManagerTeam(
+                start_date = form.start_date.data,
+                end_date = form.end_date.data 
+                )
+
+    # Save game method
+    new_manager.save_manager() # TODO: write save methods for each model.
+    new_team.save_team()
+    new_managerteam.save_mt()
+      
   return render_template('page.html')
 
 
