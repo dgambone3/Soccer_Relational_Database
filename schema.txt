@@ -5,12 +5,12 @@ Game(*gameID:int, %seasonID:int, %venueID:int, gameDate:date, homeGoals:int, awa
 Team(*teamID:int, %venueID: int, teamName:string)
 GameTeam(%*gameID:int, %*homeTeamID:int, %*awayTeamID:int)
 Manager(*managerID:int, managerName:string)
-ManagerTeam(%*managerID:int, %*teamID:int, startDate:date, endDate:date)
+ManagerTeam(*contractID:int, %managerID:int, %teamID:int, startDate:date, endDate:date)
 Shot(*shotID:int, %gameID:int, %shooterID:int, %assistID:int, situation:string, shotType:string, shotResult:string)
 Venue(*venueID:int, venueName:string, capacity:int, address:string, city:string, country:string)
 League(*leagueID:int, leagueName:string)
 Season(*seasonID:int, %leagueID:int, %championID:string, year:int, startDate:date, endDate:date)
-Player(*playerID:int, playerName:string)
+Player(*playerID:int, playerName:string, country:string, born:int)
 
 * = primary key
 % = foreign key
