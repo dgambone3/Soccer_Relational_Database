@@ -16,15 +16,14 @@ db.init_app(app)
 
 @app.route('/')
 def index():
-  return render_template('page.html')
+  return render_template('index.html')
 
 @app.route('/demo')
 def index():
-  return render_template('app\demo_queries\templates\demo.html')
+  return render_template('app/demo_queries/templates/demo.html')
 
 @app.route('/form', methods=['GET','POST'])
 def hmt_form():
-  
   form = ManagerTeamForm()
   if form.validate_on_submit():
     new_manager = Manager(
