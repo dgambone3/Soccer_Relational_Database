@@ -76,6 +76,7 @@ leagues = leagues.rename(columns={'name': 'leagueName'})
 
 # 13. Merge playerDetails with countryCodes to add full country names to playerDetails
 c = pd.Series(countryCodes['country'].values)
+playerDetails.drop_duplicates(subset='name')
 playerDetails = playerDetails.merge(countryCodes, how='left', on='code')
 cols = ['name','country', 'born']
 playerDetails = playerDetails[cols]
