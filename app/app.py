@@ -3,7 +3,7 @@ import psycopg2
 from flask import Flask, render_template, redirect, url_for
 from flask_sqlalchemy import SQLAlchemy
 
-from forms import ManagerTeamForm
+from app.forms import ManagerTeamForm
 from models import Manager, Team, ManagerTeam
 
 

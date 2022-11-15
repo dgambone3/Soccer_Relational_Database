@@ -1,10 +1,14 @@
-from app import db
+from app.app import db
 
 class Manager(db.Model):
     __tablename__ = 'manager'
 
     manager_id = db.Column(db.Integer, primary_key=True)
     manager_name = db.Column(db.VARCHAR(length=50))
+    
+    def save_manager(self):
+        db.session.add(self)
+        db.session.commit()
 
 
 class Team(db.Model):
@@ -13,6 +17,10 @@ class Team(db.Model):
     team_id = db.Column(db.Integer, primary_key=True)
     venue_id = db.Column(db.Integer)
     team_name = db.Column(db.VARCHAR(length=50))
+    
+    def save_team(self):
+        db.session.add(self)
+        db.session.commit()
 
 
 class ManagerTeam(db.Model):
@@ -24,3 +32,6 @@ class ManagerTeam(db.Model):
     start_date = db.Column(db.DateTime, nullable=False)
     end_date = db.Column(db.DateTime, nullable=True)
     
+    def save_managerteam(self):
+        db.session.add(self)
+        db.session.commit()
