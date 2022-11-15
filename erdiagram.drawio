@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="piiMzi1ZAlSd88O1rmsM" name="Page-1">
-        <mxGraphModel dx="2331" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1258" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -102,6 +102,9 @@
                     <mxGeometry x="383" y="490" width="95" height="52.5" as="geometry"/>
                 </mxCell>
                 <mxCell id="252" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="40" target="44" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="337" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="40" target="335">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="40" value="Player" style="whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
@@ -470,6 +473,15 @@
                 </mxCell>
                 <mxCell id="333" value="endDate" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
                     <mxGeometry x="690" y="640" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="338" style="edgeStyle=none;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="334" target="40">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="334" value="born" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="-515.31" y="220" width="95" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="335" value="nation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="-695" y="220" width="95" height="50" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
