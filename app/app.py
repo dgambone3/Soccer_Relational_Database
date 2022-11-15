@@ -15,7 +15,15 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'postgres://wpepkodmgckzze:02be78245346d
 db.init_app(app)
 
 @app.route('/')
-def hello():
+def index():
+  return render_template('page.html')
+
+@app.route('/demo')
+def index():
+  return render_template('app\demo_queries\templates\demo.html')
+
+@app.route('/form', methods=['GET','POST'])
+def hmt_form():
   
   form = ManagerTeamForm()
   if form.validate_on_submit():

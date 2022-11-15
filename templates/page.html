@@ -1,20 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Add a new manager</title>
-</head>
-<body>
+{% extends 'index.html' %}
+
+{% block content %}
+    <head>
+        <title>Add a new manager</title>
+    </head>
+    <body>
 
 
-    <h1>Add a new manager</h1>
+        <h1>Add a new manager</h1>
 
-    <form method="POST">
-        <div>{{ form.manager_name.label }}: {{ form.manager_name() }}</div>
-        <div>{{ form.team.label }}: {{ form.team() }}</div>
-        <div>{{ form.start_date.label }}: {{ form.start_date() }}</div>
-        <div>{{ form.end_date.label }}: {{ form.end_date() }}</div>
-        <div>{{ form.submit.label }}: {{ form.submit() }}</div>
-    </form>
-    {# a comment #}
-</body>
-</html>
+        <form method="POST">
+            <div>{{ form.manager_name.label }}: {{ form.manager_name() }}</div>
+            <div>{{ form.team.label }}: {{ form.team() }}</div>
+            <div>{{ form.start_date.label }}: {{ form.start_date() }}</div>
+            <div>{{ form.end_date.label }}: {{ form.end_date() }}</div>
+            <div>{{ form.submit.label }}: {{ form.submit() }}</div>
+        </form>
+        {# a comment #}
+    </body>
+
+{% endblock %}
