@@ -165,7 +165,6 @@ playerID,name,country,born
 717,Bafetimbi Gomis,France,1985
 719,Wayne Routledge,England,1985
 963,Eder,Italy,1986
-963,Eder,Portugal,1987
 712,Jack Cork,England,1989
 982,Tim Krul,Jersey,1988
 764,Daryl Janmaat,Jersey,1989
@@ -320,21 +319,18 @@ playerID,name,country,born
 743,Dwight Gayle,England,1990
 675,Jack Grealish,England,1995
 900,Adama Traore,Mali,1995
-900,Adama Traore,Spain,1996
 761,Gokhan Inler,Switzerland,1984
 756,Leonardo Ulloa,Argentina,1986
 653,Tom Carroll,England,1992
 540,Darren Randolph,Ireland,1987
 993,Serge Gnabry,Germany,1995
 687,Pedro,Spain,1987
-687,Pedro,Brazil,1997
 685,John Obi Mikel,Nigeria,1987
 876,Fabian Delph,England,1989
 948,Alessandro Diamanti,Italy,1983
 953,Steven Caulker,Sierra Leone,1991
 508,Calum Chambers,England,1995
 493,Gabriel,Brazil,1992
-493,Gabriel,Brazil,1993
 475,Lucas Leiva,Brazil,1987
 988,Jordan Rossiter,England,1997
 945,Marc Wilson,Ireland,1987
@@ -396,7 +392,6 @@ playerID,name,country,born
 483,Daniel Sturridge,England,1989
 624,Willy Caballero,Argentina,1981
 615,Fernando,Brazil,1987
-615,Fernando,Brazil,1992
 925,Patrick Roberts,England,1997
 835,Ryan Bertrand,England,1989
 956,Andrej Kramaric,Jersey,1991
@@ -519,7 +514,6 @@ playerID,name,country,born
 896,Jay Fulton,Scotland,1994
 490,Jon Flanagan,England,1993
 505,David Ospina,Colombia,1988
-906,Manu Garcia,Spain,1998
 906,Manu Garcia,Spain,1986
 893,Sebastien Pocognoli,Belgium,1987
 874,Andre Green,England,1998
