@@ -12,7 +12,7 @@ shots = pd.read_csv('data/shots.csv')
 players = pd.read_csv('data/players.csv', encoding='latin-1')
 managers = pd.read_csv('data/manager.csv', encoding_errors='replace')
 leagues = pd.read_csv('data/leagues.csv')
-playerDetails = pd.read_csv('data/playerDetails.csv')
+playerDetails = pd.read_csv('data/playerDetails.csv', encoding='latin-1')
 countryCodes = pd.read_csv('data/countryCodes.csv')
 
 
@@ -75,24 +75,24 @@ shots = shots.rename(columns={'assisterID': 'assistID'})
 leagues = leagues.rename(columns={'name': 'leagueName'})
 
 # 13. Merge playerDetails with countryCodes to add full country names to playerDetails
-c = pd.Series(countryCodes['country'].values)
 playerDetails = playerDetails.drop_duplicates(subset='name')
 playerDetails = playerDetails.merge(countryCodes, how='left', on='code')
 cols = ['name','country', 'born']
 playerDetails = playerDetails[cols]
 
 # 14. fill player details with random country where playerDetails[code] did not match a countryCode
-playerDetails[['country']] = playerDetails[['country']].fillna(value=np.random.choice(c))
+playerDetails = playerDetails.apply(lambda x: np.where(x.isnull(), x.dropna().sample(len(x), replace=True), x))
 
 # 15. merge playerDetails with players on players[name]
 players = players.merge(playerDetails, how='left', on='name')
 
 # 16. fill NaN player born with random value from playerDetails[born]
-y = pd.Series(playerDetails['born'].values)
-players[['born']] = players[['born']].fillna(np.random.choice(y))
+players = players.apply(lambda x: np.where(x.isnull(), x.dropna().sample(len(x), replace=True), x))
+
 
 # 17. fill NaN player country with random country from countryCodes[country]
-players[['country']] = players[['country']].fillna(value=np.random.choice(c))
+players = players.apply(lambda x: np.where(x.isnull(), x.dropna().sample(len(x), replace=True), x))
+
 
 players[['born']] = players[['born']].astype(int)
 
@@ -100,4 +100,4 @@ players[['born']] = players[['born']].astype(int)
 tables = [gameteam, games, teams, venues, managerteam, seasons, appearances, shots, players, managers, leagues]
 names = ['gameteam', 'game', 'team', 'venue', 'managerteam', 'season', 'appearance', 'shot', 'player', 'manager', 'league']
 for table, name in zip(tables, names):
-    table.to_csv('finalTables/{}.csv'.format(name), index=False)
+    table.to_csv('finalTables/{}.csv'.format(name), index=False, encoding='utf-8')
