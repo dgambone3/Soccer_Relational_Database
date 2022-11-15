@@ -17,7 +17,6 @@ class Manager(db.Model):
         db.session.add(self)
         db.session.commit()
 
-
 class Team(db.Model):
     __tablename__ = 'team'
 
@@ -28,7 +27,6 @@ class Team(db.Model):
     def save_team(self):
         db.session.add(self)
         db.session.commit()
-
 
 class ManagerTeam(db.Model):
     __tablename__ = 'managerteam'
@@ -71,7 +69,7 @@ def hmt_form():
                 )
 
     # Save game method
-    new_manager.save_manager() # TODO: write save methods for each model.
+    new_manager.save_manager() 
     new_team.save_team()
     new_managerteam.save_mt()
     
