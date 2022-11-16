@@ -6,8 +6,13 @@ from flask_sqlalchemy import SQLAlchemy
 from app.forms import ManagerTeamForm
 
 
-# create the extension
-db = SQLAlchemy()
+# create the db instance
+
+app = Flask(__name__, instance_relative_config=True)
+
+app.config.from_object('config')
+
+db = SQLAlchemy(app)
 class Manager(db.Model):
     __tablename__ = 'manager'
 
@@ -42,9 +47,6 @@ class ManagerTeam(db.Model):
         db.session.add(self)
         db.session.commit()
 
-app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://wpepkodmgckzze:02be78245346d6bc03fa4e5e667e3904529f762923b9ce6f3c5527cbf06c5858@ec2-34-230-153-41.compute-1.amazonaws.com:5432/d79mtf79npaf4h'
-app.secret_key = os.environ.get('SECRET_KEY', 'dev')
 db.init_app(app)
 
 @app.route('/', methods=['GET','POST'])
@@ -73,7 +75,7 @@ def mtform():
     # Save game method
     new_manager.save_manager() 
     new_team.save_team()
-    new_managerteam.save_mt()
+    new_managerteam.save_managerteam()
     
     return redirect(url_for('index'))
       

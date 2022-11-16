@@ -1,5 +1,5 @@
 from flask_wtf import FlaskForm
-from wtforms import StringField, IntegerField, DateField, SubmitField
+from wtforms import StringField, DateField, SubmitField
 from wtforms.validators import DataRequired
 
 class ManagerTeamForm(FlaskForm):
