@@ -13,6 +13,8 @@ app = Flask(__name__, instance_relative_config=True)
 app.config.from_object('config')
 
 db = SQLAlchemy(app)
+db.init_app(app)
+
 class Manager(db.Model):
     __tablename__ = 'manager'
 
@@ -47,7 +49,7 @@ class ManagerTeam(db.Model):
         db.session.add(self)
         db.session.commit()
 
-db.init_app(app)
+
 
 @app.route('/', methods=['GET','POST'])
 def index():
