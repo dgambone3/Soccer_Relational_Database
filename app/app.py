@@ -47,11 +47,11 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://wpepkodmgckzze:02be7824534
 app.secret_key = os.environ.get('SECRET_KEY', 'dev')
 db.init_app(app)
 
-@app.route('/')
+@app.route('/', methods=['GET','POST'])
 def index():
   return render_template('index.html')
 
-@app.route('/demo')
+@app.route('/demo', methods=['GET','POST'])
 def demo():
   return render_template('app/demo_queries/templates/demo.html')
 
