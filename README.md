@@ -10,6 +10,7 @@ interactions and relationships among teams, players, and managers over time.
 
 
 **TECHNOLOGIES**
+
 Project was created with: 
 * Python v3.8 
 * Pandas 
