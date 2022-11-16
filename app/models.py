@@ -1,4 +1,4 @@
-from . import db
+from app.app import db
 
 class Manager(db.Model):
     __tablename__ = 'manager'
