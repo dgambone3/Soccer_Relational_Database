@@ -9,9 +9,12 @@ provides an ideal structure for the chosen dataset given the amount of
 interactions and relationships among teams, players, and managers over time.
 
 
-##TECHNOLOGIES
+**TECHNOLOGIES**
 Project was created with: 
 * Python v3.8 
 * Pandas 
 * Numpy 
 * PostgreSQL using Heroku PostgreSQL deployment
+
+
+<img width="670" alt="ERD-light" src="https://user-images.githubusercontent.com/112014113/202067011-69160fae-1f72-4c67-bf63-1ab741e33842.png">
