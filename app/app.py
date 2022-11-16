@@ -4,7 +4,7 @@ import os
 from flask import Flask, render_template, redirect, url_for, request
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import func
-from forms import ManagerTeamForm
+from app.forms import ManagerTeamForm
 
 
 # create the db instance

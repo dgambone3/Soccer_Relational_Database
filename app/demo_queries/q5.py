@@ -3,17 +3,17 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
 
-df = pd.read_csv('https://data.heroku.com/dataclips/ylwuifcpwtcedgrwkhdngfkzdyoa.csv')
-fig = px.bar(df,x='team_name', y='championships',color='league')
+df5 = pd.read_csv('https://data.heroku.com/dataclips/ylwuifcpwtcedgrwkhdngfkzdyoa.csv')
+fig5 = px.bar(df5,x='team_name', y='championships',color='league')
 app = Dash(__name__)
 
 app.layout = html.Div([
     dash_table.DataTable(
         id='datatable-interactivity',
         columns=[
-            {"name": i, "id": i, "deletable": False, "selectable": True} for i in df.columns
+            {"name": i, "id": i, "deletable": False, "selectable": True} for i in df5.columns
         ],
-        data=df.to_dict('records'),
+        data=df5.to_dict('records'),
         editable=False,
         filter_action="native",
         sort_action="native",
@@ -36,7 +36,7 @@ app.layout = html.Div([
     html.Div(
         dcc.Graph(
         id='example-graph',
-        figure=fig,
+        fig5ure=fig5,
         style={'height':'500'}
         ),
         style = {
