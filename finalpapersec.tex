@@ -2,8 +2,13 @@
 Once the soccer data has been preprocessed into a set of tables in *.csv format, the database will be created and hosted on a cloud-based platform. For the purpose of our project, Heroku platform was chosen to host our soccer database, and potentially, a web UI for viewing and adding data.
 Based on its documentation, \begin{quote}
     'Heroku is a platform as a service based on a managed container system, with integrated data services and a powerful ecosystem, for deploying and running modern apps.' \cite{b10}
-\end{quote} Basically, a Heroku app server is the center element of a web-hosted project, with additional on-demand services such as data services, continuous integration, and security services attached to the app. In our case, we are using a Heroku app with Heroku Postgresql attached. The following steps describe  the process to successfully hosting the soccer database on the Heroku platform.
-
+\end{quote} Basically, a Heroku app server is the center element of a web-hosted project, with additional on-demand services such as data services, continuous integration, and security services attached to the app. In our case, we are using a Heroku app with Heroku Postgresql as an Add-on. The advantage of using Heroku platform is mainly for the convenience. Since the soccer data is not particularly large, we don't need to spend extra effort to host the database elsewhere and configure it from scratch. Heroku provides a web-based dashboard to monitor different services where we can access and view details of the Postgresql database with just a few clicks. The Postgresql add-on even provided a data-clip function that the database owner can run SQL queries and export the returned result as a *.csv file.
+To host the database on Heroku Postgresql, we need to first install the Heroku Cli and login through terminal. The detailed install instructions can be found in the official Heroku documentation \cite{b11}. The Heroku app server can be started by simply running the command at the root of the project repository: 
+\begin{verbatim}
+    heroku create
+    git push heroku main
+\end{verbatim}
+The next step is to add the Heroku Postgresql to the new app. 
 %- Brief introduction and Installing Heroku
 %    -Heroku Cli
 %    -Heroku Postgresql
