@@ -8,12 +8,30 @@ To host the database on Heroku Postgresql, we need to first install the Heroku C
     heroku create
     git push heroku main
 \end{verbatim}
-The next step is to add the Heroku Postgresql to the new app. 
+The next step is to add the Heroku Postgresql to the new app. Adding a Heroku Postgresql is quite simple by search and add the add-on using the add-on search bar inside the 'Resource' tab of the app dashboard. Once selecting the corresponding plans, a postgresql is created on the app server and is not online ad accessible. One way of creating and adding tables is through the Heroku Postgresql Cli. Start the psql tool interface at the terminal by calling: \begin{verbatim}
+    heroku pg:psql
+\end{verbatim} 
+Then we can run the CREATE SQL command for each existing tables. Using league table as an example, the CREATE command is:
+\begin{verbatim}
+    CREATE TABLE league
+    (
+        league_id integer NOT NULL,
+        league_name character varying(50) COLLATE pg_catalog."default",
+        CONSTRAINT league_pkey PRIMARY KEY (league_id)
+    )
+\end{verbatim}
+Alternatively, we can connect the database to PgAdmin to create the tables. The database credentials is located under the settings table of the database dashboard, and the detailed instructions to connect to PgAdmin is shown in the next section. 
+Once we have put in the schema of all the tables, we can use the COPY command to move the pre-processed data to the database:
+\begin{verbatim}
+    \copy league 
+    FROM \your\table\location\league.csv WITH (FORMAT CSV, DELIMITER ',', HEADER true);
+\end{verbatim}
+After migrating all data to the Heroku Pstgresql database, the database setup is complete and ready to use.
 %- Brief introduction and Installing Heroku
 %    -Heroku Cli
 %    -Heroku Postgresql
 %- Adding tables to the database using the heroku postgres cli
 \subsection{Using The Database}
-- Connecting to PG Admin 
-- Querying data and export
-    - use sample query as an example
+% - Connecting to PG Admin 
+% - Querying data and export
+%     - use sample query as an example
