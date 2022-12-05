@@ -1,14 +1,14 @@
 \subsection{Hosting Database on a Cloud Server}
-Once the soccer data has been preprocessed into a set of tables in *.csv format, the database will be created and hosted on a cloud-based platform. For the purpose of our project, Heroku platform was chosen to host our soccer database, and potentially, a web UI for viewing and adding data.
+Once the soccer data has been preprocessed into a set of tables in *.csv format, the database will be created and hosted on a cloud-based platform. For our project, Heroku platform was chosen to host our soccer database, and potentially, a web UI for viewing and adding data.
 Based on its documentation, \begin{quote}
     'Heroku is a platform as a service based on a managed container system, with integrated data services and a powerful ecosystem, for deploying and running modern apps.' \cite{b10}
-\end{quote} Basically, a Heroku app server is the center element of a web-hosted project, with additional on-demand services such as data services, continuous integration, and security services attached to the app. In our case, we are using a Heroku app with Heroku Postgresql as an Add-on. The advantage of using Heroku platform is mainly for the convenience. Since the soccer data is not particularly large, we don't need to spend extra effort to host the database elsewhere and configure it from scratch. Heroku provides a web-based dashboard to monitor different services where we can access and view details of the Postgresql database with just a few clicks. The Postgresql add-on even provided a data-clip function that the database owner can run SQL queries and export the returned result as a *.csv file.
-To host the database on Heroku Postgresql, we need to first install the Heroku Cli and login through terminal. The detailed install instructions can be found in the official Heroku documentation \cite{b11}. The Heroku app server can be started by simply running the command at the root of the project repository: 
+\end{quote} Basically, a Heroku app server is the center element of a web-hosted project, with additional on-demand services such as data services, continuous integration, and security services attached to the app. In our case, we are using a Heroku app with Heroku Postgresql as an Add-on. The advantage of using Heroku platform is mainly the convenience. Since the soccer data is not particularly large, we don't need to spend extra effort to host the database elsewhere and configure it from scratch. Heroku provides a web-based dashboard to monitor different services where we can access and view details of the Postgresql database with just a few clicks. The Postgresql add-on even provided a data-clip function that the database owner can run SQL queries and export the returned result as a *.csv file.
+To host the database on Heroku Postgresql, we need to first install the Heroku Cli and log in through the terminal. The detailed install instructions can be found in the official Heroku documentation \cite{b11}. The Heroku app server can be started by simply running the command at the root of the project repository: 
 \begin{verbatim}
     heroku create
     git push heroku main
 \end{verbatim}
-The next step is to add the Heroku Postgresql to the new app. Adding a Heroku Postgresql is quite simple by search and add the add-on using the add-on search bar inside the 'Resource' tab of the app dashboard. Once selecting the corresponding plans, a postgresql is created on the app server and is not online ad accessible. One way of creating and adding tables is through the Heroku Postgresql Cli. Start the psql tool interface at the terminal by calling: \begin{verbatim}
+The next step is to add the Heroku Postgresql to the new app. Adding a Heroku Postgresql is quite simple to search and add the add-on using the add-on search bar inside the 'Resource' tab of the app dashboard. Once selecting the corresponding plans, a PostgreSQL is created on the app server and is not online ad accessible. One way of creating and adding tables is through the Heroku Postgresql Cli. Start the psql tool interface at the terminal by calling: \begin{verbatim}
     heroku pg:psql
 \end{verbatim} 
 Then we can run the CREATE SQL command for each existing tables. Using league table as an example, the CREATE command is:
@@ -20,7 +20,7 @@ Then we can run the CREATE SQL command for each existing tables. Using league ta
         CONSTRAINT league_pkey PRIMARY KEY (league_id)
     )
 \end{verbatim}
-Alternatively, we can connect the database to PgAdmin to create the tables. The database credentials is located under the settings table of the database dashboard, and the detailed instructions to connect to PgAdmin is shown in the next section. 
+Alternatively, we can connect the database to PgAdmin to create the tables. The database credentials are located under the settings table of the database dashboard, and the detailed instructions to connect to PgAdmin are shown in the next section. 
 Once we have put in the schema of all the tables, we can use the COPY command to move the pre-processed data to the database:
 \begin{verbatim}
     \copy league 
@@ -32,6 +32,7 @@ After migrating all data to the Heroku Pstgresql database, the database setup is
 %    -Heroku Postgresql
 %- Adding tables to the database using the heroku postgres cli
 \subsection{Using The Database}
+The owner of the app 
 % - Connecting to PG Admin 
 % - Querying data and export
 %     - use sample query as an example
