@@ -44,3 +44,5 @@ The database is now loaded to pgAdmin and the credentials can be saved to reconn
 A Flask-based web user interface was created to provide easy data manipulation utilizing the Python Flask-SQLalchemy to directly query the database. For the limited amount of project time, the web-based user interface only has the capability able to add a new manager to the database, but all additions and deletions are consistent for all tables.
 
 [Link to the App](https://damp-eyrie-64951.herokuapp.com/)
+
+Note: The app server is turned off by Heroku due to the exhaustion of dynos.
