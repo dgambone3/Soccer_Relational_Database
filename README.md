@@ -35,9 +35,14 @@ Other users can also query the football database by connecting through pgAdmin. 
 * Port
 
 ![PostgreSQL Database Credentials](docs/database_settings.png)
+
 The corresponding location to fill into PgAdmin 'register database'
-wizard is shown in Figure [3].![The 'Register-Server' Interface in pgAdmin 4.](docs/connection_settings.png) 
-Additionally, the visibility of the database needs to be restricted by adding the database name to the 'DB restriction' item under the advanced tab, see Figure [4]. ![Limit Visibility To The Football Database Only](docs/isolate_db.png) 
+wizard is shown in Figure [3].
+![The 'Register-Server' Interface in pgAdmin 4.](docs/connection_settings.png)
+
+Additionally, the visibility of the database needs to be restricted by adding the database name to the 'DB restriction' item under the advanced tab, see Figure [4].
+![Limit Visibility To The Football Database Only](docs/isolate_db.png)
+
 The database is now loaded to pgAdmin and the credentials can be saved to reconnect to the database as needed.
 
 ## Web UI (Under Construction)
