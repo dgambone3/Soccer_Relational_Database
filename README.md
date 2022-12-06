@@ -1,12 +1,6 @@
 # database-grad-project-fall-22
 ## INTRODUCTION
-This project organizes data from a Kaggle dataset that consists of information
-about teams, players, and games from European football. The dataset focuses on the top five
-European leagues for the 2014-2020 seasons which includes Premier League of England,
-Serie A of Italy, Bundesliga of Germany, La Liga of Spain, and Ligue 1
-of France. The data is organized as a relational model as it
-provides an ideal structure for the chosen dataset given the amount of
-interactions and relationships among teams, players, and managers over time.
+This project organizes data from a Kaggle dataset that consists of information about teams, players, and games from European football. The dataset focuses on the top five European leagues for the 2014-2020 seasons which include Premier League of England, Serie A of Italy, Bundesliga of Germany, La Liga of Spain, and Ligue 1 of France. The data is organized as a relational model as it provides an ideal structure for the chosen dataset given the number of interactions and relationships among teams, players, and managers over time.
 
 ### TECHNOLOGIES
 

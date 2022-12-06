@@ -19,7 +19,7 @@ fig6 = px.line(df6,x='year', y='days_duration', color='league_name', markers=Tru
 
 
 
-app = Dash(__name__)
+
 
 app.layout = html.Div([
     dash_table.DataTable(
@@ -240,17 +240,3 @@ app.layout = html.Div([
     )
 ])
 
-# @app.callback(
-#     Output('datatable-interactivity', 'style_data_conditional'),
-#     Input('datatable-interactivity', 'selected_columns')
-# )
-# def update_styles(selected_columns):
-#     return [{
-#         'if': { 'column_id': i },
-#         'background_color': '#D2F3FF'
-#     } for i in selected_columns]
-
-
-
-if __name__ == '__main__':
-    app.run_server(debug=True)
